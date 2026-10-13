@@ -1,5 +1,7 @@
 # B2AGI Libro blanco de la IA física 2027
 
+Guía ilustrada del libro blanco · Cinco partes · 46 capítulos
+
 **Industria, capital, seguridad y cooperación internacional**
 
 [English](../../README.md) · [한국어](../ko/README.md) · [简体中文](../zh-CN/README.md) · [Español](README.md) · [Français](../fr/README.md)

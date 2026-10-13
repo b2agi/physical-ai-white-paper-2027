@@ -1,5 +1,7 @@
 # B2AGI 피지컬 AI 백서 2027
 
+이미지와 해설로 읽는 백서 · 5부·46장
+
 **산업·자본·보안·국제협력**
 
 [English](../../README.md) · [한국어](README.md) · [简体中文](../zh-CN/README.md) · [Español](../es/README.md) · [Français](../fr/README.md)

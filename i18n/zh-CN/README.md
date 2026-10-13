@@ -1,5 +1,7 @@
 # B2AGI 物理人工智能白皮书 2027
 
+白皮书图文导读 · 五部分 · 46章
+
 **产业、资本、安全与国际合作**
 
 [English](../../README.md) · [한국어](../ko/README.md) · [简体中文](README.md) · [Español](../es/README.md) · [Français](../fr/README.md)
