@@ -14,4 +14,4 @@ Envío, despliegue y operación aceptada pueden describir logros distintos. Las 
 
 [Anterior](37-trace-records-of-action-and-change.md) · [Índice](../README.md) · [Siguiente](39-from-evidence-to-decisions.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

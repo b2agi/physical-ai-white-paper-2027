@@ -14,4 +14,4 @@ El ecosistema chino conecta política industrial, financiación, infraestructura
 
 [Anterior](08-reading-the-field.md) · [Índice](../README.md) · [Siguiente](10-china-s-industrial-clusters.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

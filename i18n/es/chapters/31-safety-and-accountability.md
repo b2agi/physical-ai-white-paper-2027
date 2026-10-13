@@ -14,4 +14,4 @@ La seguridad comienza en el diseño y continúa en la integración, la operació
 
 [Anterior](30-what-makes-an-investment-work.md) · [Índice](../README.md) · [Siguiente](32-securing-physical-ai.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

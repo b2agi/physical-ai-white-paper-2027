@@ -14,4 +14,4 @@ B2AGI 物理人工智能白皮书 2027 · Beyond
 
 [上一章](41-environmental-impact-and-public-value.md) · [目录](../README.md) · [下一章](43-operating-through-disconnection.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [版本与资料](../../../EDITION.md)

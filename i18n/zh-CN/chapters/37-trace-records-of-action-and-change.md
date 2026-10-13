@@ -14,4 +14,4 @@ B2AGI 物理人工智能白皮书 2027 · Trust
 
 [上一章](36-standards-certification-and-assurance.md) · [目录](../README.md) · [下一章](38-a-common-language-for-work-and-evidence.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [版本与资料](../../../EDITION.md)

@@ -14,4 +14,4 @@ Une visite montre des moments précis du travail. Les relier aux conditions d’
 
 [Précédent](07-who-needs-physical-ai.md) · [Sommaire](../README.md) · [Suivant](09-china-building-an-industry.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

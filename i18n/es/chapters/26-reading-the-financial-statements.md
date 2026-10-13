@@ -14,4 +14,4 @@ Pedidos, envíos, ingresos y efectivo describen hechos distintos. El análisis f
 
 [Anterior](25-revenue-margins-and-value-capture.md) · [Índice](../README.md) · [Siguiente](27-financing-robot-assets.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

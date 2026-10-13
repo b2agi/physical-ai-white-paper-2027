@@ -14,4 +14,4 @@ Les centres de recherche et d’essai permettent de développer et de valider le
 
 [Précédent](14-korea-from-manufacturing-strength-to-new-markets.md) · [Sommaire](../README.md) · [Suivant](16-manufacturing-and-logistics-where-automation-pays.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

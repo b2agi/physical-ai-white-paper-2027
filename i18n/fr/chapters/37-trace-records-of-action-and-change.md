@@ -14,4 +14,4 @@ Les décisions sont plus faciles à réexaminer lorsque leurs éléments de preu
 
 [Précédent](36-standards-certification-and-assurance.md) · [Sommaire](../README.md) · [Suivant](38-a-common-language-for-work-and-evidence.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

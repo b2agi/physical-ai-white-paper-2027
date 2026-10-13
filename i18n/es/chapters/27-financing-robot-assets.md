@@ -14,4 +14,4 @@ La financiación depende de quién posee, opera, mantiene y puede reasignar el e
 
 [Anterior](26-reading-the-financial-statements.md) · [Índice](../README.md) · [Siguiente](28-robot-assets-rwa-sto-and-tokenization.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

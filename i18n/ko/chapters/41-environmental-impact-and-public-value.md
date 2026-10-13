@@ -16,4 +16,4 @@ B2AGI 피지컬 AI 백서 2027 · Beyond
 
 [이전 장](40-work-skills-and-the-automation-transition.md) · [목차](../README.md) · [다음 장](42-new-bodies-continuing-intelligence.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [판본·자료 안내](../../../EDITION.md)

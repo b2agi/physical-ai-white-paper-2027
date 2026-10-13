@@ -14,4 +14,4 @@ Commandes, expéditions, chiffre d’affaires et trésorerie décrivent des év�
 
 [Précédent](25-revenue-margins-and-value-capture.md) · [Sommaire](../README.md) · [Suivant](27-financing-robot-assets.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

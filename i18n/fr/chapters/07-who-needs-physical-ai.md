@@ -14,4 +14,4 @@ Les clients ont un travail à terminer. Il faut déterminer où l’IA physique 
 
 [Précédent](06-from-demonstration-to-deployment.md) · [Sommaire](../README.md) · [Suivant](08-reading-the-field.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

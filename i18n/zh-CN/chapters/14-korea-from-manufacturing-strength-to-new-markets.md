@@ -14,4 +14,4 @@ B2AGI 物理人工智能白皮书 2027 · Physical
 
 [上一章](13-america-s-industrial-clusters.md) · [目录](../README.md) · [下一章](15-korea-s-industrial-clusters.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [版本与资料](../../../EDITION.md)

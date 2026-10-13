@@ -14,4 +14,4 @@ La force d’un pôle tient au travail échangé entre chercheurs, fournisseurs,
 
 [Précédent](09-china-building-an-industry.md) · [Sommaire](../README.md) · [Suivant](11-china-companies-and-customers.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

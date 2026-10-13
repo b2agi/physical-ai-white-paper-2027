@@ -14,4 +14,4 @@ La experiencia útil conecta observaciones, acciones y resultados. Su valor depe
 
 [Anterior](03-from-models-to-action.md) · [Índice](../README.md) · [Siguiente](05-physical-ai-value-chain.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

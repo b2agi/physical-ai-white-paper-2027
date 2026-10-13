@@ -14,4 +14,4 @@ Un caso exitoso en otro mercado ofrece un punto de partida. La adopción local d
 
 [Anterior](19-comparing-china-america-and-korea.md) · [Índice](../README.md) · [Siguiente](21-public-funding-from-policy-to-practice.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

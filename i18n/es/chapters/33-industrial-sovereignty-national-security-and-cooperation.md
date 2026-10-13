@@ -14,4 +14,4 @@ La resiliencia depende de mantener funciones críticas y poner alternativas en m
 
 [Anterior](32-securing-physical-ai.md) · [Índice](../README.md) · [Siguiente](34-identity-delegation-and-authority.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

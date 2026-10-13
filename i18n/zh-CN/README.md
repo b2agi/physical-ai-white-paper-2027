@@ -89,13 +89,13 @@
 
 ## 查看 Atlas
 
-- [Countries 20](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/zh-CN/COUNTRIES.md)
-- [Clusters 20](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/zh-CN/CLUSTERS.md)
-- [Current 100](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/zh-CN/CURRENT_100.md)
-- [Next 100](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/zh-CN/NEXT_100.md)
-- [Influence 50](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/zh-CN/INFLUENCE_50.md)
-- [Ecosystem Builders 50](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/zh-CN/ECOSYSTEM_BUILDERS_50.md)
-- [Institutions 50](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/zh-CN/INSTITUTIONS_50.md)
+- [国家20](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/zh-CN/COUNTRIES.md)
+- [城市与集群20](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/zh-CN/CLUSTERS.md)
+- [主要企业100](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/zh-CN/CURRENT_100.md)
+- [Next 100企业](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/zh-CN/NEXT_100.md)
+- [影响力人物50](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/zh-CN/INFLUENCE_50.md)
+- [生态建设人物50](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/zh-CN/ECOSYSTEM_BUILDERS_50.md)
+- [机构50](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/zh-CN/INSTITUTIONS_50.md)
 
 ## 引用方式
 
@@ -103,4 +103,4 @@
 
 B2AGI. *Physical AI White Paper 2027: Illustrated Chapter Guide*. 2027 edition; reading-guide release: 14 October 2026.
 
-[Edition & sources](../../EDITION.md) · [Rights](../../RIGHTS.md) · [Chapter data](../../data/chapters.json)
+[版本与资料](../../EDITION.md) · [使用条件](../../RIGHTS.md) · [章节数据](../../data/chapters.json)

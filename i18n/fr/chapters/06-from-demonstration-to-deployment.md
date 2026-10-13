@@ -14,4 +14,4 @@ Une démonstration réussie est un point de départ. Le déploiement dépend de 
 
 [Précédent](05-physical-ai-value-chain.md) · [Sommaire](../README.md) · [Suivant](07-who-needs-physical-ai.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

@@ -14,4 +14,4 @@ Un annuaire gagne en valeur lorsque ses appréciations peuvent être réexaminé
 
 [Précédent](45-coexistence-with-non-human-intelligences.md) · [Sommaire](../README.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

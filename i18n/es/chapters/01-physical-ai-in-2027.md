@@ -14,4 +14,4 @@ La tecnología avanza a un ritmo y los clientes trabajan a otro. La IA física s
 
 [Índice](../README.md) · [Siguiente](02-choosing-the-right-body.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

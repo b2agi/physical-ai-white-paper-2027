@@ -14,4 +14,4 @@ Faut-il adapter la machine au lieu de travail ou le lieu à la machine ? Le choi
 
 [Précédent](01-physical-ai-in-2027.md) · [Sommaire](../README.md) · [Suivant](03-from-models-to-action.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

@@ -14,4 +14,4 @@ Une technologie solide, une activité viable et un investissement attractif exig
 
 [Précédent](29-the-agent-transaction-economy.md) · [Sommaire](../README.md) · [Suivant](31-safety-and-accountability.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

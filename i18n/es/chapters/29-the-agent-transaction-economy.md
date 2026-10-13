@@ -14,4 +14,4 @@ Cuando los agentes organizan trabajo o pagos, la delegación forma parte de la t
 
 [Anterior](28-robot-assets-rwa-sto-and-tokenization.md) · [Índice](../README.md) · [Siguiente](30-what-makes-an-investment-work.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

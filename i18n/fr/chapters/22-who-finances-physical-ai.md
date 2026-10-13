@@ -14,4 +14,4 @@ Investisseurs, prêteurs, clients et institutions publiques financent des engage
 
 [Précédent](21-public-funding-from-policy-to-practice.md) · [Sommaire](../README.md) · [Suivant](23-why-customers-buy-again.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

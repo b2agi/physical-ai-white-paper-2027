@@ -14,4 +14,4 @@ Arriver à destination ne suffit pas toujours. La mobilité autonome doit aussi 
 
 [Précédent](16-manufacturing-and-logistics-where-automation-pays.md) · [Sommaire](../README.md) · [Suivant](18-physical-ai-in-everyday-life.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

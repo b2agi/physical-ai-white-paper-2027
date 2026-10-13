@@ -14,4 +14,4 @@ Les fonds publics peuvent soutenir la recherche, les infrastructures, les achats
 
 [Précédent](20-from-global-examples-to-local-deployment.md) · [Sommaire](../README.md) · [Suivant](22-who-finances-physical-ai.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

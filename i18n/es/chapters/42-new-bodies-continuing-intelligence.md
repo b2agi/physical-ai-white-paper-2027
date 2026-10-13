@@ -14,4 +14,4 @@ La experiencia previa puede seguir siendo útil tras un cambio de hardware o sof
 
 [Anterior](41-environmental-impact-and-public-value.md) · [Índice](../README.md) · [Siguiente](43-operating-through-disconnection.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

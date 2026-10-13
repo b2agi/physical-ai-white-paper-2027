@@ -14,4 +14,4 @@ Un déploiement réussi ailleurs offre un point de départ. L’adoption locale 
 
 [Précédent](19-comparing-china-america-and-korea.md) · [Sommaire](../README.md) · [Suivant](21-public-funding-from-policy-to-practice.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

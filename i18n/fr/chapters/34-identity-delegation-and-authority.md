@@ -14,4 +14,4 @@ Identifier un système ne suffit pas à définir ses droits d’action. Une dél
 
 [Précédent](33-industrial-sovereignty-national-security-and-cooperation.md) · [Sommaire](../README.md) · [Suivant](35-the-regulatory-landscape.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

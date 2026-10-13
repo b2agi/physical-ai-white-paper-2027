@@ -14,4 +14,4 @@ Inversores, prestamistas, clientes e instituciones públicas financian compromis
 
 [Anterior](21-public-funding-from-policy-to-practice.md) · [Índice](../README.md) · [Siguiente](23-why-customers-buy-again.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

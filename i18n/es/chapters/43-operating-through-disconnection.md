@@ -14,4 +14,4 @@ En entornos remotos, la conectividad y el soporte son inciertos. Los sistemas ne
 
 [Anterior](42-new-bodies-continuing-intelligence.md) · [Índice](../README.md) · [Siguiente](44-the-moon-and-mars-what-exploration-demands.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

@@ -14,4 +14,4 @@ Le financement dépend de la propriété, de l’exploitation, de la maintenance
 
 [Précédent](26-reading-the-financial-statements.md) · [Sommaire](../README.md) · [Suivant](28-robot-assets-rwa-sto-and-tokenization.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

@@ -14,4 +14,4 @@ La latencia, la energía limitada y las reparaciones difíciles condicionan la p
 
 [Anterior](43-operating-through-disconnection.md) · [Índice](../README.md) · [Siguiente](45-coexistence-with-non-human-intelligences.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

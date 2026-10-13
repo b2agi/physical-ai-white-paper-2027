@@ -14,4 +14,4 @@ Una buena tecnología, un negocio viable y una inversión atractiva exigen juici
 
 [Anterior](29-the-agent-transaction-economy.md) · [Índice](../README.md) · [Siguiente](31-safety-and-accountability.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

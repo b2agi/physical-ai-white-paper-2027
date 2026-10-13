@@ -14,4 +14,4 @@ La investigación, la fabricación, la financiación y el soporte suelen estar e
 
 [Anterior](12-america-models-capital-and-customers.md) · [Índice](../README.md) · [Siguiente](14-korea-from-manufacturing-strength-to-new-markets.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

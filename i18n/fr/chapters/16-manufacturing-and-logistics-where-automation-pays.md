@@ -14,4 +14,4 @@ Le client achète un processus accompli. Dans les usines et les entrepôts, l’
 
 [Précédent](15-korea-s-industrial-clusters.md) · [Sommaire](../README.md) · [Suivant](17-intelligence-in-motion.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

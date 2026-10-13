@@ -14,4 +14,4 @@ Comprender una petición es solo el principio. El trabajo físico exige observar
 
 [Anterior](02-choosing-the-right-body.md) · [Índice](../README.md) · [Siguiente](04-the-robot-learning-industry.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

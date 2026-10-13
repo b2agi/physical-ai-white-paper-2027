@@ -14,4 +14,4 @@ Saber qué sistema actúa no determina qué puede hacer. Una delegación fiable 
 
 [Anterior](33-industrial-sovereignty-national-security-and-cooperation.md) · [Índice](../README.md) · [Siguiente](35-the-regulatory-landscape.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

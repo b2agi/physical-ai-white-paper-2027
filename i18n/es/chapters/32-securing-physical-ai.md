@@ -14,4 +14,4 @@ Los cambios en datos, cuentas o instrucciones pueden alterar la conducta de una 
 
 [Anterior](31-safety-and-accountability.md) · [Índice](../README.md) · [Siguiente](33-industrial-sovereignty-national-security-and-cooperation.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

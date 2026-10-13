@@ -14,4 +14,4 @@ B2AGI Libro blanco de la IA física 2027 · Intelligence
 
 [Anterior](01-physical-ai-in-2027.md) · [Índice](../README.md) · [Siguiente](03-from-models-to-action.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

@@ -14,4 +14,4 @@ Le renouvellement d’un achat révèle ce que le client souhaite conserver. Il 
 
 [Précédent](22-who-finances-physical-ai.md) · [Sommaire](../README.md) · [Suivant](24-the-true-cost-of-a-task.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

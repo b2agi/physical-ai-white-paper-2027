@@ -14,4 +14,4 @@ La recompra muestra qué considera valioso el cliente. Depende de los resultados
 
 [Anterior](22-who-finances-physical-ai.md) · [Índice](../README.md) · [Siguiente](24-the-true-cost-of-a-task.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

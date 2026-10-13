@@ -14,4 +14,4 @@ La investigación, la computación y el capital aportan una base sólida. La int
 
 [Anterior](11-china-companies-and-customers.md) · [Índice](../README.md) · [Siguiente](13-america-s-industrial-clusters.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

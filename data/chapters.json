@@ -209,7 +209,7 @@
       },
       "guides": {
         "en": "China’s Physical AI ecosystem connects policy, industrial funding, training infrastructure, and manufacturers. The next question is how that growing capacity translates into reusable experience and recurring customer demand.",
-        "ko": "CAICT의 불완전 통계는 2025년 12월 말 훈련장 30곳 이상, 면적 공개 21곳 합계 10만㎡ 이상을 기록한다. 베이징 1기 3,000㎡의 열 장면과 2기 6,000㎡의 네 분야·열여섯 장면, 상하이 장장의 10여 기업·100여 로봇은 서로 다른 경험을 생산하려는 구성이다. 넓이와 로봇 수가 데이터의 재사용 가치를 대신하지 않는다.\n\n건설·공동 운영 주체의 내부 학습과 외부 데이터 판매는 다른 성과다. 톈진 파시니의 1.2만㎡ 기업 데이터 공장도 운영 구조를 따로 읽는다. 지원 발표 총액과 실제 집행·수령·사용 조건은 별도 기록이다.",
+        "ko": "중국의 피지컬 AI 산업에서는 정책과 산업자금, 훈련 시설, 제조기업이 함께 움직인다. 늘어난 시설과 생산능력이 어떤 경험을 축적하고, 그 경험이 고객의 지속적인 수요로 이어지는지 살펴본다.",
         "zh-CN": "中国的物理人工智能生态连接政策、产业资金、训练设施和制造商。关键在于新增能力如何转化为可复用经验和持续客户需求。",
         "es": "El ecosistema chino conecta política industrial, financiación, infraestructuras de entrenamiento y fabricantes. La cuestión es cómo esa capacidad se traduce en experiencia reutilizable y demanda recurrente.",
         "fr": "L’écosystème chinois relie politique industrielle, financement, infrastructures d’entraînement et fabricants. L’enjeu est de transformer ces capacités en expérience réutilisable et en demande récurrente."
@@ -232,7 +232,7 @@
       },
       "guides": {
         "en": "Industrial clusters gain strength through the work exchanged between researchers, suppliers, manufacturers, and customers. Understanding those connections gives each city a more useful meaning than a company count alone.",
-        "ko": "이는 조사 진입로이지 도시의 배역표가 아니다. 같은 도시에도 연구·부품·제품·고객이 함께 있고 기업은 여러 도시를 활용한다. 기업 수, 판매량, 고객 경험이 깊게 쌓이는 장소는 같지 않을 수 있다.\n\n상하이 장장의 다기업 훈련장과 푸둥의 AgiBot 자체 데이터 공장은 다른 접근 조건을 갖는다. 공용 기반과 내부 자산은 규모가 비슷해도 외부 협력자에게 열리는 범위가 다르다.",
+        "ko": "연구기관과 부품업체, 제조기업, 고객이 어떤 일을 주고받는지 보면 도시의 산업적 역할이 드러난다. 기업 수만으로는 이 관계를 알기 어렵다. 같은 도시 안에서도 공용 훈련장과 기업 내부 데이터 시설은 접근 조건과 활용 방식이 다르다.",
         "zh-CN": "研究机构、供应商、制造商和客户之间的业务往来构成集群的力量。理解这些联系，比单看企业数量更能说明一座城市的产业位置。",
         "es": "La fuerza de un clúster procede del trabajo compartido entre investigadores, proveedores, fabricantes y clientes. Esas relaciones explican mejor el papel de una ciudad que el mero número de empresas.",
         "fr": "La force d’un pôle tient au travail échangé entre chercheurs, fournisseurs, fabricants et clients. Ces liens éclairent le rôle d’une ville mieux qu’un simple décompte d’entreprises."
@@ -255,7 +255,7 @@
       },
       "guides": {
         "en": "A robot purchased for research serves a different purpose from one purchased for daily operations. Reading Chinese robotics companies means following customer needs, support obligations, and the economics after delivery.",
-        "ko": "플랫폼과 운영 SW는 배차·충전·장애·권한을 조율한다. 공통 기능을 재사용하면 반복 매출을 만들 수 있지만 고객별 맞춤 개발과 지원이 같이 늘면 비용도 커진다. CAICT/AIIA 352개사를 세 사업군으로 재정렬한 것은 B2AGI 분석 축이지 원전의 새로운 기업 수 분류가 아니다.",
+        "ko": "연구용 로봇을 사는 고객과 매일 업무를 맡기려는 고객은 요구가 다르다. 중국 로봇기업을 읽을 때도 누구에게 무엇을 팔고, 납품 뒤 어떤 지원을 맡으며, 그 비용을 누가 부담하는지 함께 봐야 한다.",
         "zh-CN": "科研采购与日常运营采购服务于不同目的。理解机器人企业，需要追踪客户需求、交付后的支持义务和运营经济性。",
         "es": "Comprar un robot para investigación no responde a la misma necesidad que comprarlo para operar a diario. Analizar estas empresas exige seguir las necesidades del cliente, el soporte y la economía posterior a la entrega.",
         "fr": "Un robot acheté pour la recherche ne répond pas au même besoin qu’un robot destiné aux opérations quotidiennes. L’analyse doit suivre les besoins du client, les obligations d’assistance et l’économie après livraison."
@@ -278,7 +278,7 @@
       },
       "guides": {
         "en": "Research, computing, and capital create powerful foundations. Customer deployment adds integration, maintenance, and operating demands that determine whether those foundations become a repeatable business.",
-        "ko": "가속 컴퓨팅·시뮬레이션·합성 데이터·디지털 트윈·클라우드는 개발 공급망이다. Siemens와 NVIDIA의 2025년 협력 방향은 고객의 배치 기간과 시험·재작업 비용으로 추적한다. 특정 하드웨어와 도구에 맞춘 개발이 많으면 공급자 전환비가 절감을 상쇄할 수 있다. 오류 진단 정보와 복구 권한도 운영비의 조건이다.",
+        "ko": "미국의 연구 역량과 컴퓨팅 인프라, 자본은 제품 개발의 기반이다. 고객 현장에서는 여기에 통합·정비·운영 비용이 더해진다. 개발 단계의 강점이 반복 가능한 사업으로 이어지는지는 이 조건까지 확인해야 알 수 있다.",
         "zh-CN": "研究、算力和资本奠定基础。客户部署带来的集成、维护与运营要求，决定了这些基础能否支撑可重复的业务。",
         "es": "La investigación, la computación y el capital aportan una base sólida. La integración, el mantenimiento y las exigencias del cliente determinan si esa base sostiene un negocio repetible.",
         "fr": "La recherche, le calcul et les capitaux constituent des bases solides. L’intégration, la maintenance et les exigences d’exploitation déterminent si elles permettent une activité reproductible."
@@ -324,7 +324,7 @@
       },
       "guides": {
         "en": "Korea’s manufacturing experience provides detailed knowledge of real production tasks. Turning that knowledge into products for external customers requires reusable integration, documentation, and support.",
-        "ko": "현대차그룹의 원고 인용 2026 CES 발표는 HMGMA 활용과 2028년 시퀀싱 시작 계획이다. 발표된 로드맵을 현재 운영 실적으로 바꾸지 않는다. 2021년 Boston Dynamics 인수 완료 당시 80%와 2026년 7월 잔여 지분 인수 추진·내부 승인 절차는 확정 거래와 후속 추진으로 구분한다.\n\n삼성의 2024-12-31 레인보우 지분 35% 확대 발표는 기술과 제조·물류 수요를 연결하는 방향이다. 협동로봇·양팔 모바일 매니퓰레이터·AMR 같은 여러 몸이 포함된다. 지분 참여가 자원 배분에 영향을 줄 수 있지만 제품 개발·고객 매출은 별도의 결과다.",
+        "ko": "한국 제조업에는 실제 생산 작업에서 쌓은 경험이 있다. 이를 외부 고객에게 판매할 제품으로 만들려면 통합 방식과 문서, 지원 체계를 다른 현장에서도 다시 쓸 수 있어야 한다. 내부 공장에서 잘 작동하는 것과 여러 고객에게 공급하는 것은 서로 다른 과제다.",
         "zh-CN": "韩国的制造经验积累了对生产任务的细致理解。把这些经验转化为面向外部客户的产品，需要可复用的集成方案、文档和支持体系。",
         "es": "La experiencia manufacturera aporta un conocimiento detallado de las tareas de producción. Convertirlo en productos para clientes externos requiere integración reutilizable, documentación y soporte.",
         "fr": "L’expérience manufacturière apporte une connaissance précise des tâches de production. La transformer en produits pour d’autres clients exige une intégration réutilisable, de la documentation et une assistance adaptée."
@@ -557,7 +557,7 @@
         "ko": "같은 가격의 기계 두 대가 같은 비용의 작업을 만들지는 않는다. 한쪽은 기존 설비에 들어가고 다른 쪽은 물체의 배치와 안전 구역을 다시 만든다. 한쪽은 고객의 정비팀이 돌보고 다른 쪽은 전문 지원자를 부른다. 고객이 사는 것은 기체만이 아니라 그 기체·주변 설비·사람의 역할로 구성된 완료 결과다.\n\n이 장의 한 문장 판단은 간단하다. 가격표보다, 인수된 한 작업의 전체 비용. 다만 비용이 가장 낮은 후보가 고객의 모든 목적에 가장 적합한 후보인 것은 아니다. 안전·서비스 연속성·돌봄의 선택권에는 별도의 결과 지표가 필요하다.",
         "zh-CN": "采购价只是其中一项。每项通过验收的任务成本，还包括集成、监督、维护、停机，以及系统实际完成的有效工作量。",
         "es": "El precio de compra es solo una parte. El coste por tarea aceptada también depende de la integración, la supervisión, el mantenimiento, las paradas y el volumen de trabajo útil realmente completado.",
-        "fr": "Le prix d’achat n’est qu’un élément. Le coût par tâche réceptionnée dépend aussi de l’intégration, de la supervision, de la maintenance, des arrêts et du volume de travail utile réellement accompli."
+        "fr": "Le prix d’achat n’est qu’un élément. Le coût par tâche acceptée par le client dépend aussi de l’intégration, de la supervision, de la maintenance, des arrêts et du volume de travail utile réellement accompli."
       },
       "images": [
         "assets/chapters/24-the-true-cost-of-a-task-01.png",
@@ -807,7 +807,7 @@
       },
       "guides": {
         "en": "Regulatory requirements follow the product’s function, use, location, and responsible parties. Mapping those conditions helps connect development decisions with market entry and ongoing operations.",
-        "ko": "규칙이 만나는 지점은 제품 안에서 기술이 맡은 기능과 고객이 맡기는 업무다. 작품의 보도 배송과 시설 내 운반은 그 차이를 보여주는 가상 맥락이다. 치료 기능이나 특정 법적 분류, 적합성 완료를 표시한 사례가 아니다.\n\n기계 안전, 제품 책임, 산업 안전, 개인정보, 사이버보안, 교통·항공, 의료, AI 규칙과 계약은 사용처에 따라 겹친다. 같은 기술이어도 연구개발에서 출시·설치·운영·사고 대응·데이터 사용으로 넘어가면 담당 기관과 요구가 달라질 수 있다.",
+        "ko": "적용되는 규칙은 제품의 기능과 용도, 사용 장소, 책임 주체에 따라 달라진다. 이 조건을 먼저 정리해야 개발 단계의 선택을 시장 진입과 운영 요건에 연결할 수 있다.",
         "zh-CN": "监管要求取决于产品功能、用途、地点和责任主体。梳理这些条件，有助于把开发决策与市场准入和持续运营连接起来。",
         "es": "Los requisitos dependen de la función, el uso, la ubicación y los responsables del producto. Identificar esas condiciones conecta las decisiones de desarrollo con el acceso al mercado y la operación continuada.",
         "fr": "Les exigences dépendent de la fonction du produit, de son usage, du lieu et des parties responsables. Les préciser relie les choix de développement à l’accès au marché et à l’exploitation dans la durée."
@@ -830,7 +830,7 @@
       },
       "guides": {
         "en": "A test result has a scope. Standards and assurance help make that scope understandable, while changes in software, equipment, and operating conditions determine what needs to be checked again.",
-        "ko": "같은 판본의 기체라도 바뀐 물체·공간·사람 동선에서 같은 결과를 낸다고 단정할 수 없다. 기록이 있는 범위는 재사용하고 차이가 생긴 범위는 추가로 검토한다. 작품의 빈 기록함은 실패 판정이 아니라 아직 필요한 근거의 자리다.\n\n로봇 도입은 사람과 설비의 위험을 관리하며 약속한 작업을 반복해 끝낼 때 성립한다. 정지가 잦아 업무가 진행되지 않으면 운영 비용이 커지고, 처리량을 위해 안전 제한을 우회하면 도입을 지속하기 어렵다. 표준·인증·Assurance는 안전과 반복 수행을 함께 평가할 조건을 마련한다.",
+        "ko": "시험 결과는 특정 기체·소프트웨어·환경에서 확인한 결과다. 표준과 인증은 그 범위를 이해하는 데 도움을 준다. 물체나 공간, 사람의 동선이 바뀌면 기존 기록으로 확인할 수 있는 부분과 다시 시험할 부분을 나눠야 한다.",
         "zh-CN": "测试结果有适用范围。标准和可信保障帮助说明这个范围，而软件、设备和运行条件的变化决定了哪些内容需要重新检验。",
         "es": "Todo resultado de ensayo tiene un alcance. Las normas y la verificación permiten entenderlo; los cambios de software, equipo o condiciones de operación determinan qué debe comprobarse de nuevo.",
         "fr": "Un résultat d’essai a un périmètre. Les normes et les démarches d’assurance permettent de le comprendre ; les changements logiciels, matériels ou opérationnels déterminent ce qu’il faut vérifier à nouveau."
@@ -879,7 +879,7 @@
         "ko": "‘받지 못한 자료’와 ‘공개하지 않는 자료’는 다르다. ‘아직 측정하지 않음’은 ‘발생하지 않음’이 아니다. 실제 0에는 무엇을 언제 어떤 분모로 측정했는지가 필요하다. 공통 언어는 이런 차이를 없애는 것이 아니라 남겨두어 같은 기록을 읽게 하는 언어다.\n\n공급사가 Deployment를 출하로, 고객이 검수 뒤 반복 운영으로 쓴다면 같은 실적을 말하고 있지 않다. 자율성과 검증도 사람 개입의 범위와 검사 대상에 따라 달라진다. 정의를 맞춰야 기술 성능을 작업·비용·책임과 연결할 수 있다.",
         "zh-CN": "出货、部署与通过验收的运营代表不同成果。共同定义保留这些差异，让技术、运营、财务和政策评价能够相互比较。",
         "es": "Envío, despliegue y operación aceptada pueden describir logros distintos. Las definiciones compartidas conservan esas diferencias y facilitan comparar evaluaciones técnicas, operativas, financieras y de política pública.",
-        "fr": "Expédition, déploiement et exploitation réceptionnée peuvent désigner des résultats différents. Des définitions communes conservent ces distinctions et facilitent la comparaison des analyses techniques, opérationnelles, financières et publiques."
+        "fr": "Expédition, déploiement et exploitation acceptée par le client peuvent désigner des résultats différents. Des définitions communes conservent ces distinctions et facilitent la comparaison des analyses techniques, opérationnelles, financières et publiques."
       },
       "images": [
         "assets/chapters/38-a-common-language-for-work-and-evidence-01.png",
@@ -899,7 +899,7 @@
       },
       "guides": {
         "en": "The same evidence can inform different decisions. Investors, policymakers, and technical teams need a common factual foundation alongside the questions and responsibilities specific to their work.",
-        "ko": "공통 사실은 한 카드에서 참조한다. 금융·정책·기술은 그 사실을 각자의 목적과 책임으로 읽는다. 문서가 완성됐다는 것은 모든 자료가 확보됐거나 실제 실행이 승인됐다는 뜻이 아니다. 지금 할 일과 다음 판단을 바꿀 자료가 정리되면 검토 착수 문서는 제 역할을 한다.\n\nCONTEXT는 지정학·제도·시장, INDUSTRY는 공급망·경쟁·자본·고객, PRODUCT는 기체·모델·성능·로드맵, FIELD는 배치·관찰·인터뷰·운영 데이터, DECISION은 선택·조건·위험·다음 증거를 탐색한다.",
+        "ko": "투자자와 정책 담당자, 기술팀은 같은 근거를 보고도 서로 다른 결정을 내릴 수 있다. 함께 확인할 사실은 공유하되, 각자가 답해야 할 질문과 책임은 분명히 남겨두어야 한다.",
         "zh-CN": "同一证据可以支持不同决策。投资者、政策制定者和技术团队既需要共同的事实基础，也需要保留各自的问题与责任。",
         "es": "La misma evidencia puede informar decisiones distintas. Inversores, responsables públicos y equipos técnicos necesitan una base factual común, junto con las preguntas y responsabilidades propias de su trabajo.",
         "fr": "Les mêmes éléments peuvent éclairer des décisions différentes. Investisseurs, décideurs publics et équipes techniques ont besoin d’une base factuelle commune, tout en conservant leurs questions et leurs responsabilités propres."

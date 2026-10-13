@@ -16,4 +16,4 @@ B2AGI 피지컬 AI 백서 2027 · Physical
 
 [이전 장](18-physical-ai-in-everyday-life.md) · [목차](../README.md) · [다음 장](20-from-global-examples-to-local-deployment.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [판본·자료 안내](../../../EDITION.md)

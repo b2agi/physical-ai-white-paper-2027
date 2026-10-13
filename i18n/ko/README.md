@@ -89,13 +89,13 @@
 
 ## Atlas 보기
 
-- [Countries 20](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/ko/COUNTRIES.md)
-- [Clusters 20](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/ko/CLUSTERS.md)
-- [Current 100](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/ko/CURRENT_100.md)
-- [Next 100](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/ko/NEXT_100.md)
-- [Influence 50](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/ko/INFLUENCE_50.md)
-- [Ecosystem Builders 50](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/ko/ECOSYSTEM_BUILDERS_50.md)
-- [Institutions 50](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/ko/INSTITUTIONS_50.md)
+- [국가 20](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/ko/COUNTRIES.md)
+- [도시·클러스터 20](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/ko/CLUSTERS.md)
+- [주요 기업 100](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/ko/CURRENT_100.md)
+- [Next 100 기업](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/ko/NEXT_100.md)
+- [영향력 인물 50](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/ko/INFLUENCE_50.md)
+- [생태계 구축 인물 50](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/ko/ECOSYSTEM_BUILDERS_50.md)
+- [기관 50](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/ko/INSTITUTIONS_50.md)
 
 ## 인용 안내
 
@@ -103,4 +103,4 @@
 
 B2AGI. *Physical AI White Paper 2027: Illustrated Chapter Guide*. 2027 edition; reading-guide release: 14 October 2026.
 
-[Edition & sources](../../EDITION.md) · [Rights](../../RIGHTS.md) · [Chapter data](../../data/chapters.json)
+[판본·자료 안내](../../EDITION.md) · [이용 조건](../../RIGHTS.md) · [장별 데이터](../../data/chapters.json)

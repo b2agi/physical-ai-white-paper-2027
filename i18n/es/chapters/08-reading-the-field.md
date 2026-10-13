@@ -14,4 +14,4 @@ Una visita muestra momentos concretos del trabajo. Relacionarlos con las condici
 
 [Anterior](07-who-needs-physical-ai.md) · [Índice](../README.md) · [Siguiente](09-china-building-an-industry.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

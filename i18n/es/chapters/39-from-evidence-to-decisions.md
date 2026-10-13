@@ -14,4 +14,4 @@ La misma evidencia puede informar decisiones distintas. Inversores, responsables
 
 [Anterior](38-a-common-language-for-work-and-evidence.md) · [Índice](../README.md) · [Siguiente](40-work-skills-and-the-automation-transition.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

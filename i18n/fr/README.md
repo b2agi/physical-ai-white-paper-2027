@@ -89,13 +89,13 @@ Cinq parties et 46 chapitres relient modèles, machines, opérations, financemen
 
 ## Consulter l’Atlas
 
-- [Countries 20](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/fr/COUNTRIES.md)
-- [Clusters 20](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/fr/CLUSTERS.md)
-- [Current 100](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/fr/CURRENT_100.md)
-- [Next 100](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/fr/NEXT_100.md)
-- [Influence 50](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/fr/INFLUENCE_50.md)
-- [Ecosystem Builders 50](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/fr/ECOSYSTEM_BUILDERS_50.md)
-- [Institutions 50](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/fr/INSTITUTIONS_50.md)
+- [20 pays](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/fr/COUNTRIES.md)
+- [20 villes et pôles industriels](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/fr/CLUSTERS.md)
+- [100 entreprises majeures](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/fr/CURRENT_100.md)
+- [Next 100 : entreprises](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/fr/NEXT_100.md)
+- [50 personnalités influentes](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/fr/INFLUENCE_50.md)
+- [50 bâtisseurs de l’écosystème](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/fr/ECOSYSTEM_BUILDERS_50.md)
+- [50 institutions](https://github.com/b2agi/physical-ai-ranking-2027/blob/main/i18n/fr/INSTITUTIONS_50.md)
 
 ## Pour citer
 
@@ -103,4 +103,4 @@ Ce guide illustré rassemble les images des chapitres et des résumés du conten
 
 B2AGI. *Physical AI White Paper 2027: Illustrated Chapter Guide*. 2027 edition; reading-guide release: 14 October 2026.
 
-[Edition & sources](../../EDITION.md) · [Rights](../../RIGHTS.md) · [Chapter data](../../data/chapters.json)
+[Édition et sources](../../EDITION.md) · [Conditions d’utilisation](../../RIGHTS.md) · [Données des chapitres](../../data/chapters.json)

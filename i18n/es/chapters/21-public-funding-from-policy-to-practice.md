@@ -14,4 +14,4 @@ La financiación pública puede apoyar investigación, infraestructuras, compras
 
 [Anterior](20-from-global-examples-to-local-deployment.md) · [Índice](../README.md) · [Siguiente](22-who-finances-physical-ai.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

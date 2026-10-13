@@ -8,10 +8,10 @@ B2AGI 피지컬 AI 백서 2027 · Physical
 
 ## 장별 해설
 
-플랫폼과 운영 SW는 배차·충전·장애·권한을 조율한다. 공통 기능을 재사용하면 반복 매출을 만들 수 있지만 고객별 맞춤 개발과 지원이 같이 늘면 비용도 커진다. CAICT/AIIA 352개사를 세 사업군으로 재정렬한 것은 B2AGI 분석 축이지 원전의 새로운 기업 수 분류가 아니다.
+연구용 로봇을 사는 고객과 매일 업무를 맡기려는 고객은 요구가 다르다. 중국 로봇기업을 읽을 때도 누구에게 무엇을 팔고, 납품 뒤 어떤 지원을 맡으며, 그 비용을 누가 부담하는지 함께 봐야 한다.
 
 ![중국 기업: 기업의 약속, 고객의 가치 — 장별 해설](../../../assets/chapters/11-china-companies-and-customers-02.png)
 
 [이전 장](10-china-s-industrial-clusters.md) · [목차](../README.md) · [다음 장](12-america-models-capital-and-customers.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [판본·자료 안내](../../../EDITION.md)

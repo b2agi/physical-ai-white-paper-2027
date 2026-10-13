@@ -14,4 +14,4 @@ Quand des agents organisent un travail ou un paiement, la délégation fait part
 
 [Précédent](28-robot-assets-rwa-sto-and-tokenization.md) · [Sommaire](../README.md) · [Suivant](30-what-makes-an-investment-work.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

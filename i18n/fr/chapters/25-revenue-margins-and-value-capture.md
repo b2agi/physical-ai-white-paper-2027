@@ -14,4 +14,4 @@ Un système peut créer de la valeur pour le client tout en laissant peu de marg
 
 [Précédent](24-the-true-cost-of-a-task.md) · [Sommaire](../README.md) · [Suivant](26-reading-the-financial-statements.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

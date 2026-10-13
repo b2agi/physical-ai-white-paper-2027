@@ -14,4 +14,4 @@ Les chaînes d’approvisionnement et les marchés se recoupent. Une comparaison
 
 [Précédent](18-physical-ai-in-everyday-life.md) · [Sommaire](../README.md) · [Suivant](20-from-global-examples-to-local-deployment.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

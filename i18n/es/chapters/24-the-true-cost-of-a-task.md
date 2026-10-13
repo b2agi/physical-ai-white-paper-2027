@@ -14,4 +14,4 @@ El precio de compra es solo una parte. El coste por tarea aceptada también depe
 
 [Anterior](23-why-customers-buy-again.md) · [Índice](../README.md) · [Siguiente](25-revenue-margins-and-value-capture.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

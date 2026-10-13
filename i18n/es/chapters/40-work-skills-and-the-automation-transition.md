@@ -14,4 +14,4 @@ La automatización cambia las tareas y las competencias necesarias. Su impacto t
 
 [Anterior](39-from-evidence-to-decisions.md) · [Índice](../README.md) · [Siguiente](41-environmental-impact-and-public-value.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

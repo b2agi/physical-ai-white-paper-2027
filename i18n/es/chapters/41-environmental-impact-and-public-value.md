@@ -14,4 +14,4 @@ La evaluación ambiental requiere un límite de sistema claro y una unidad compa
 
 [Anterior](40-work-skills-and-the-automation-transition.md) · [Índice](../README.md) · [Siguiente](42-new-bodies-continuing-intelligence.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

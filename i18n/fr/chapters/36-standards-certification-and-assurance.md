@@ -14,4 +14,4 @@ Un résultat d’essai a un périmètre. Les normes et les démarches d’assura
 
 [Précédent](35-the-regulatory-landscape.md) · [Sommaire](../README.md) · [Suivant](37-trace-records-of-action-and-change.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

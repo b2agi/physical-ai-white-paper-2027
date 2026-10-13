@@ -14,4 +14,4 @@ Revisar decisiones resulta más sencillo cuando sus pruebas y modificaciones sig
 
 [Anterior](36-standards-certification-and-assurance.md) · [Índice](../README.md) · [Siguiente](38-a-common-language-for-work-and-evidence.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

@@ -14,4 +14,4 @@ Los países comparten cadenas de suministro y mercados. Una comparación útil p
 
 [Anterior](18-physical-ai-in-everyday-life.md) · [Índice](../README.md) · [Siguiente](20-from-global-examples-to-local-deployment.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

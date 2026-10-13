@@ -14,4 +14,4 @@ L’expérience acquise peut rester utile après un changement matériel ou logi
 
 [Précédent](41-environmental-impact-and-public-value.md) · [Sommaire](../README.md) · [Suivant](43-operating-through-disconnection.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

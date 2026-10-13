@@ -14,4 +14,4 @@ Un sistema puede crear valor para el cliente y dejar márgenes escasos a sus pro
 
 [Anterior](24-the-true-cost-of-a-task.md) · [Índice](../README.md) · [Siguiente](26-reading-the-financial-statements.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

@@ -14,4 +14,4 @@ Une machine, ses contrats et un jeton numérique représentent des choses diffé
 
 [Précédent](27-financing-robot-assets.md) · [Sommaire](../README.md) · [Suivant](29-the-agent-transaction-economy.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

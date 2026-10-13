@@ -14,4 +14,4 @@ Comprendre une demande n’est qu’un début. Le travail physique exige une bou
 
 [Précédent](02-choosing-the-right-body.md) · [Sommaire](../README.md) · [Suivant](04-the-robot-learning-industry.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)

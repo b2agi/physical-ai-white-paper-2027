@@ -14,4 +14,4 @@ La fuerza de un clúster procede del trabajo compartido entre investigadores, pr
 
 [Anterior](09-china-building-an-industry.md) · [Índice](../README.md) · [Siguiente](11-china-companies-and-customers.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)

@@ -14,4 +14,4 @@ Detrás de un robot hay proveedores de componentes, desarrolladores de modelos, 
 
 [Anterior](04-the-robot-learning-industry.md) · [Índice](../README.md) · [Siguiente](06-from-demonstration-to-deployment.md)
 
-[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../../../EDITION.md)
+[B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)
