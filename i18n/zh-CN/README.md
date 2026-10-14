@@ -4,7 +4,7 @@
 
 **产业、资本、安全与国际合作**
 
-[English](../../README.md) · [한국어](../ko/README.md) · [简体中文](README.md) · [Español](../es/README.md) · [Français](../fr/README.md)
+[English](../../README.md) · [한국어](../ko/README.md) · [简体中文](README.md) · [Español](../es/README.md) · [Français](../fr/README.md) · [العربية](../ar/README.md)
 
 ![B2AGI 物理人工智能白皮书 2027](../../assets/physical-ai-white-paper-2027-cover.png)
 

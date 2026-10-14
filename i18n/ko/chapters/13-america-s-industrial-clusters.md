@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Physical
 
-[English](../../../chapters/13-america-s-industrial-clusters.md) · [한국어](13-america-s-industrial-clusters.md) · [简体中文](../../zh-CN/chapters/13-america-s-industrial-clusters.md) · [Español](../../es/chapters/13-america-s-industrial-clusters.md) · [Français](../../fr/chapters/13-america-s-industrial-clusters.md)
+[English](../../../chapters/13-america-s-industrial-clusters.md) · [한국어](13-america-s-industrial-clusters.md) · [简体中文](../../zh-CN/chapters/13-america-s-industrial-clusters.md) · [Español](../../es/chapters/13-america-s-industrial-clusters.md) · [Français](../../fr/chapters/13-america-s-industrial-clusters.md) · [العربية](../../ar/chapters/13-america-s-industrial-clusters.md)
 
 ![연구도시와 고객 현장, 금융도시를 잇는 회랑 — B2AGI](../../../assets/chapters/13-america-s-industrial-clusters-01.png)
 

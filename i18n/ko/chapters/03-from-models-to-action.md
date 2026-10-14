@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Intelligence
 
-[English](../../../chapters/03-from-models-to-action.md) · [한국어](03-from-models-to-action.md) · [简体中文](../../zh-CN/chapters/03-from-models-to-action.md) · [Español](../../es/chapters/03-from-models-to-action.md) · [Français](../../fr/chapters/03-from-models-to-action.md)
+[English](../../../chapters/03-from-models-to-action.md) · [한국어](03-from-models-to-action.md) · [简体中文](../../zh-CN/chapters/03-from-models-to-action.md) · [Español](../../es/chapters/03-from-models-to-action.md) · [Français](../../fr/chapters/03-from-models-to-action.md) · [العربية](../../ar/chapters/03-from-models-to-action.md)
 
 ![모델의 판단이 실제 행동이 되는 과정 — B2AGI](../../../assets/chapters/03-from-models-to-action-01.png)
 

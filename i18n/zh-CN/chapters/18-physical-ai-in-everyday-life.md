@@ -2,7 +2,7 @@
 
 B2AGI 物理人工智能白皮书 2027 · Physical
 
-[English](../../../chapters/18-physical-ai-in-everyday-life.md) · [한국어](../../ko/chapters/18-physical-ai-in-everyday-life.md) · [简体中文](18-physical-ai-in-everyday-life.md) · [Español](../../es/chapters/18-physical-ai-in-everyday-life.md) · [Français](../../fr/chapters/18-physical-ai-in-everyday-life.md)
+[English](../../../chapters/18-physical-ai-in-everyday-life.md) · [한국어](../../ko/chapters/18-physical-ai-in-everyday-life.md) · [简体中文](18-physical-ai-in-everyday-life.md) · [Español](../../es/chapters/18-physical-ai-in-everyday-life.md) · [Français](../../fr/chapters/18-physical-ai-in-everyday-life.md) · [العربية](../../ar/chapters/18-physical-ai-in-everyday-life.md)
 
 ![日常生活中的物理人工智能 — B2AGI](../../../assets/chapters/18-physical-ai-in-everyday-life-01.png)
 

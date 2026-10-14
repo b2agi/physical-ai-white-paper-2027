@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Beyond
 
-[English](../../../chapters/41-environmental-impact-and-public-value.md) · [한국어](41-environmental-impact-and-public-value.md) · [简体中文](../../zh-CN/chapters/41-environmental-impact-and-public-value.md) · [Español](../../es/chapters/41-environmental-impact-and-public-value.md) · [Français](../../fr/chapters/41-environmental-impact-and-public-value.md)
+[English](../../../chapters/41-environmental-impact-and-public-value.md) · [한국어](41-environmental-impact-and-public-value.md) · [简体中文](../../zh-CN/chapters/41-environmental-impact-and-public-value.md) · [Español](../../es/chapters/41-environmental-impact-and-public-value.md) · [Français](../../fr/chapters/41-environmental-impact-and-public-value.md) · [العربية](../../ar/chapters/41-environmental-impact-and-public-value.md)
 
 ![환경 영향과 공공가치 — B2AGI](../../../assets/chapters/41-environmental-impact-and-public-value-01.png)
 

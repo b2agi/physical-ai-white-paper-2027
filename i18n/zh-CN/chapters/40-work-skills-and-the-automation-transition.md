@@ -2,7 +2,7 @@
 
 B2AGI 物理人工智能白皮书 2027 · Beyond
 
-[English](../../../chapters/40-work-skills-and-the-automation-transition.md) · [한국어](../../ko/chapters/40-work-skills-and-the-automation-transition.md) · [简体中文](40-work-skills-and-the-automation-transition.md) · [Español](../../es/chapters/40-work-skills-and-the-automation-transition.md) · [Français](../../fr/chapters/40-work-skills-and-the-automation-transition.md)
+[English](../../../chapters/40-work-skills-and-the-automation-transition.md) · [한국어](../../ko/chapters/40-work-skills-and-the-automation-transition.md) · [简体中文](40-work-skills-and-the-automation-transition.md) · [Español](../../es/chapters/40-work-skills-and-the-automation-transition.md) · [Français](../../fr/chapters/40-work-skills-and-the-automation-transition.md) · [العربية](../../ar/chapters/40-work-skills-and-the-automation-transition.md)
 
 ![工作、技能与自动化转型 — B2AGI](../../../assets/chapters/40-work-skills-and-the-automation-transition-01.png)
 

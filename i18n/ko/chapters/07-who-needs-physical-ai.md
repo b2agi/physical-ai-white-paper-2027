@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Physical
 
-[English](../../../chapters/07-who-needs-physical-ai.md) · [한국어](07-who-needs-physical-ai.md) · [简体中文](../../zh-CN/chapters/07-who-needs-physical-ai.md) · [Español](../../es/chapters/07-who-needs-physical-ai.md) · [Français](../../fr/chapters/07-who-needs-physical-ai.md)
+[English](../../../chapters/07-who-needs-physical-ai.md) · [한국어](07-who-needs-physical-ai.md) · [简体中文](../../zh-CN/chapters/07-who-needs-physical-ai.md) · [Español](../../es/chapters/07-who-needs-physical-ai.md) · [Français](../../fr/chapters/07-who-needs-physical-ai.md) · [العربية](../../ar/chapters/07-who-needs-physical-ai.md)
 
 ![누가, 왜 피지컬 AI를 필요로 하는가? — B2AGI](../../../assets/chapters/07-who-needs-physical-ai-01.png)
 

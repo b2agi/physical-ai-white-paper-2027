@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Trust
 
-[English](../../../chapters/34-identity-delegation-and-authority.md) · [한국어](34-identity-delegation-and-authority.md) · [简体中文](../../zh-CN/chapters/34-identity-delegation-and-authority.md) · [Español](../../es/chapters/34-identity-delegation-and-authority.md) · [Français](../../fr/chapters/34-identity-delegation-and-authority.md)
+[English](../../../chapters/34-identity-delegation-and-authority.md) · [한국어](34-identity-delegation-and-authority.md) · [简体中文](../../zh-CN/chapters/34-identity-delegation-and-authority.md) · [Español](../../es/chapters/34-identity-delegation-and-authority.md) · [Français](../../fr/chapters/34-identity-delegation-and-authority.md) · [العربية](../../ar/chapters/34-identity-delegation-and-authority.md)
 
 ![신원·위임·권한 — B2AGI](../../../assets/chapters/34-identity-delegation-and-authority-01.png)
 

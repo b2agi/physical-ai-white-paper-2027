@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Capital
 
-[English](23-why-customers-buy-again.md) · [한국어](../i18n/ko/chapters/23-why-customers-buy-again.md) · [简体中文](../i18n/zh-CN/chapters/23-why-customers-buy-again.md) · [Español](../i18n/es/chapters/23-why-customers-buy-again.md) · [Français](../i18n/fr/chapters/23-why-customers-buy-again.md)
+[English](23-why-customers-buy-again.md) · [한국어](../i18n/ko/chapters/23-why-customers-buy-again.md) · [简体中文](../i18n/zh-CN/chapters/23-why-customers-buy-again.md) · [Español](../i18n/es/chapters/23-why-customers-buy-again.md) · [Français](../i18n/fr/chapters/23-why-customers-buy-again.md) · [العربية](../i18n/ar/chapters/23-why-customers-buy-again.md)
 
 ![Why Customers Buy Again — B2AGI](../assets/chapters/23-why-customers-buy-again-01.png)
 

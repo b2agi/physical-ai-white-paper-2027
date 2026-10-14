@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Physical
 
-[English](../../../chapters/15-korea-s-industrial-clusters.md) · [한국어](15-korea-s-industrial-clusters.md) · [简体中文](../../zh-CN/chapters/15-korea-s-industrial-clusters.md) · [Español](../../es/chapters/15-korea-s-industrial-clusters.md) · [Français](../../fr/chapters/15-korea-s-industrial-clusters.md)
+[English](../../../chapters/15-korea-s-industrial-clusters.md) · [한국어](15-korea-s-industrial-clusters.md) · [简体中文](../../zh-CN/chapters/15-korea-s-industrial-clusters.md) · [Español](../../es/chapters/15-korea-s-industrial-clusters.md) · [Français](../../fr/chapters/15-korea-s-industrial-clusters.md) · [العربية](../../ar/chapters/15-korea-s-industrial-clusters.md)
 
 ![한국의 연구·실증·제조·고객 지도 — B2AGI](../../../assets/chapters/15-korea-s-industrial-clusters-01.png)
 

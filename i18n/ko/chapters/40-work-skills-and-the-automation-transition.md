@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Beyond
 
-[English](../../../chapters/40-work-skills-and-the-automation-transition.md) · [한국어](40-work-skills-and-the-automation-transition.md) · [简体中文](../../zh-CN/chapters/40-work-skills-and-the-automation-transition.md) · [Español](../../es/chapters/40-work-skills-and-the-automation-transition.md) · [Français](../../fr/chapters/40-work-skills-and-the-automation-transition.md)
+[English](../../../chapters/40-work-skills-and-the-automation-transition.md) · [한국어](40-work-skills-and-the-automation-transition.md) · [简体中文](../../zh-CN/chapters/40-work-skills-and-the-automation-transition.md) · [Español](../../es/chapters/40-work-skills-and-the-automation-transition.md) · [Français](../../fr/chapters/40-work-skills-and-the-automation-transition.md) · [العربية](../../ar/chapters/40-work-skills-and-the-automation-transition.md)
 
 ![일·숙련·자동화 전환 — B2AGI](../../../assets/chapters/40-work-skills-and-the-automation-transition-01.png)
 

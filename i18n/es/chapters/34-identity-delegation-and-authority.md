@@ -2,7 +2,7 @@
 
 B2AGI Libro blanco de la IA física 2027 · Trust
 
-[English](../../../chapters/34-identity-delegation-and-authority.md) · [한국어](../../ko/chapters/34-identity-delegation-and-authority.md) · [简体中文](../../zh-CN/chapters/34-identity-delegation-and-authority.md) · [Español](34-identity-delegation-and-authority.md) · [Français](../../fr/chapters/34-identity-delegation-and-authority.md)
+[English](../../../chapters/34-identity-delegation-and-authority.md) · [한국어](../../ko/chapters/34-identity-delegation-and-authority.md) · [简体中文](../../zh-CN/chapters/34-identity-delegation-and-authority.md) · [Español](34-identity-delegation-and-authority.md) · [Français](../../fr/chapters/34-identity-delegation-and-authority.md) · [العربية](../../ar/chapters/34-identity-delegation-and-authority.md)
 
 ![Identidad, delegación y autoridad — B2AGI](../../../assets/chapters/34-identity-delegation-and-authority-01.png)
 

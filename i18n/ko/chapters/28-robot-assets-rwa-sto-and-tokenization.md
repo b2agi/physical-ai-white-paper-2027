@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Capital
 
-[English](../../../chapters/28-robot-assets-rwa-sto-and-tokenization.md) · [한국어](28-robot-assets-rwa-sto-and-tokenization.md) · [简体中文](../../zh-CN/chapters/28-robot-assets-rwa-sto-and-tokenization.md) · [Español](../../es/chapters/28-robot-assets-rwa-sto-and-tokenization.md) · [Français](../../fr/chapters/28-robot-assets-rwa-sto-and-tokenization.md)
+[English](../../../chapters/28-robot-assets-rwa-sto-and-tokenization.md) · [한국어](28-robot-assets-rwa-sto-and-tokenization.md) · [简体中文](../../zh-CN/chapters/28-robot-assets-rwa-sto-and-tokenization.md) · [Español](../../es/chapters/28-robot-assets-rwa-sto-and-tokenization.md) · [Français](../../fr/chapters/28-robot-assets-rwa-sto-and-tokenization.md) · [العربية](../../ar/chapters/28-robot-assets-rwa-sto-and-tokenization.md)
 
 ![로봇 자산·RWA·STO·토큰화 — B2AGI](../../../assets/chapters/28-robot-assets-rwa-sto-and-tokenization-01.png)
 

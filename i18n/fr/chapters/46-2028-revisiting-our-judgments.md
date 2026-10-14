@@ -2,7 +2,7 @@
 
 B2AGI Livre blanc de l’IA physique 2027 · Beyond
 
-[English](../../../chapters/46-2028-revisiting-our-judgments.md) · [한국어](../../ko/chapters/46-2028-revisiting-our-judgments.md) · [简体中文](../../zh-CN/chapters/46-2028-revisiting-our-judgments.md) · [Español](../../es/chapters/46-2028-revisiting-our-judgments.md) · [Français](46-2028-revisiting-our-judgments.md)
+[English](../../../chapters/46-2028-revisiting-our-judgments.md) · [한국어](../../ko/chapters/46-2028-revisiting-our-judgments.md) · [简体中文](../../zh-CN/chapters/46-2028-revisiting-our-judgments.md) · [Español](../../es/chapters/46-2028-revisiting-our-judgments.md) · [Français](46-2028-revisiting-our-judgments.md) · [العربية](../../ar/chapters/46-2028-revisiting-our-judgments.md)
 
 ![2028 : réexaminer nos jugements — B2AGI](../../../assets/chapters/46-2028-revisiting-our-judgments-01.png)
 

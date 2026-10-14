@@ -2,7 +2,7 @@
 
 B2AGI Libro blanco de la IA física 2027 · Beyond
 
-[English](../../../chapters/42-new-bodies-continuing-intelligence.md) · [한국어](../../ko/chapters/42-new-bodies-continuing-intelligence.md) · [简体中文](../../zh-CN/chapters/42-new-bodies-continuing-intelligence.md) · [Español](42-new-bodies-continuing-intelligence.md) · [Français](../../fr/chapters/42-new-bodies-continuing-intelligence.md)
+[English](../../../chapters/42-new-bodies-continuing-intelligence.md) · [한국어](../../ko/chapters/42-new-bodies-continuing-intelligence.md) · [简体中文](../../zh-CN/chapters/42-new-bodies-continuing-intelligence.md) · [Español](42-new-bodies-continuing-intelligence.md) · [Français](../../fr/chapters/42-new-bodies-continuing-intelligence.md) · [العربية](../../ar/chapters/42-new-bodies-continuing-intelligence.md)
 
 ![Nuevos cuerpos, una inteligencia que continúa — B2AGI](../../../assets/chapters/42-new-bodies-continuing-intelligence-01.png)
 

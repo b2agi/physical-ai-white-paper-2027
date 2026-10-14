@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Capital
 
-[English](../../../chapters/30-what-makes-an-investment-work.md) · [한국어](30-what-makes-an-investment-work.md) · [简体中文](../../zh-CN/chapters/30-what-makes-an-investment-work.md) · [Español](../../es/chapters/30-what-makes-an-investment-work.md) · [Français](../../fr/chapters/30-what-makes-an-investment-work.md)
+[English](../../../chapters/30-what-makes-an-investment-work.md) · [한국어](30-what-makes-an-investment-work.md) · [简体中文](../../zh-CN/chapters/30-what-makes-an-investment-work.md) · [Español](../../es/chapters/30-what-makes-an-investment-work.md) · [Français](../../fr/chapters/30-what-makes-an-investment-work.md) · [العربية](../../ar/chapters/30-what-makes-an-investment-work.md)
 
 ![무엇이 투자 결정을 좌우하는가 — B2AGI](../../../assets/chapters/30-what-makes-an-investment-work-01.png)
 

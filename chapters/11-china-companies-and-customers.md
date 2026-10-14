@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Physical
 
-[English](11-china-companies-and-customers.md) · [한국어](../i18n/ko/chapters/11-china-companies-and-customers.md) · [简体中文](../i18n/zh-CN/chapters/11-china-companies-and-customers.md) · [Español](../i18n/es/chapters/11-china-companies-and-customers.md) · [Français](../i18n/fr/chapters/11-china-companies-and-customers.md)
+[English](11-china-companies-and-customers.md) · [한국어](../i18n/ko/chapters/11-china-companies-and-customers.md) · [简体中文](../i18n/zh-CN/chapters/11-china-companies-and-customers.md) · [Español](../i18n/es/chapters/11-china-companies-and-customers.md) · [Français](../i18n/fr/chapters/11-china-companies-and-customers.md) · [العربية](../i18n/ar/chapters/11-china-companies-and-customers.md)
 
 ![China: Companies and Customers — B2AGI](../assets/chapters/11-china-companies-and-customers-01.png)
 

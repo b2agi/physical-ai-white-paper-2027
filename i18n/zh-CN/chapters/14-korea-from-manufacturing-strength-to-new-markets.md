@@ -2,7 +2,7 @@
 
 B2AGI 物理人工智能白皮书 2027 · Physical
 
-[English](../../../chapters/14-korea-from-manufacturing-strength-to-new-markets.md) · [한국어](../../ko/chapters/14-korea-from-manufacturing-strength-to-new-markets.md) · [简体中文](14-korea-from-manufacturing-strength-to-new-markets.md) · [Español](../../es/chapters/14-korea-from-manufacturing-strength-to-new-markets.md) · [Français](../../fr/chapters/14-korea-from-manufacturing-strength-to-new-markets.md)
+[English](../../../chapters/14-korea-from-manufacturing-strength-to-new-markets.md) · [한국어](../../ko/chapters/14-korea-from-manufacturing-strength-to-new-markets.md) · [简体中文](14-korea-from-manufacturing-strength-to-new-markets.md) · [Español](../../es/chapters/14-korea-from-manufacturing-strength-to-new-markets.md) · [Français](../../fr/chapters/14-korea-from-manufacturing-strength-to-new-markets.md) · [العربية](../../ar/chapters/14-korea-from-manufacturing-strength-to-new-markets.md)
 
 ![韩国：从制造优势走向新市场 — B2AGI](../../../assets/chapters/14-korea-from-manufacturing-strength-to-new-markets-01.png)
 

@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Trust
 
-[English](32-securing-physical-ai.md) · [한국어](../i18n/ko/chapters/32-securing-physical-ai.md) · [简体中文](../i18n/zh-CN/chapters/32-securing-physical-ai.md) · [Español](../i18n/es/chapters/32-securing-physical-ai.md) · [Français](../i18n/fr/chapters/32-securing-physical-ai.md)
+[English](32-securing-physical-ai.md) · [한국어](../i18n/ko/chapters/32-securing-physical-ai.md) · [简体中文](../i18n/zh-CN/chapters/32-securing-physical-ai.md) · [Español](../i18n/es/chapters/32-securing-physical-ai.md) · [Français](../i18n/fr/chapters/32-securing-physical-ai.md) · [العربية](../i18n/ar/chapters/32-securing-physical-ai.md)
 
 ![Securing Physical AI — B2AGI](../assets/chapters/32-securing-physical-ai-01.png)
 

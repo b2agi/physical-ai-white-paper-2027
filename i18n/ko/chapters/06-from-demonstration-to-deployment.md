@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Intelligence
 
-[English](../../../chapters/06-from-demonstration-to-deployment.md) · [한국어](06-from-demonstration-to-deployment.md) · [简体中文](../../zh-CN/chapters/06-from-demonstration-to-deployment.md) · [Español](../../es/chapters/06-from-demonstration-to-deployment.md) · [Français](../../fr/chapters/06-from-demonstration-to-deployment.md)
+[English](../../../chapters/06-from-demonstration-to-deployment.md) · [한국어](06-from-demonstration-to-deployment.md) · [简体中文](../../zh-CN/chapters/06-from-demonstration-to-deployment.md) · [Español](../../es/chapters/06-from-demonstration-to-deployment.md) · [Français](../../fr/chapters/06-from-demonstration-to-deployment.md) · [العربية](../../ar/chapters/06-from-demonstration-to-deployment.md)
 
 ![한 번의 성공을 지속 운영으로 바꾸기 — B2AGI](../../../assets/chapters/06-from-demonstration-to-deployment-01.png)
 

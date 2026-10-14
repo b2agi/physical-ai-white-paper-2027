@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Capital
 
-[English](29-the-agent-transaction-economy.md) · [한국어](../i18n/ko/chapters/29-the-agent-transaction-economy.md) · [简体中文](../i18n/zh-CN/chapters/29-the-agent-transaction-economy.md) · [Español](../i18n/es/chapters/29-the-agent-transaction-economy.md) · [Français](../i18n/fr/chapters/29-the-agent-transaction-economy.md)
+[English](29-the-agent-transaction-economy.md) · [한국어](../i18n/ko/chapters/29-the-agent-transaction-economy.md) · [简体中文](../i18n/zh-CN/chapters/29-the-agent-transaction-economy.md) · [Español](../i18n/es/chapters/29-the-agent-transaction-economy.md) · [Français](../i18n/fr/chapters/29-the-agent-transaction-economy.md) · [العربية](../i18n/ar/chapters/29-the-agent-transaction-economy.md)
 
 ![The Agent Transaction Economy — B2AGI](../assets/chapters/29-the-agent-transaction-economy-01.png)
 

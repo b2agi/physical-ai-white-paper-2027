@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Physical
 
-[English](../../../chapters/10-china-s-industrial-clusters.md) · [한국어](10-china-s-industrial-clusters.md) · [简体中文](../../zh-CN/chapters/10-china-s-industrial-clusters.md) · [Español](../../es/chapters/10-china-s-industrial-clusters.md) · [Français](../../fr/chapters/10-china-s-industrial-clusters.md)
+[English](../../../chapters/10-china-s-industrial-clusters.md) · [한국어](10-china-s-industrial-clusters.md) · [简体中文](../../zh-CN/chapters/10-china-s-industrial-clusters.md) · [Español](../../es/chapters/10-china-s-industrial-clusters.md) · [Français](../../fr/chapters/10-china-s-industrial-clusters.md) · [العربية](../../ar/chapters/10-china-s-industrial-clusters.md)
 
 ![중국 도시마다 다른 산업의 연결 — B2AGI](../../../assets/chapters/10-china-s-industrial-clusters-01.png)
 

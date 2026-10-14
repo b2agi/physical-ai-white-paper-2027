@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Capital
 
-[English](../../../chapters/24-the-true-cost-of-a-task.md) · [한국어](24-the-true-cost-of-a-task.md) · [简体中文](../../zh-CN/chapters/24-the-true-cost-of-a-task.md) · [Español](../../es/chapters/24-the-true-cost-of-a-task.md) · [Français](../../fr/chapters/24-the-true-cost-of-a-task.md)
+[English](../../../chapters/24-the-true-cost-of-a-task.md) · [한국어](24-the-true-cost-of-a-task.md) · [简体中文](../../zh-CN/chapters/24-the-true-cost-of-a-task.md) · [Español](../../es/chapters/24-the-true-cost-of-a-task.md) · [Français](../../fr/chapters/24-the-true-cost-of-a-task.md) · [العربية](../../ar/chapters/24-the-true-cost-of-a-task.md)
 
 ![작업 한 건의 진짜 비용 — B2AGI](../../../assets/chapters/24-the-true-cost-of-a-task-01.png)
 

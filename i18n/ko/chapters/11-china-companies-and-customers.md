@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Physical
 
-[English](../../../chapters/11-china-companies-and-customers.md) · [한국어](11-china-companies-and-customers.md) · [简体中文](../../zh-CN/chapters/11-china-companies-and-customers.md) · [Español](../../es/chapters/11-china-companies-and-customers.md) · [Français](../../fr/chapters/11-china-companies-and-customers.md)
+[English](../../../chapters/11-china-companies-and-customers.md) · [한국어](11-china-companies-and-customers.md) · [简体中文](../../zh-CN/chapters/11-china-companies-and-customers.md) · [Español](../../es/chapters/11-china-companies-and-customers.md) · [Français](../../fr/chapters/11-china-companies-and-customers.md) · [العربية](../../ar/chapters/11-china-companies-and-customers.md)
 
 ![중국 기업: 기업의 약속, 고객의 가치 — B2AGI](../../../assets/chapters/11-china-companies-and-customers-01.png)
 

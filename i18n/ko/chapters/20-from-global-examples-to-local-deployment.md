@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Physical
 
-[English](../../../chapters/20-from-global-examples-to-local-deployment.md) · [한국어](20-from-global-examples-to-local-deployment.md) · [简体中文](../../zh-CN/chapters/20-from-global-examples-to-local-deployment.md) · [Español](../../es/chapters/20-from-global-examples-to-local-deployment.md) · [Français](../../fr/chapters/20-from-global-examples-to-local-deployment.md)
+[English](../../../chapters/20-from-global-examples-to-local-deployment.md) · [한국어](20-from-global-examples-to-local-deployment.md) · [简体中文](../../zh-CN/chapters/20-from-global-examples-to-local-deployment.md) · [Español](../../es/chapters/20-from-global-examples-to-local-deployment.md) · [Français](../../fr/chapters/20-from-global-examples-to-local-deployment.md) · [العربية](../../ar/chapters/20-from-global-examples-to-local-deployment.md)
 
 ![글로벌 사례의 현지화 — B2AGI](../../../assets/chapters/20-from-global-examples-to-local-deployment-01.png)
 

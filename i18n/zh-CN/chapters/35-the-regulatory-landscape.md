@@ -2,7 +2,7 @@
 
 B2AGI 物理人工智能白皮书 2027 · Trust
 
-[English](../../../chapters/35-the-regulatory-landscape.md) · [한국어](../../ko/chapters/35-the-regulatory-landscape.md) · [简体中文](35-the-regulatory-landscape.md) · [Español](../../es/chapters/35-the-regulatory-landscape.md) · [Français](../../fr/chapters/35-the-regulatory-landscape.md)
+[English](../../../chapters/35-the-regulatory-landscape.md) · [한국어](../../ko/chapters/35-the-regulatory-landscape.md) · [简体中文](35-the-regulatory-landscape.md) · [Español](../../es/chapters/35-the-regulatory-landscape.md) · [Français](../../fr/chapters/35-the-regulatory-landscape.md) · [العربية](../../ar/chapters/35-the-regulatory-landscape.md)
 
 ![监管地图 — B2AGI](../../../assets/chapters/35-the-regulatory-landscape-01.png)
 

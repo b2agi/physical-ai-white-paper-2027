@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Physical
 
-[English](../../../chapters/09-china-building-an-industry.md) · [한국어](09-china-building-an-industry.md) · [简体中文](../../zh-CN/chapters/09-china-building-an-industry.md) · [Español](../../es/chapters/09-china-building-an-industry.md) · [Français](../../fr/chapters/09-china-building-an-industry.md)
+[English](../../../chapters/09-china-building-an-industry.md) · [한국어](09-china-building-an-industry.md) · [简体中文](../../zh-CN/chapters/09-china-building-an-industry.md) · [Español](../../es/chapters/09-china-building-an-industry.md) · [Français](../../fr/chapters/09-china-building-an-industry.md) · [العربية](../../ar/chapters/09-china-building-an-industry.md)
 
 ![중국은 어떻게 산업의 기반을 만드는가 — B2AGI](../../../assets/chapters/09-china-building-an-industry-01.png)
 

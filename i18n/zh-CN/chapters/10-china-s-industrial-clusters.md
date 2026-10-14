@@ -2,7 +2,7 @@
 
 B2AGI 物理人工智能白皮书 2027 · Physical
 
-[English](../../../chapters/10-china-s-industrial-clusters.md) · [한국어](../../ko/chapters/10-china-s-industrial-clusters.md) · [简体中文](10-china-s-industrial-clusters.md) · [Español](../../es/chapters/10-china-s-industrial-clusters.md) · [Français](../../fr/chapters/10-china-s-industrial-clusters.md)
+[English](../../../chapters/10-china-s-industrial-clusters.md) · [한국어](../../ko/chapters/10-china-s-industrial-clusters.md) · [简体中文](10-china-s-industrial-clusters.md) · [Español](../../es/chapters/10-china-s-industrial-clusters.md) · [Français](../../fr/chapters/10-china-s-industrial-clusters.md) · [العربية](../../ar/chapters/10-china-s-industrial-clusters.md)
 
 ![中国的产业集群 — B2AGI](../../../assets/chapters/10-china-s-industrial-clusters-01.png)
 

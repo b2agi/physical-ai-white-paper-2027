@@ -2,7 +2,7 @@
 
 B2AGI 物理人工智能白皮书 2027 · Beyond
 
-[English](../../../chapters/46-2028-revisiting-our-judgments.md) · [한국어](../../ko/chapters/46-2028-revisiting-our-judgments.md) · [简体中文](46-2028-revisiting-our-judgments.md) · [Español](../../es/chapters/46-2028-revisiting-our-judgments.md) · [Français](../../fr/chapters/46-2028-revisiting-our-judgments.md)
+[English](../../../chapters/46-2028-revisiting-our-judgments.md) · [한국어](../../ko/chapters/46-2028-revisiting-our-judgments.md) · [简体中文](46-2028-revisiting-our-judgments.md) · [Español](../../es/chapters/46-2028-revisiting-our-judgments.md) · [Français](../../fr/chapters/46-2028-revisiting-our-judgments.md) · [العربية](../../ar/chapters/46-2028-revisiting-our-judgments.md)
 
 ![2028：重新审视我们的判断 — B2AGI](../../../assets/chapters/46-2028-revisiting-our-judgments-01.png)
 

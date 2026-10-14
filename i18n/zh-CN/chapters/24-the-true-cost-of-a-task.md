@@ -2,7 +2,7 @@
 
 B2AGI 物理人工智能白皮书 2027 · Capital
 
-[English](../../../chapters/24-the-true-cost-of-a-task.md) · [한국어](../../ko/chapters/24-the-true-cost-of-a-task.md) · [简体中文](24-the-true-cost-of-a-task.md) · [Español](../../es/chapters/24-the-true-cost-of-a-task.md) · [Français](../../fr/chapters/24-the-true-cost-of-a-task.md)
+[English](../../../chapters/24-the-true-cost-of-a-task.md) · [한국어](../../ko/chapters/24-the-true-cost-of-a-task.md) · [简体中文](24-the-true-cost-of-a-task.md) · [Español](../../es/chapters/24-the-true-cost-of-a-task.md) · [Français](../../fr/chapters/24-the-true-cost-of-a-task.md) · [العربية](../../ar/chapters/24-the-true-cost-of-a-task.md)
 
 ![一项任务的真实成本 — B2AGI](../../../assets/chapters/24-the-true-cost-of-a-task-01.png)
 

@@ -2,7 +2,7 @@
 
 B2AGI 物理人工智能白皮书 2027 · Beyond
 
-[English](../../../chapters/42-new-bodies-continuing-intelligence.md) · [한국어](../../ko/chapters/42-new-bodies-continuing-intelligence.md) · [简体中文](42-new-bodies-continuing-intelligence.md) · [Español](../../es/chapters/42-new-bodies-continuing-intelligence.md) · [Français](../../fr/chapters/42-new-bodies-continuing-intelligence.md)
+[English](../../../chapters/42-new-bodies-continuing-intelligence.md) · [한국어](../../ko/chapters/42-new-bodies-continuing-intelligence.md) · [简体中文](42-new-bodies-continuing-intelligence.md) · [Español](../../es/chapters/42-new-bodies-continuing-intelligence.md) · [Français](../../fr/chapters/42-new-bodies-continuing-intelligence.md) · [العربية](../../ar/chapters/42-new-bodies-continuing-intelligence.md)
 
 ![新的机体，延续的智能 — B2AGI](../../../assets/chapters/42-new-bodies-continuing-intelligence-01.png)
 

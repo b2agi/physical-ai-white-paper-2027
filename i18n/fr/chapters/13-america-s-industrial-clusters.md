@@ -2,7 +2,7 @@
 
 B2AGI Livre blanc de l’IA physique 2027 · Physical
 
-[English](../../../chapters/13-america-s-industrial-clusters.md) · [한국어](../../ko/chapters/13-america-s-industrial-clusters.md) · [简体中文](../../zh-CN/chapters/13-america-s-industrial-clusters.md) · [Español](../../es/chapters/13-america-s-industrial-clusters.md) · [Français](13-america-s-industrial-clusters.md)
+[English](../../../chapters/13-america-s-industrial-clusters.md) · [한국어](../../ko/chapters/13-america-s-industrial-clusters.md) · [简体中文](../../zh-CN/chapters/13-america-s-industrial-clusters.md) · [Español](../../es/chapters/13-america-s-industrial-clusters.md) · [Français](13-america-s-industrial-clusters.md) · [العربية](../../ar/chapters/13-america-s-industrial-clusters.md)
 
 ![Les pôles industriels américains — B2AGI](../../../assets/chapters/13-america-s-industrial-clusters-01.png)
 

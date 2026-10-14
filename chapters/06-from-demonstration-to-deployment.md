@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Intelligence
 
-[English](06-from-demonstration-to-deployment.md) · [한국어](../i18n/ko/chapters/06-from-demonstration-to-deployment.md) · [简体中文](../i18n/zh-CN/chapters/06-from-demonstration-to-deployment.md) · [Español](../i18n/es/chapters/06-from-demonstration-to-deployment.md) · [Français](../i18n/fr/chapters/06-from-demonstration-to-deployment.md)
+[English](06-from-demonstration-to-deployment.md) · [한국어](../i18n/ko/chapters/06-from-demonstration-to-deployment.md) · [简体中文](../i18n/zh-CN/chapters/06-from-demonstration-to-deployment.md) · [Español](../i18n/es/chapters/06-from-demonstration-to-deployment.md) · [Français](../i18n/fr/chapters/06-from-demonstration-to-deployment.md) · [العربية](../i18n/ar/chapters/06-from-demonstration-to-deployment.md)
 
 ![From Demonstration to Deployment — B2AGI](../assets/chapters/06-from-demonstration-to-deployment-01.png)
 

@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Physical
 
-[English](13-america-s-industrial-clusters.md) · [한국어](../i18n/ko/chapters/13-america-s-industrial-clusters.md) · [简体中文](../i18n/zh-CN/chapters/13-america-s-industrial-clusters.md) · [Español](../i18n/es/chapters/13-america-s-industrial-clusters.md) · [Français](../i18n/fr/chapters/13-america-s-industrial-clusters.md)
+[English](13-america-s-industrial-clusters.md) · [한국어](../i18n/ko/chapters/13-america-s-industrial-clusters.md) · [简体中文](../i18n/zh-CN/chapters/13-america-s-industrial-clusters.md) · [Español](../i18n/es/chapters/13-america-s-industrial-clusters.md) · [Français](../i18n/fr/chapters/13-america-s-industrial-clusters.md) · [العربية](../i18n/ar/chapters/13-america-s-industrial-clusters.md)
 
 ![America’s Industrial Clusters — B2AGI](../assets/chapters/13-america-s-industrial-clusters-01.png)
 

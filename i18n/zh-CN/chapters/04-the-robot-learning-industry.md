@@ -2,7 +2,7 @@
 
 B2AGI 物理人工智能白皮书 2027 · Intelligence
 
-[English](../../../chapters/04-the-robot-learning-industry.md) · [한국어](../../ko/chapters/04-the-robot-learning-industry.md) · [简体中文](04-the-robot-learning-industry.md) · [Español](../../es/chapters/04-the-robot-learning-industry.md) · [Français](../../fr/chapters/04-the-robot-learning-industry.md)
+[English](../../../chapters/04-the-robot-learning-industry.md) · [한국어](../../ko/chapters/04-the-robot-learning-industry.md) · [简体中文](04-the-robot-learning-industry.md) · [Español](../../es/chapters/04-the-robot-learning-industry.md) · [Français](../../fr/chapters/04-the-robot-learning-industry.md) · [العربية](../../ar/chapters/04-the-robot-learning-industry.md)
 
 ![机器人学习产业 — B2AGI](../../../assets/chapters/04-the-robot-learning-industry-01.png)
 

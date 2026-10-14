@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Capital
 
-[English](../../../chapters/22-who-finances-physical-ai.md) · [한국어](22-who-finances-physical-ai.md) · [简体中文](../../zh-CN/chapters/22-who-finances-physical-ai.md) · [Español](../../es/chapters/22-who-finances-physical-ai.md) · [Français](../../fr/chapters/22-who-finances-physical-ai.md)
+[English](../../../chapters/22-who-finances-physical-ai.md) · [한국어](22-who-finances-physical-ai.md) · [简体中文](../../zh-CN/chapters/22-who-finances-physical-ai.md) · [Español](../../es/chapters/22-who-finances-physical-ai.md) · [Français](../../fr/chapters/22-who-finances-physical-ai.md) · [العربية](../../ar/chapters/22-who-finances-physical-ai.md)
 
 ![누가 피지컬 AI에 자금을 대는가 — B2AGI](../../../assets/chapters/22-who-finances-physical-ai-01.png)
 

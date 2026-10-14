@@ -2,7 +2,7 @@
 
 B2AGI 物理人工智能白皮书 2027 · Physical
 
-[English](../../../chapters/19-comparing-china-america-and-korea.md) · [한국어](../../ko/chapters/19-comparing-china-america-and-korea.md) · [简体中文](19-comparing-china-america-and-korea.md) · [Español](../../es/chapters/19-comparing-china-america-and-korea.md) · [Français](../../fr/chapters/19-comparing-china-america-and-korea.md)
+[English](../../../chapters/19-comparing-china-america-and-korea.md) · [한국어](../../ko/chapters/19-comparing-china-america-and-korea.md) · [简体中文](19-comparing-china-america-and-korea.md) · [Español](../../es/chapters/19-comparing-china-america-and-korea.md) · [Français](../../fr/chapters/19-comparing-china-america-and-korea.md) · [العربية](../../ar/chapters/19-comparing-china-america-and-korea.md)
 
 ![如何比较中国、美国与韩国 — B2AGI](../../../assets/chapters/19-comparing-china-america-and-korea-01.png)
 

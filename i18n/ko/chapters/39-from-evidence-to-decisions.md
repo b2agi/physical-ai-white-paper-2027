@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Trust
 
-[English](../../../chapters/39-from-evidence-to-decisions.md) · [한국어](39-from-evidence-to-decisions.md) · [简体中文](../../zh-CN/chapters/39-from-evidence-to-decisions.md) · [Español](../../es/chapters/39-from-evidence-to-decisions.md) · [Français](../../fr/chapters/39-from-evidence-to-decisions.md)
+[English](../../../chapters/39-from-evidence-to-decisions.md) · [한국어](39-from-evidence-to-decisions.md) · [简体中文](../../zh-CN/chapters/39-from-evidence-to-decisions.md) · [Español](../../es/chapters/39-from-evidence-to-decisions.md) · [Français](../../fr/chapters/39-from-evidence-to-decisions.md) · [العربية](../../ar/chapters/39-from-evidence-to-decisions.md)
 
 ![근거에서 결정으로 — B2AGI](../../../assets/chapters/39-from-evidence-to-decisions-01.png)
 

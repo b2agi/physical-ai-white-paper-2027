@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Physical
 
-[English](09-china-building-an-industry.md) · [한국어](../i18n/ko/chapters/09-china-building-an-industry.md) · [简体中文](../i18n/zh-CN/chapters/09-china-building-an-industry.md) · [Español](../i18n/es/chapters/09-china-building-an-industry.md) · [Français](../i18n/fr/chapters/09-china-building-an-industry.md)
+[English](09-china-building-an-industry.md) · [한국어](../i18n/ko/chapters/09-china-building-an-industry.md) · [简体中文](../i18n/zh-CN/chapters/09-china-building-an-industry.md) · [Español](../i18n/es/chapters/09-china-building-an-industry.md) · [Français](../i18n/fr/chapters/09-china-building-an-industry.md) · [العربية](../i18n/ar/chapters/09-china-building-an-industry.md)
 
 ![China: Building an Industry — B2AGI](../assets/chapters/09-china-building-an-industry-01.png)
 

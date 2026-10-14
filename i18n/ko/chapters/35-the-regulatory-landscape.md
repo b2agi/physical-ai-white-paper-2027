@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Trust
 
-[English](../../../chapters/35-the-regulatory-landscape.md) · [한국어](35-the-regulatory-landscape.md) · [简体中文](../../zh-CN/chapters/35-the-regulatory-landscape.md) · [Español](../../es/chapters/35-the-regulatory-landscape.md) · [Français](../../fr/chapters/35-the-regulatory-landscape.md)
+[English](../../../chapters/35-the-regulatory-landscape.md) · [한국어](35-the-regulatory-landscape.md) · [简体中文](../../zh-CN/chapters/35-the-regulatory-landscape.md) · [Español](../../es/chapters/35-the-regulatory-landscape.md) · [Français](../../fr/chapters/35-the-regulatory-landscape.md) · [العربية](../../ar/chapters/35-the-regulatory-landscape.md)
 
 ![규제의 지도 — B2AGI](../../../assets/chapters/35-the-regulatory-landscape-01.png)
 

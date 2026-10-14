@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Trust
 
-[English](39-from-evidence-to-decisions.md) · [한국어](../i18n/ko/chapters/39-from-evidence-to-decisions.md) · [简体中文](../i18n/zh-CN/chapters/39-from-evidence-to-decisions.md) · [Español](../i18n/es/chapters/39-from-evidence-to-decisions.md) · [Français](../i18n/fr/chapters/39-from-evidence-to-decisions.md)
+[English](39-from-evidence-to-decisions.md) · [한국어](../i18n/ko/chapters/39-from-evidence-to-decisions.md) · [简体中文](../i18n/zh-CN/chapters/39-from-evidence-to-decisions.md) · [Español](../i18n/es/chapters/39-from-evidence-to-decisions.md) · [Français](../i18n/fr/chapters/39-from-evidence-to-decisions.md) · [العربية](../i18n/ar/chapters/39-from-evidence-to-decisions.md)
 
 ![From Evidence to Decisions — B2AGI](../assets/chapters/39-from-evidence-to-decisions-01.png)
 

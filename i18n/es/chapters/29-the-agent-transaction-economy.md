@@ -2,7 +2,7 @@
 
 B2AGI Libro blanco de la IA física 2027 · Capital
 
-[English](../../../chapters/29-the-agent-transaction-economy.md) · [한국어](../../ko/chapters/29-the-agent-transaction-economy.md) · [简体中文](../../zh-CN/chapters/29-the-agent-transaction-economy.md) · [Español](29-the-agent-transaction-economy.md) · [Français](../../fr/chapters/29-the-agent-transaction-economy.md)
+[English](../../../chapters/29-the-agent-transaction-economy.md) · [한국어](../../ko/chapters/29-the-agent-transaction-economy.md) · [简体中文](../../zh-CN/chapters/29-the-agent-transaction-economy.md) · [Español](29-the-agent-transaction-economy.md) · [Français](../../fr/chapters/29-the-agent-transaction-economy.md) · [العربية](../../ar/chapters/29-the-agent-transaction-economy.md)
 
 ![La economía de las transacciones entre agentes — B2AGI](../../../assets/chapters/29-the-agent-transaction-economy-01.png)
 

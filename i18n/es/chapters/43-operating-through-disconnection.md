@@ -2,7 +2,7 @@
 
 B2AGI Libro blanco de la IA física 2027 · Beyond
 
-[English](../../../chapters/43-operating-through-disconnection.md) · [한국어](../../ko/chapters/43-operating-through-disconnection.md) · [简体中文](../../zh-CN/chapters/43-operating-through-disconnection.md) · [Español](43-operating-through-disconnection.md) · [Français](../../fr/chapters/43-operating-through-disconnection.md)
+[English](../../../chapters/43-operating-through-disconnection.md) · [한국어](../../ko/chapters/43-operating-through-disconnection.md) · [简体中文](../../zh-CN/chapters/43-operating-through-disconnection.md) · [Español](43-operating-through-disconnection.md) · [Français](../../fr/chapters/43-operating-through-disconnection.md) · [العربية](../../ar/chapters/43-operating-through-disconnection.md)
 
 ![Operar sin conexión — B2AGI](../../../assets/chapters/43-operating-through-disconnection-01.png)
 

@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Intelligence
 
-[English](04-the-robot-learning-industry.md) · [한국어](../i18n/ko/chapters/04-the-robot-learning-industry.md) · [简体中文](../i18n/zh-CN/chapters/04-the-robot-learning-industry.md) · [Español](../i18n/es/chapters/04-the-robot-learning-industry.md) · [Français](../i18n/fr/chapters/04-the-robot-learning-industry.md)
+[English](04-the-robot-learning-industry.md) · [한국어](../i18n/ko/chapters/04-the-robot-learning-industry.md) · [简体中文](../i18n/zh-CN/chapters/04-the-robot-learning-industry.md) · [Español](../i18n/es/chapters/04-the-robot-learning-industry.md) · [Français](../i18n/fr/chapters/04-the-robot-learning-industry.md) · [العربية](../i18n/ar/chapters/04-the-robot-learning-industry.md)
 
 ![The Robot Learning Industry — B2AGI](../assets/chapters/04-the-robot-learning-industry-01.png)
 

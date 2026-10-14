@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Capital
 
-[English](22-who-finances-physical-ai.md) · [한국어](../i18n/ko/chapters/22-who-finances-physical-ai.md) · [简体中文](../i18n/zh-CN/chapters/22-who-finances-physical-ai.md) · [Español](../i18n/es/chapters/22-who-finances-physical-ai.md) · [Français](../i18n/fr/chapters/22-who-finances-physical-ai.md)
+[English](22-who-finances-physical-ai.md) · [한국어](../i18n/ko/chapters/22-who-finances-physical-ai.md) · [简体中文](../i18n/zh-CN/chapters/22-who-finances-physical-ai.md) · [Español](../i18n/es/chapters/22-who-finances-physical-ai.md) · [Français](../i18n/fr/chapters/22-who-finances-physical-ai.md) · [العربية](../i18n/ar/chapters/22-who-finances-physical-ai.md)
 
 ![Who Finances Physical AI? — B2AGI](../assets/chapters/22-who-finances-physical-ai-01.png)
 

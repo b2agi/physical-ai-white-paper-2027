@@ -2,7 +2,7 @@
 
 B2AGI Livre blanc de l’IA physique 2027 · Beyond
 
-[English](../../../chapters/45-coexistence-with-non-human-intelligences.md) · [한국어](../../ko/chapters/45-coexistence-with-non-human-intelligences.md) · [简体中文](../../zh-CN/chapters/45-coexistence-with-non-human-intelligences.md) · [Español](../../es/chapters/45-coexistence-with-non-human-intelligences.md) · [Français](45-coexistence-with-non-human-intelligences.md)
+[English](../../../chapters/45-coexistence-with-non-human-intelligences.md) · [한국어](../../ko/chapters/45-coexistence-with-non-human-intelligences.md) · [简体中文](../../zh-CN/chapters/45-coexistence-with-non-human-intelligences.md) · [Español](../../es/chapters/45-coexistence-with-non-human-intelligences.md) · [Français](45-coexistence-with-non-human-intelligences.md) · [العربية](../../ar/chapters/45-coexistence-with-non-human-intelligences.md)
 
 ![Coexister avec des intelligences non humaines — B2AGI](../../../assets/chapters/45-coexistence-with-non-human-intelligences-01.png)
 

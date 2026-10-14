@@ -2,7 +2,7 @@
 
 B2AGI 物理人工智能白皮书 2027 · Capital
 
-[English](../../../chapters/30-what-makes-an-investment-work.md) · [한국어](../../ko/chapters/30-what-makes-an-investment-work.md) · [简体中文](30-what-makes-an-investment-work.md) · [Español](../../es/chapters/30-what-makes-an-investment-work.md) · [Français](../../fr/chapters/30-what-makes-an-investment-work.md)
+[English](../../../chapters/30-what-makes-an-investment-work.md) · [한국어](../../ko/chapters/30-what-makes-an-investment-work.md) · [简体中文](30-what-makes-an-investment-work.md) · [Español](../../es/chapters/30-what-makes-an-investment-work.md) · [Français](../../fr/chapters/30-what-makes-an-investment-work.md) · [العربية](../../ar/chapters/30-what-makes-an-investment-work.md)
 
 ![什么决定一项投资能否成立？ — B2AGI](../../../assets/chapters/30-what-makes-an-investment-work-01.png)
 

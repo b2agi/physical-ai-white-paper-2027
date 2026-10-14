@@ -4,7 +4,7 @@
 
 **산업·자본·보안·국제협력**
 
-[English](../../README.md) · [한국어](README.md) · [简体中文](../zh-CN/README.md) · [Español](../es/README.md) · [Français](../fr/README.md)
+[English](../../README.md) · [한국어](README.md) · [简体中文](../zh-CN/README.md) · [Español](../es/README.md) · [Français](../fr/README.md) · [العربية](../ar/README.md)
 
 ![B2AGI 피지컬 AI 백서 2027](../../assets/physical-ai-white-paper-2027-cover.png)
 

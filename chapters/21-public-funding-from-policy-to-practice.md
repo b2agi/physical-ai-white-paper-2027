@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Capital
 
-[English](21-public-funding-from-policy-to-practice.md) · [한국어](../i18n/ko/chapters/21-public-funding-from-policy-to-practice.md) · [简体中文](../i18n/zh-CN/chapters/21-public-funding-from-policy-to-practice.md) · [Español](../i18n/es/chapters/21-public-funding-from-policy-to-practice.md) · [Français](../i18n/fr/chapters/21-public-funding-from-policy-to-practice.md)
+[English](21-public-funding-from-policy-to-practice.md) · [한국어](../i18n/ko/chapters/21-public-funding-from-policy-to-practice.md) · [简体中文](../i18n/zh-CN/chapters/21-public-funding-from-policy-to-practice.md) · [Español](../i18n/es/chapters/21-public-funding-from-policy-to-practice.md) · [Français](../i18n/fr/chapters/21-public-funding-from-policy-to-practice.md) · [العربية](../i18n/ar/chapters/21-public-funding-from-policy-to-practice.md)
 
 ![Public Funding: From Policy to Practice — B2AGI](../assets/chapters/21-public-funding-from-policy-to-practice-01.png)
 

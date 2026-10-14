@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Capital
 
-[English](../../../chapters/27-financing-robot-assets.md) · [한국어](27-financing-robot-assets.md) · [简体中文](../../zh-CN/chapters/27-financing-robot-assets.md) · [Español](../../es/chapters/27-financing-robot-assets.md) · [Français](../../fr/chapters/27-financing-robot-assets.md)
+[English](../../../chapters/27-financing-robot-assets.md) · [한국어](27-financing-robot-assets.md) · [简体中文](../../zh-CN/chapters/27-financing-robot-assets.md) · [Español](../../es/chapters/27-financing-robot-assets.md) · [Français](../../fr/chapters/27-financing-robot-assets.md) · [العربية](../../ar/chapters/27-financing-robot-assets.md)
 
 ![로봇 자산 금융 — B2AGI](../../../assets/chapters/27-financing-robot-assets-01.png)
 

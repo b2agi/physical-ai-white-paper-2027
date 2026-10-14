@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Physical
 
-[English](../../../chapters/17-intelligence-in-motion.md) · [한국어](17-intelligence-in-motion.md) · [简体中文](../../zh-CN/chapters/17-intelligence-in-motion.md) · [Español](../../es/chapters/17-intelligence-in-motion.md) · [Français](../../fr/chapters/17-intelligence-in-motion.md)
+[English](../../../chapters/17-intelligence-in-motion.md) · [한국어](17-intelligence-in-motion.md) · [简体中文](../../zh-CN/chapters/17-intelligence-in-motion.md) · [Español](../../es/chapters/17-intelligence-in-motion.md) · [Français](../../fr/chapters/17-intelligence-in-motion.md) · [العربية](../../ar/chapters/17-intelligence-in-motion.md)
 
 ![움직이는 지능 — B2AGI](../../../assets/chapters/17-intelligence-in-motion-01.png)
 

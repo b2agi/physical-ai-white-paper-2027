@@ -7,3 +7,7 @@ First GitHub release of the illustrated chapter guide: English, Korean, Simplifi
 ### Editorial revision
 
 Made eight Korean chapter extracts self-contained, clarified French wording for customer acceptance, and translated navigation labels in all four non-English guides. Chapter order, artwork and source links are unchanged.
+
+### Arabic guide
+
+Added Arabic titles and summaries for all 46 chapters, right-to-left reading layout, and language links. Original artwork retained.

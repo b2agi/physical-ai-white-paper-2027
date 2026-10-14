@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Beyond
 
-[English](../../../chapters/45-coexistence-with-non-human-intelligences.md) · [한국어](45-coexistence-with-non-human-intelligences.md) · [简体中文](../../zh-CN/chapters/45-coexistence-with-non-human-intelligences.md) · [Español](../../es/chapters/45-coexistence-with-non-human-intelligences.md) · [Français](../../fr/chapters/45-coexistence-with-non-human-intelligences.md)
+[English](../../../chapters/45-coexistence-with-non-human-intelligences.md) · [한국어](45-coexistence-with-non-human-intelligences.md) · [简体中文](../../zh-CN/chapters/45-coexistence-with-non-human-intelligences.md) · [Español](../../es/chapters/45-coexistence-with-non-human-intelligences.md) · [Français](../../fr/chapters/45-coexistence-with-non-human-intelligences.md) · [العربية](../../ar/chapters/45-coexistence-with-non-human-intelligences.md)
 
 ![비인간지성체와의 공존 — B2AGI](../../../assets/chapters/45-coexistence-with-non-human-intelligences-01.png)
 

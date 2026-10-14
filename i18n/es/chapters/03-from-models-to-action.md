@@ -2,7 +2,7 @@
 
 B2AGI Libro blanco de la IA física 2027 · Intelligence
 
-[English](../../../chapters/03-from-models-to-action.md) · [한국어](../../ko/chapters/03-from-models-to-action.md) · [简体中文](../../zh-CN/chapters/03-from-models-to-action.md) · [Español](03-from-models-to-action.md) · [Français](../../fr/chapters/03-from-models-to-action.md)
+[English](../../../chapters/03-from-models-to-action.md) · [한국어](../../ko/chapters/03-from-models-to-action.md) · [简体中文](../../zh-CN/chapters/03-from-models-to-action.md) · [Español](03-from-models-to-action.md) · [Français](../../fr/chapters/03-from-models-to-action.md) · [العربية](../../ar/chapters/03-from-models-to-action.md)
 
 ![De los modelos a la acción — B2AGI](../../../assets/chapters/03-from-models-to-action-01.png)
 

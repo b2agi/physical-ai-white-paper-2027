@@ -2,7 +2,7 @@
 
 B2AGI Livre blanc de l’IA physique 2027 · Capital
 
-[English](../../../chapters/26-reading-the-financial-statements.md) · [한국어](../../ko/chapters/26-reading-the-financial-statements.md) · [简体中文](../../zh-CN/chapters/26-reading-the-financial-statements.md) · [Español](../../es/chapters/26-reading-the-financial-statements.md) · [Français](26-reading-the-financial-statements.md)
+[English](../../../chapters/26-reading-the-financial-statements.md) · [한국어](../../ko/chapters/26-reading-the-financial-statements.md) · [简体中文](../../zh-CN/chapters/26-reading-the-financial-statements.md) · [Español](../../es/chapters/26-reading-the-financial-statements.md) · [Français](26-reading-the-financial-statements.md) · [العربية](../../ar/chapters/26-reading-the-financial-statements.md)
 
 ![Lire les états financiers — B2AGI](../../../assets/chapters/26-reading-the-financial-statements-01.png)
 

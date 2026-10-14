@@ -2,7 +2,7 @@
 
 B2AGI Libro blanco de la IA física 2027 · Intelligence
 
-[English](../../../chapters/01-physical-ai-in-2027.md) · [한국어](../../ko/chapters/01-physical-ai-in-2027.md) · [简体中文](../../zh-CN/chapters/01-physical-ai-in-2027.md) · [Español](01-physical-ai-in-2027.md) · [Français](../../fr/chapters/01-physical-ai-in-2027.md)
+[English](../../../chapters/01-physical-ai-in-2027.md) · [한국어](../../ko/chapters/01-physical-ai-in-2027.md) · [简体中文](../../zh-CN/chapters/01-physical-ai-in-2027.md) · [Español](01-physical-ai-in-2027.md) · [Français](../../fr/chapters/01-physical-ai-in-2027.md) · [العربية](../../ar/chapters/01-physical-ai-in-2027.md)
 
 ![La IA física en 2027 — B2AGI](../../../assets/chapters/01-physical-ai-in-2027-01.png)
 

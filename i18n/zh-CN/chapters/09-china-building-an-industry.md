@@ -2,7 +2,7 @@
 
 B2AGI 物理人工智能白皮书 2027 · Physical
 
-[English](../../../chapters/09-china-building-an-industry.md) · [한국어](../../ko/chapters/09-china-building-an-industry.md) · [简体中文](09-china-building-an-industry.md) · [Español](../../es/chapters/09-china-building-an-industry.md) · [Français](../../fr/chapters/09-china-building-an-industry.md)
+[English](../../../chapters/09-china-building-an-industry.md) · [한국어](../../ko/chapters/09-china-building-an-industry.md) · [简体中文](09-china-building-an-industry.md) · [Español](../../es/chapters/09-china-building-an-industry.md) · [Français](../../fr/chapters/09-china-building-an-industry.md) · [العربية](../../ar/chapters/09-china-building-an-industry.md)
 
 ![中国：产业基础如何形成 — B2AGI](../../../assets/chapters/09-china-building-an-industry-01.png)
 

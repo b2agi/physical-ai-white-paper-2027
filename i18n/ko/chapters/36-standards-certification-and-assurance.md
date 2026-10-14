@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Trust
 
-[English](../../../chapters/36-standards-certification-and-assurance.md) · [한국어](36-standards-certification-and-assurance.md) · [简体中文](../../zh-CN/chapters/36-standards-certification-and-assurance.md) · [Español](../../es/chapters/36-standards-certification-and-assurance.md) · [Français](../../fr/chapters/36-standards-certification-and-assurance.md)
+[English](../../../chapters/36-standards-certification-and-assurance.md) · [한국어](36-standards-certification-and-assurance.md) · [简体中文](../../zh-CN/chapters/36-standards-certification-and-assurance.md) · [Español](../../es/chapters/36-standards-certification-and-assurance.md) · [Français](../../fr/chapters/36-standards-certification-and-assurance.md) · [العربية](../../ar/chapters/36-standards-certification-and-assurance.md)
 
 ![신뢰는, 확인하고 이어가는 것 — B2AGI](../../../assets/chapters/36-standards-certification-and-assurance-01.png)
 

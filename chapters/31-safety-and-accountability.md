@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Trust
 
-[English](31-safety-and-accountability.md) · [한국어](../i18n/ko/chapters/31-safety-and-accountability.md) · [简体中文](../i18n/zh-CN/chapters/31-safety-and-accountability.md) · [Español](../i18n/es/chapters/31-safety-and-accountability.md) · [Français](../i18n/fr/chapters/31-safety-and-accountability.md)
+[English](31-safety-and-accountability.md) · [한국어](../i18n/ko/chapters/31-safety-and-accountability.md) · [简体中文](../i18n/zh-CN/chapters/31-safety-and-accountability.md) · [Español](../i18n/es/chapters/31-safety-and-accountability.md) · [Français](../i18n/fr/chapters/31-safety-and-accountability.md) · [العربية](../i18n/ar/chapters/31-safety-and-accountability.md)
 
 ![Safety and Accountability — B2AGI](../assets/chapters/31-safety-and-accountability-01.png)
 

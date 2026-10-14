@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Beyond
 
-[English](../../../chapters/42-new-bodies-continuing-intelligence.md) · [한국어](42-new-bodies-continuing-intelligence.md) · [简体中文](../../zh-CN/chapters/42-new-bodies-continuing-intelligence.md) · [Español](../../es/chapters/42-new-bodies-continuing-intelligence.md) · [Français](../../fr/chapters/42-new-bodies-continuing-intelligence.md)
+[English](../../../chapters/42-new-bodies-continuing-intelligence.md) · [한국어](42-new-bodies-continuing-intelligence.md) · [简体中文](../../zh-CN/chapters/42-new-bodies-continuing-intelligence.md) · [Español](../../es/chapters/42-new-bodies-continuing-intelligence.md) · [Français](../../fr/chapters/42-new-bodies-continuing-intelligence.md) · [العربية](../../ar/chapters/42-new-bodies-continuing-intelligence.md)
 
 ![새로운 몸, 이어지는 지능 — B2AGI](../../../assets/chapters/42-new-bodies-continuing-intelligence-01.png)
 

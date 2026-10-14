@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Physical
 
-[English](17-intelligence-in-motion.md) · [한국어](../i18n/ko/chapters/17-intelligence-in-motion.md) · [简体中文](../i18n/zh-CN/chapters/17-intelligence-in-motion.md) · [Español](../i18n/es/chapters/17-intelligence-in-motion.md) · [Français](../i18n/fr/chapters/17-intelligence-in-motion.md)
+[English](17-intelligence-in-motion.md) · [한국어](../i18n/ko/chapters/17-intelligence-in-motion.md) · [简体中文](../i18n/zh-CN/chapters/17-intelligence-in-motion.md) · [Español](../i18n/es/chapters/17-intelligence-in-motion.md) · [Français](../i18n/fr/chapters/17-intelligence-in-motion.md) · [العربية](../i18n/ar/chapters/17-intelligence-in-motion.md)
 
 ![Intelligence in Motion — B2AGI](../assets/chapters/17-intelligence-in-motion-01.png)
 

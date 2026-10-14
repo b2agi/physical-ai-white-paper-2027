@@ -2,7 +2,7 @@
 
 B2AGI Livre blanc de l’IA physique 2027 · Intelligence
 
-[English](../../../chapters/05-physical-ai-value-chain.md) · [한국어](../../ko/chapters/05-physical-ai-value-chain.md) · [简体中文](../../zh-CN/chapters/05-physical-ai-value-chain.md) · [Español](../../es/chapters/05-physical-ai-value-chain.md) · [Français](05-physical-ai-value-chain.md)
+[English](../../../chapters/05-physical-ai-value-chain.md) · [한국어](../../ko/chapters/05-physical-ai-value-chain.md) · [简体中文](../../zh-CN/chapters/05-physical-ai-value-chain.md) · [Español](../../es/chapters/05-physical-ai-value-chain.md) · [Français](05-physical-ai-value-chain.md) · [العربية](../../ar/chapters/05-physical-ai-value-chain.md)
 
 ![La chaîne de valeur de l’IA physique — B2AGI](../../../assets/chapters/05-physical-ai-value-chain-01.png)
 

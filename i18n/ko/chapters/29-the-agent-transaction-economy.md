@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Capital
 
-[English](../../../chapters/29-the-agent-transaction-economy.md) · [한국어](29-the-agent-transaction-economy.md) · [简体中文](../../zh-CN/chapters/29-the-agent-transaction-economy.md) · [Español](../../es/chapters/29-the-agent-transaction-economy.md) · [Français](../../fr/chapters/29-the-agent-transaction-economy.md)
+[English](../../../chapters/29-the-agent-transaction-economy.md) · [한국어](29-the-agent-transaction-economy.md) · [简体中文](../../zh-CN/chapters/29-the-agent-transaction-economy.md) · [Español](../../es/chapters/29-the-agent-transaction-economy.md) · [Français](../../fr/chapters/29-the-agent-transaction-economy.md) · [العربية](../../ar/chapters/29-the-agent-transaction-economy.md)
 
 ![에이전트 거래 경제 — B2AGI](../../../assets/chapters/29-the-agent-transaction-economy-01.png)
 

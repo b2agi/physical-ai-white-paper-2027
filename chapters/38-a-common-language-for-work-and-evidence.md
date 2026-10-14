@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Trust
 
-[English](38-a-common-language-for-work-and-evidence.md) · [한국어](../i18n/ko/chapters/38-a-common-language-for-work-and-evidence.md) · [简体中文](../i18n/zh-CN/chapters/38-a-common-language-for-work-and-evidence.md) · [Español](../i18n/es/chapters/38-a-common-language-for-work-and-evidence.md) · [Français](../i18n/fr/chapters/38-a-common-language-for-work-and-evidence.md)
+[English](38-a-common-language-for-work-and-evidence.md) · [한국어](../i18n/ko/chapters/38-a-common-language-for-work-and-evidence.md) · [简体中文](../i18n/zh-CN/chapters/38-a-common-language-for-work-and-evidence.md) · [Español](../i18n/es/chapters/38-a-common-language-for-work-and-evidence.md) · [Français](../i18n/fr/chapters/38-a-common-language-for-work-and-evidence.md) · [العربية](../i18n/ar/chapters/38-a-common-language-for-work-and-evidence.md)
 
 ![A Common Language for Work and Evidence — B2AGI](../assets/chapters/38-a-common-language-for-work-and-evidence-01.png)
 

@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Intelligence
 
-[English](../../../chapters/01-physical-ai-in-2027.md) · [한국어](01-physical-ai-in-2027.md) · [简体中文](../../zh-CN/chapters/01-physical-ai-in-2027.md) · [Español](../../es/chapters/01-physical-ai-in-2027.md) · [Français](../../fr/chapters/01-physical-ai-in-2027.md)
+[English](../../../chapters/01-physical-ai-in-2027.md) · [한국어](01-physical-ai-in-2027.md) · [简体中文](../../zh-CN/chapters/01-physical-ai-in-2027.md) · [Español](../../es/chapters/01-physical-ai-in-2027.md) · [Français](../../fr/chapters/01-physical-ai-in-2027.md) · [العربية](../../ar/chapters/01-physical-ai-in-2027.md)
 
 ![2027년의 피지컬 AI — B2AGI](../../../assets/chapters/01-physical-ai-in-2027-01.png)
 

@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Intelligence
 
-[English](../../../chapters/02-choosing-the-right-body.md) · [한국어](02-choosing-the-right-body.md) · [简体中文](../../zh-CN/chapters/02-choosing-the-right-body.md) · [Español](../../es/chapters/02-choosing-the-right-body.md) · [Français](../../fr/chapters/02-choosing-the-right-body.md)
+[English](../../../chapters/02-choosing-the-right-body.md) · [한국어](02-choosing-the-right-body.md) · [简体中文](../../zh-CN/chapters/02-choosing-the-right-body.md) · [Español](../../es/chapters/02-choosing-the-right-body.md) · [Français](../../fr/chapters/02-choosing-the-right-body.md) · [العربية](../../ar/chapters/02-choosing-the-right-body.md)
 
 ![어떤 일을 위해 어떤 몸을 고를 것인가 — B2AGI](../../../assets/chapters/02-choosing-the-right-body-01.png)
 

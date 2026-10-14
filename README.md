@@ -4,7 +4,7 @@ Illustrated chapter guide · Five parts · 46 chapters
 
 **Industry, Capital, Security & Global Cooperation**
 
-[English](README.md) · [한국어](i18n/ko/README.md) · [简体中文](i18n/zh-CN/README.md) · [Español](i18n/es/README.md) · [Français](i18n/fr/README.md)
+[English](README.md) · [한국어](i18n/ko/README.md) · [简体中文](i18n/zh-CN/README.md) · [Español](i18n/es/README.md) · [Français](i18n/fr/README.md) · [العربية](i18n/ar/README.md)
 
 ![B2AGI Physical AI White Paper 2027](assets/physical-ai-white-paper-2027-cover.png)
 

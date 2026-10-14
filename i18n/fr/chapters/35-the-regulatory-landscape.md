@@ -2,7 +2,7 @@
 
 B2AGI Livre blanc de l’IA physique 2027 · Trust
 
-[English](../../../chapters/35-the-regulatory-landscape.md) · [한국어](../../ko/chapters/35-the-regulatory-landscape.md) · [简体中文](../../zh-CN/chapters/35-the-regulatory-landscape.md) · [Español](../../es/chapters/35-the-regulatory-landscape.md) · [Français](35-the-regulatory-landscape.md)
+[English](../../../chapters/35-the-regulatory-landscape.md) · [한국어](../../ko/chapters/35-the-regulatory-landscape.md) · [简体中文](../../zh-CN/chapters/35-the-regulatory-landscape.md) · [Español](../../es/chapters/35-the-regulatory-landscape.md) · [Français](35-the-regulatory-landscape.md) · [العربية](../../ar/chapters/35-the-regulatory-landscape.md)
 
 ![Le paysage réglementaire — B2AGI](../../../assets/chapters/35-the-regulatory-landscape-01.png)
 

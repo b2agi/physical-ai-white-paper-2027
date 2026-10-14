@@ -2,7 +2,7 @@
 
 B2AGI Livre blanc de l’IA physique 2027 · Capital
 
-[English](../../../chapters/25-revenue-margins-and-value-capture.md) · [한국어](../../ko/chapters/25-revenue-margins-and-value-capture.md) · [简体中文](../../zh-CN/chapters/25-revenue-margins-and-value-capture.md) · [Español](../../es/chapters/25-revenue-margins-and-value-capture.md) · [Français](25-revenue-margins-and-value-capture.md)
+[English](../../../chapters/25-revenue-margins-and-value-capture.md) · [한국어](../../ko/chapters/25-revenue-margins-and-value-capture.md) · [简体中文](../../zh-CN/chapters/25-revenue-margins-and-value-capture.md) · [Español](../../es/chapters/25-revenue-margins-and-value-capture.md) · [Français](25-revenue-margins-and-value-capture.md) · [العربية](../../ar/chapters/25-revenue-margins-and-value-capture.md)
 
 ![Revenus, marges et répartition de la valeur — B2AGI](../../../assets/chapters/25-revenue-margins-and-value-capture-01.png)
 

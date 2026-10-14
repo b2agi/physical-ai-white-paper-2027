@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Physical
 
-[English](../../../chapters/08-reading-the-field.md) · [한국어](08-reading-the-field.md) · [简体中文](../../zh-CN/chapters/08-reading-the-field.md) · [Español](../../es/chapters/08-reading-the-field.md) · [Français](../../fr/chapters/08-reading-the-field.md)
+[English](../../../chapters/08-reading-the-field.md) · [한국어](08-reading-the-field.md) · [简体中文](../../zh-CN/chapters/08-reading-the-field.md) · [Español](../../es/chapters/08-reading-the-field.md) · [Français](../../fr/chapters/08-reading-the-field.md) · [العربية](../../ar/chapters/08-reading-the-field.md)
 
 ![현장에서 산업을 읽는 방법 — B2AGI](../../../assets/chapters/08-reading-the-field-01.png)
 

@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Trust
 
-[English](33-industrial-sovereignty-national-security-and-cooperation.md) · [한국어](../i18n/ko/chapters/33-industrial-sovereignty-national-security-and-cooperation.md) · [简体中文](../i18n/zh-CN/chapters/33-industrial-sovereignty-national-security-and-cooperation.md) · [Español](../i18n/es/chapters/33-industrial-sovereignty-national-security-and-cooperation.md) · [Français](../i18n/fr/chapters/33-industrial-sovereignty-national-security-and-cooperation.md)
+[English](33-industrial-sovereignty-national-security-and-cooperation.md) · [한국어](../i18n/ko/chapters/33-industrial-sovereignty-national-security-and-cooperation.md) · [简体中文](../i18n/zh-CN/chapters/33-industrial-sovereignty-national-security-and-cooperation.md) · [Español](../i18n/es/chapters/33-industrial-sovereignty-national-security-and-cooperation.md) · [Français](../i18n/fr/chapters/33-industrial-sovereignty-national-security-and-cooperation.md) · [العربية](../i18n/ar/chapters/33-industrial-sovereignty-national-security-and-cooperation.md)
 
 ![Industrial Sovereignty, National Security, and Cooperation — B2AGI](../assets/chapters/33-industrial-sovereignty-national-security-and-cooperation-01.png)
 

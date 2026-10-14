@@ -2,7 +2,7 @@
 
 B2AGI Libro blanco de la IA física 2027 · Physical
 
-[English](../../../chapters/18-physical-ai-in-everyday-life.md) · [한국어](../../ko/chapters/18-physical-ai-in-everyday-life.md) · [简体中文](../../zh-CN/chapters/18-physical-ai-in-everyday-life.md) · [Español](18-physical-ai-in-everyday-life.md) · [Français](../../fr/chapters/18-physical-ai-in-everyday-life.md)
+[English](../../../chapters/18-physical-ai-in-everyday-life.md) · [한국어](../../ko/chapters/18-physical-ai-in-everyday-life.md) · [简体中文](../../zh-CN/chapters/18-physical-ai-in-everyday-life.md) · [Español](18-physical-ai-in-everyday-life.md) · [Français](../../fr/chapters/18-physical-ai-in-everyday-life.md) · [العربية](../../ar/chapters/18-physical-ai-in-everyday-life.md)
 
 ![La IA física en la vida cotidiana — B2AGI](../../../assets/chapters/18-physical-ai-in-everyday-life-01.png)
 

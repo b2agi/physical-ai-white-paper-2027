@@ -2,7 +2,7 @@
 
 B2AGI Libro blanco de la IA física 2027 · Trust
 
-[English](../../../chapters/31-safety-and-accountability.md) · [한국어](../../ko/chapters/31-safety-and-accountability.md) · [简体中文](../../zh-CN/chapters/31-safety-and-accountability.md) · [Español](31-safety-and-accountability.md) · [Français](../../fr/chapters/31-safety-and-accountability.md)
+[English](../../../chapters/31-safety-and-accountability.md) · [한국어](../../ko/chapters/31-safety-and-accountability.md) · [简体中文](../../zh-CN/chapters/31-safety-and-accountability.md) · [Español](31-safety-and-accountability.md) · [Français](../../fr/chapters/31-safety-and-accountability.md) · [العربية](../../ar/chapters/31-safety-and-accountability.md)
 
 ![Seguridad y responsabilidad — B2AGI](../../../assets/chapters/31-safety-and-accountability-01.png)
 

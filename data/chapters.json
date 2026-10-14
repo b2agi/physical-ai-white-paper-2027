@@ -8,7 +8,8 @@
     "ko",
     "zh-CN",
     "es",
-    "fr"
+    "fr",
+    "ar"
   ],
   "full_manuscript": false,
   "chapters": [
@@ -21,14 +22,16 @@
         "ko": "2027년의 피지컬 AI",
         "zh-CN": "2027年的物理人工智能",
         "es": "La IA física en 2027",
-        "fr": "L’IA physique en 2027"
+        "fr": "L’IA physique en 2027",
+        "ar": "الذكاء الاصطناعي المادي في 2027"
       },
       "guides": {
         "en": "Technology advances on one clock; customers operate on another. Physical AI becomes a business when useful work can be completed repeatedly, with integration, supervision, recovery, and acceptance accounted for.",
         "ko": "학습 기반 지능은 기존 자동화를 지우기보다 그 범위를 넓힌다. 정돈된 위치에서 같은 동작을 반복하는 일은 기존 설비가 안정적으로 맡을 수 있다. 물건의 방향이 흐트러지고 상태가 바뀌는 구간에서는 관찰한 정보를 행동에 반영하는 능력이 필요해진다. 기업이 따지는 것은 새 기체의 존재만이 아니라 어떤 작업을 넘길 수 있게 되었는가다.\n\n사람만 맡던 작업을 사람이 감독하는 조건에서 기계에 넘길 수 있게 되면, 인력과 비용의 배분도 달라진다. 그러나 가능해진 작업이 곧 더 싼 작업은 아니다. 사람이 매번 복구해야 하거나 다음 공정이 기다려야 한다면, 시연에서 보이지 않았던 시간이 실제 비용으로 나타난다. 사람이나 기존 자동화가 더 유리한 조건도 남는다.",
         "zh-CN": "技术进步与客户运营有各自的节奏。只有把集成、监督、故障恢复和验收纳入考量，让系统持续完成有用的工作，物理人工智能才能成为一门生意。",
         "es": "La tecnología avanza a un ritmo y los clientes trabajan a otro. La IA física se convierte en negocio cuando completa tareas útiles de forma repetida, contando con la integración, la supervisión, la recuperación y la aceptación del trabajo.",
-        "fr": "La technologie avance à un rythme, les clients travaillent à un autre. L’IA physique devient une activité viable lorsqu’elle accomplit un travail utile de façon répétée, en tenant compte de l’intégration, de la supervision, de la reprise après incident et de la réception du travail."
+        "fr": "La technologie avance à un rythme, les clients travaillent à un autre. L’IA physique devient une activité viable lorsqu’elle accomplit un travail utile de façon répétée, en tenant compte de l’intégration, de la supervision, de la reprise après incident et de la réception du travail.",
+        "ar": "تتقدم التقنية بإيقاع، ويعمل العملاء بإيقاع آخر. يصبح الذكاء الاصطناعي المادي نشاطاً تجارياً حين ينجز عملاً مفيداً بصورة متكررة، مع احتساب التكامل والإشراف والتعافي من الأعطال وقبول النتائج."
       },
       "images": [
         "assets/chapters/01-physical-ai-in-2027-01.png",
@@ -44,14 +47,16 @@
         "ko": "어떤 일을 위해 어떤 몸을 고를 것인가",
         "zh-CN": "为任务选择合适的机体",
         "es": "Elegir el cuerpo adecuado",
-        "fr": "Choisir le bon corps"
+        "fr": "Choisir le bon corps",
+        "ar": "اختيار الجسم المناسب للمهمة"
       },
       "guides": {
         "en": "Should the machine adapt to the workplace, or should the workplace adapt to the machine? The right body depends on the task, the environment, and the total cost of completing the work.",
         "ko": "차량은 도로에서 중량과 속도를 다루고, 드론은 지상 이동이 어려운 곳을 관찰한다. 각각 운행 조건과 보험, 배터리와 탑재 중량의 제약을 갖는다. 착용형 기기는 정보나 힘을 보태고 사람이 행동한다. 외형이 미래적으로 보이는가보다 고객의 작업에 어떤 능력이 필요한가를 먼저 묻는다.\n\n도착했다고 일이 끝나는 것도 아니다. 사람이 검사하는지 후속 설비가 인수하는지에 따라 센서와 소프트웨어가 달라진다. 고객은 형태와 함께 자신의 작업 흐름에 연결되는 방식을 산다.",
         "zh-CN": "是让机器适应工作场所，还是改造场所来适应机器？选择取决于任务、环境以及完成工作的总成本。",
         "es": "¿Debe adaptarse la máquina al lugar de trabajo o el lugar a la máquina? La respuesta depende de la tarea, del entorno y del coste total de realizar el trabajo.",
-        "fr": "Faut-il adapter la machine au lieu de travail ou le lieu à la machine ? Le choix dépend de la tâche, de l’environnement et du coût total du travail accompli."
+        "fr": "Faut-il adapter la machine au lieu de travail ou le lieu à la machine ? Le choix dépend de la tâche, de l’environnement et du coût total du travail accompli.",
+        "ar": "هل تتكيف الآلة مع مكان العمل أم يتغير المكان ليلائم الآلة؟ يتوقف الاختيار على المهمة والبيئة والتكلفة الإجمالية لإنجاز العمل."
       },
       "images": [
         "assets/chapters/02-choosing-the-right-body-01.png",
@@ -67,14 +72,16 @@
         "ko": "모델의 판단이 실제 행동이 되는 과정",
         "zh-CN": "从模型判断到实际行动",
         "es": "De los modelos a la acción",
-        "fr": "Des modèles à l’action"
+        "fr": "Des modèles à l’action",
+        "ar": "من النماذج إلى الفعل"
       },
       "guides": {
         "en": "Understanding a request is only the beginning. Physical work requires a continuous loop of observation, action, and verification—with clear limits on what the system may do.",
         "ko": "인식은 필요한 상태를 추정하고 예측은 행동 뒤 변화를 가늠한다. 계획은 목표를 순서와 경로로 바꾸며 제어는 실제 움직임과 목표의 차이를 줄인다. 이 기능들이 모든 제품에서 별도 모듈이어야 하는 것은 아니다. 학습 모델 안에서 묶여도 오류 진단·실행 제한·결과 확인의 역할은 남는다.\n\n센서 청소·보정·교체와 충전은 실제 가동 시간을 바꾼다. 정상적인 답이 늦게 도착해 다음 공정의 인수를 놓치면 처리량이 줄어든다. 지능의 배치는 운영 비용의 배치이기도 하다.",
         "zh-CN": "理解请求只是起点。物理任务需要持续观察、行动和验证，并明确系统可以采取哪些行动。",
         "es": "Comprender una petición es solo el principio. El trabajo físico exige observar, actuar y verificar de forma continua, con límites claros sobre lo que el sistema está autorizado a hacer.",
-        "fr": "Comprendre une demande n’est qu’un début. Le travail physique exige une boucle continue d’observation, d’action et de vérification, avec des limites claires sur les actions autorisées."
+        "fr": "Comprendre une demande n’est qu’un début. Le travail physique exige une boucle continue d’observation, d’action et de vérification, avec des limites claires sur les actions autorisées.",
+        "ar": "فهم الطلب هو البداية. يتطلب العمل المادي دورة متواصلة من الملاحظة والفعل والتحقق، مع حدود واضحة لما يُسمح للنظام بفعله."
       },
       "images": [
         "assets/chapters/03-from-models-to-action-01.png",
@@ -90,14 +97,16 @@
         "ko": "경험을 생산하고 거래하는 산업",
         "zh-CN": "机器人学习产业",
         "es": "La industria del aprendizaje robótico",
-        "fr": "L’industrie de l’apprentissage robotique"
+        "fr": "L’industrie de l’apprentissage robotique",
+        "ar": "صناعة تعلّم الروبوتات"
       },
       "guides": {
         "en": "Useful experience connects observations, actions, and outcomes. Its value depends on whether another system can reuse it with the relevant conditions, versions, and permissions intact.",
         "ko": "원격조작은 학습용 경험을 생산하기도 하고 운영 중 예외를 해결하기도 한다. 전자는 개발 투입이고 후자는 반복 서비스 비용이다. 운영 개입을 다음 학습에 활용하려면 품질 관리와 적용 판단의 경로가 필요하다. 수집 인력과 조건을 정리하는 인력은 서로 다른 일을 한다.\n\n디지털 트윈은 어떤 결정을 돕는지로 평가한다. 외형과 동선을 검토하는 모형과 제어·센서 조건을 시험하는 모형은 필요한 정밀도가 다르다. 설치 전 배치 수정으로 개발·통합비를 줄인 효과와 실제 운영비 절감은 따로 확인한다.",
         "zh-CN": "有用的经验把观察、行动与结果连接起来。它的价值在于其他系统能否在保留适用条件、版本和权限的前提下复用这些经验。",
         "es": "La experiencia útil conecta observaciones, acciones y resultados. Su valor depende de que otro sistema pueda reutilizarla conservando las condiciones, las versiones y los permisos pertinentes.",
-        "fr": "Une expérience utile relie observations, actions et résultats. Sa valeur dépend de sa réutilisation par un autre système, avec les conditions, les versions et les autorisations qui lui correspondent."
+        "fr": "Une expérience utile relie observations, actions et résultats. Sa valeur dépend de sa réutilisation par un autre système, avec les conditions, les versions et les autorisations qui lui correspondent.",
+        "ar": "تربط الخبرة المفيدة بين الملاحظات والأفعال والنتائج. وتتوقف قيمتها على قدرة نظام آخر على إعادة استخدامها مع الحفاظ على شروطها وإصداراتها والصلاحيات المرتبطة بها."
       },
       "images": [
         "assets/chapters/04-the-robot-learning-industry-01.png",
@@ -113,14 +122,16 @@
         "ko": "한 대의 로봇 뒤에 연결된 기업들",
         "zh-CN": "物理人工智能价值链",
         "es": "La cadena de valor de la IA física",
-        "fr": "La chaîne de valeur de l’IA physique"
+        "fr": "La chaîne de valeur de l’IA physique",
+        "ar": "سلسلة قيمة الذكاء الاصطناعي المادي"
       },
       "guides": {
         "en": "Behind one robot sits a network of component suppliers, model developers, integrators, software providers, and service teams. Their technical contributions, revenues, and responsibilities follow different paths.",
         "ko": "칩을 바꾸면 장착과 조달만 달라지는 것이 아니다. 모델 최적화와 개발 도구 전환, 재시험, 서비스 중단의 비용이 따라온다. 낮은 부품 단가의 효과는 같은 물량과 기간을 기준으로 전환 부담까지 합쳐 비교한다. 관절 수와 몸의 복잡성은 이런 비용을 반복시킨다.\n\n작업 완료, 계약 조건 충족, 매출 인식, 대금 수령은 각각 다른 사건이다. 업무 시스템은 이 조건과 시점을 구분해야 한다. 반복 서비스 매출이 생겨도 고객마다 일회성 연동과 예외 지원을 다시 개발하면 이익이 함께 늘지 않을 수 있다.",
         "zh-CN": "一台机器人背后有零部件供应商、模型开发者、集成商、软件商和服务团队。技术贡献、收入与责任在这条链上并不按同一种方式分配。",
         "es": "Detrás de un robot hay proveedores de componentes, desarrolladores de modelos, integradores y equipos de software y servicio. Sus aportaciones técnicas, sus ingresos y sus responsabilidades siguen caminos distintos.",
-        "fr": "Derrière un robot se trouvent des fournisseurs de composants, des développeurs de modèles, des intégrateurs et des équipes de service. Contributions techniques, revenus et responsabilités se répartissent différemment."
+        "fr": "Derrière un robot se trouvent des fournisseurs de composants, des développeurs de modèles, des intégrateurs et des équipes de service. Contributions techniques, revenus et responsabilités se répartissent différemment.",
+        "ar": "خلف كل روبوت شبكة من موردي المكونات ومطوري النماذج وشركات التكامل والبرمجيات وفرق الخدمة. وتتوزع المساهمات التقنية والإيرادات والمسؤوليات عبر مسارات مختلفة."
       },
       "images": [
         "assets/chapters/05-physical-ai-value-chain-01.png",
@@ -136,14 +147,16 @@
         "ko": "한 번의 성공을 지속 운영으로 바꾸기",
         "zh-CN": "从演示走向部署",
         "es": "De la demostración al despliegue",
-        "fr": "De la démonstration au déploiement"
+        "fr": "De la démonstration au déploiement",
+        "ar": "من العرض التجريبي إلى التشغيل الفعلي"
       },
       "guides": {
         "en": "A successful demonstration is a starting point. Deployment depends on whether the system can complete useful work repeatedly—and how it handles supervision, recovery, and acceptance.",
         "ko": "무료와 유료 파일럿, 정식 운영과 반복 구매는 다른 증거다. 연구용 기체는 시험 접근성과 도구에, 전용 자동화는 좁은 일을 오래 잘하는 데, 물류 서비스는 공정을 이어가는 데 가치가 있다. 모든 회사가 같은 순서로 올라가야 하는 성적표가 아니다. 공공 연구·실증·서비스의 성과도 매출 전환만으로 통일하지 않는다.",
         "zh-CN": "成功演示是起点。实际部署要看系统能否反复完成有用的工作，以及监督、故障恢复和验收如何落实。",
         "es": "Una demostración exitosa es un punto de partida. El despliegue exige repetir el trabajo útil y resolver la supervisión, la recuperación ante fallos y la aceptación del resultado.",
-        "fr": "Une démonstration réussie est un point de départ. Le déploiement dépend de la répétition du travail utile, mais aussi de la supervision, de la reprise après incident et de la réception du résultat."
+        "fr": "Une démonstration réussie est un point de départ. Le déploiement dépend de la répétition du travail utile, mais aussi de la supervision, de la reprise après incident et de la réception du résultat.",
+        "ar": "العرض الناجح نقطة بداية. أما التشغيل الفعلي فيعتمد على تكرار إنجاز العمل المفيد، وعلى كيفية الإشراف والتعافي من الأعطال وقبول النتائج."
       },
       "images": [
         "assets/chapters/06-from-demonstration-to-deployment-01.png",
@@ -159,14 +172,16 @@
         "ko": "누가, 왜 피지컬 AI를 필요로 하는가?",
         "zh-CN": "谁需要物理人工智能？",
         "es": "¿Quién necesita la IA física?",
-        "fr": "Qui a besoin de l’IA physique ?"
+        "fr": "Qui a besoin de l’IA physique ?",
+        "ar": "من يحتاج إلى الذكاء الاصطناعي المادي؟"
       },
       "guides": {
         "en": "Customers have work to finish. The practical question is where Physical AI delivers a better combination of quality, capacity, cost, and exception handling than the available alternatives.",
         "ko": "서비스는 사용자와 공간 변화 속에서 청소·운반·안내의 반복 결과를 유지해야 한다. 농업은 생물과 날씨, 짧은 수확기와 비수기 유지비가 조건이다. 돌봄의 직접 신체 보조와 물건 운반·안내 같은 간접 지원은 다른 안전·신뢰 부담을 갖는다.\n\n정돈된 환경, 반복 가능한 작업, 관리 가능한 실패는 초기 도입에 유리할 수 있다. 같은 작업도 지역의 전력·통신·언어·정비와 접근성에 따라 조건이 달라진다. 한 나라의 보급 순서를 모든 지역에 옮기지 않는다.",
         "zh-CN": "客户需要完成工作。应当比较物理人工智能与其他方案在质量、产能、成本和异常处理上的实际表现。",
         "es": "Los clientes necesitan terminar un trabajo. La pregunta es dónde la IA física ofrece una mejor combinación de calidad, capacidad, coste y gestión de imprevistos que las alternativas disponibles.",
-        "fr": "Les clients ont un travail à terminer. Il faut déterminer où l’IA physique offre une meilleure combinaison de qualité, de capacité, de coût et de gestion des imprévus que les autres solutions."
+        "fr": "Les clients ont un travail à terminer. Il faut déterminer où l’IA physique offre une meilleure combinaison de qualité, de capacité, de coût et de gestion des imprévus que les autres solutions.",
+        "ar": "لدى العملاء أعمال يجب إنجازها. والسؤال هو أين يقدم الذكاء الاصطناعي المادي مزيجاً أفضل من الجودة والقدرة والتكلفة ومعالجة الحالات الاستثنائية مقارنة بالبدائل المتاحة."
       },
       "images": [
         "assets/chapters/07-who-needs-physical-ai-01.png",
@@ -182,14 +197,16 @@
         "ko": "현장에서 산업을 읽는 방법",
         "zh-CN": "从现场理解产业",
         "es": "Leer la industria sobre el terreno",
-        "fr": "Lire l’industrie sur le terrain"
+        "fr": "Lire l’industrie sur le terrain",
+        "ar": "قراءة الصناعة من الميدان"
       },
       "guides": {
         "en": "A field visit reveals specific moments of work. Connecting those observations to operating conditions, support time, and recovery records turns a compelling scene into useful industry evidence.",
         "ko": "2026년 9월 1일, 상하이 DQ Blizzard & Burgers 우장루점. Henry Chan Jung / B2AGI 현장 기록. 자비 주문의 제조 접점과 수령을 기록했다. 주문·결제부터 인계까지 끊김 없이 촬영한 묶음은 아니며 생략 구간이 있다. 제조 장면 사진은 편집 영상의 정지 화면이다.\n\n고객의 손과 기계의 손이 같은 컵에 닿는 순간은 설비와 제품이 고객 경험으로 넘어가는 접점이다. 확인한 방문과 인계를 하루의 운영 성적으로 확장하지 않는다.",
         "zh-CN": "现场访问呈现的是工作的具体片段。把观察与运行条件、支持工时和恢复记录结合起来，才能形成可用的产业证据。",
         "es": "Una visita muestra momentos concretos del trabajo. Relacionarlos con las condiciones operativas, el tiempo de asistencia y los registros de recuperación permite convertir una escena llamativa en evidencia útil.",
-        "fr": "Une visite montre des moments précis du travail. Les relier aux conditions d’exploitation, au temps d’assistance et aux traces de reprise permet d’en tirer des éléments utiles à l’analyse."
+        "fr": "Une visite montre des moments précis du travail. Les relier aux conditions d’exploitation, au temps d’assistance et aux traces de reprise permet d’en tirer des éléments utiles à l’analyse.",
+        "ar": "تكشف الزيارة الميدانية لحظات محددة من العمل. وربطها بظروف التشغيل ووقت الدعم وسجلات التعافي يحوّل المشهد اللافت إلى أدلة مفيدة لفهم الصناعة."
       },
       "images": [
         "assets/chapters/08-reading-the-field-01.png",
@@ -205,14 +222,16 @@
         "ko": "중국은 어떻게 산업의 기반을 만드는가",
         "zh-CN": "中国：产业基础如何形成",
         "es": "China: construir una industria",
-        "fr": "Chine : construire une industrie"
+        "fr": "Chine : construire une industrie",
+        "ar": "الصين: بناء صناعة"
       },
       "guides": {
         "en": "China’s Physical AI ecosystem connects policy, industrial funding, training infrastructure, and manufacturers. The next question is how that growing capacity translates into reusable experience and recurring customer demand.",
         "ko": "중국의 피지컬 AI 산업에서는 정책과 산업자금, 훈련 시설, 제조기업이 함께 움직인다. 늘어난 시설과 생산능력이 어떤 경험을 축적하고, 그 경험이 고객의 지속적인 수요로 이어지는지 살펴본다.",
         "zh-CN": "中国的物理人工智能生态连接政策、产业资金、训练设施和制造商。关键在于新增能力如何转化为可复用经验和持续客户需求。",
         "es": "El ecosistema chino conecta política industrial, financiación, infraestructuras de entrenamiento y fabricantes. La cuestión es cómo esa capacidad se traduce en experiencia reutilizable y demanda recurrente.",
-        "fr": "L’écosystème chinois relie politique industrielle, financement, infrastructures d’entraînement et fabricants. L’enjeu est de transformer ces capacités en expérience réutilisable et en demande récurrente."
+        "fr": "L’écosystème chinois relie politique industrielle, financement, infrastructures d’entraînement et fabricants. L’enjeu est de transformer ces capacités en expérience réutilisable et en demande récurrente.",
+        "ar": "تجمع منظومة الذكاء الاصطناعي المادي في الصين بين السياسات والتمويل الصناعي وبنية التدريب والمصنّعين. ويُقاس أثر توسعها بقدرتها على إنتاج خبرة قابلة لإعادة الاستخدام وطلب متكرر من العملاء."
       },
       "images": [
         "assets/chapters/09-china-building-an-industry-01.png",
@@ -228,14 +247,16 @@
         "ko": "중국 도시마다 다른 산업의 연결",
         "zh-CN": "中国的产业集群",
         "es": "Los clústeres industriales de China",
-        "fr": "Les pôles industriels chinois"
+        "fr": "Les pôles industriels chinois",
+        "ar": "التجمعات الصناعية في الصين"
       },
       "guides": {
         "en": "Industrial clusters gain strength through the work exchanged between researchers, suppliers, manufacturers, and customers. Understanding those connections gives each city a more useful meaning than a company count alone.",
         "ko": "연구기관과 부품업체, 제조기업, 고객이 어떤 일을 주고받는지 보면 도시의 산업적 역할이 드러난다. 기업 수만으로는 이 관계를 알기 어렵다. 같은 도시 안에서도 공용 훈련장과 기업 내부 데이터 시설은 접근 조건과 활용 방식이 다르다.",
         "zh-CN": "研究机构、供应商、制造商和客户之间的业务往来构成集群的力量。理解这些联系，比单看企业数量更能说明一座城市的产业位置。",
         "es": "La fuerza de un clúster procede del trabajo compartido entre investigadores, proveedores, fabricantes y clientes. Esas relaciones explican mejor el papel de una ciudad que el mero número de empresas.",
-        "fr": "La force d’un pôle tient au travail échangé entre chercheurs, fournisseurs, fabricants et clients. Ces liens éclairent le rôle d’une ville mieux qu’un simple décompte d’entreprises."
+        "fr": "La force d’un pôle tient au travail échangé entre chercheurs, fournisseurs, fabricants et clients. Ces liens éclairent le rôle d’une ville mieux qu’un simple décompte d’entreprises.",
+        "ar": "تستمد التجمعات الصناعية قوتها من العمل المتبادل بين الباحثين والموردين والمصنّعين والعملاء. وتفسر هذه الروابط دور المدينة بصورة أوضح من عدد الشركات وحده."
       },
       "images": [
         "assets/chapters/10-china-s-industrial-clusters-01.png",
@@ -251,14 +272,16 @@
         "ko": "중국 기업: 기업의 약속, 고객의 가치",
         "zh-CN": "中国企业与客户",
         "es": "China: empresas y clientes",
-        "fr": "Chine : entreprises et clients"
+        "fr": "Chine : entreprises et clients",
+        "ar": "الصين: الشركات والعملاء"
       },
       "guides": {
         "en": "A robot purchased for research serves a different purpose from one purchased for daily operations. Reading Chinese robotics companies means following customer needs, support obligations, and the economics after delivery.",
         "ko": "연구용 로봇을 사는 고객과 매일 업무를 맡기려는 고객은 요구가 다르다. 중국 로봇기업을 읽을 때도 누구에게 무엇을 팔고, 납품 뒤 어떤 지원을 맡으며, 그 비용을 누가 부담하는지 함께 봐야 한다.",
         "zh-CN": "科研采购与日常运营采购服务于不同目的。理解机器人企业，需要追踪客户需求、交付后的支持义务和运营经济性。",
         "es": "Comprar un robot para investigación no responde a la misma necesidad que comprarlo para operar a diario. Analizar estas empresas exige seguir las necesidades del cliente, el soporte y la economía posterior a la entrega.",
-        "fr": "Un robot acheté pour la recherche ne répond pas au même besoin qu’un robot destiné aux opérations quotidiennes. L’analyse doit suivre les besoins du client, les obligations d’assistance et l’économie après livraison."
+        "fr": "Un robot acheté pour la recherche ne répond pas au même besoin qu’un robot destiné aux opérations quotidiennes. L’analyse doit suivre les besoins du client, les obligations d’assistance et l’économie après livraison.",
+        "ar": "شراء روبوت للبحث يختلف عن شرائه للعمل اليومي. وفهم شركات الروبوتات الصينية يتطلب تتبع حاجات العملاء والتزامات الدعم واقتصاديات التشغيل بعد التسليم."
       },
       "images": [
         "assets/chapters/11-china-companies-and-customers-01.png",
@@ -274,14 +297,16 @@
         "ko": "미국의 모델과 자본이 고객 업무를 만나는 곳",
         "zh-CN": "美国：模型、资本与客户",
         "es": "Estados Unidos: modelos, capital y clientes",
-        "fr": "États-Unis : modèles, capitaux et clients"
+        "fr": "États-Unis : modèles, capitaux et clients",
+        "ar": "الولايات المتحدة: النماذج ورأس المال والعملاء"
       },
       "guides": {
         "en": "Research, computing, and capital create powerful foundations. Customer deployment adds integration, maintenance, and operating demands that determine whether those foundations become a repeatable business.",
         "ko": "미국의 연구 역량과 컴퓨팅 인프라, 자본은 제품 개발의 기반이다. 고객 현장에서는 여기에 통합·정비·운영 비용이 더해진다. 개발 단계의 강점이 반복 가능한 사업으로 이어지는지는 이 조건까지 확인해야 알 수 있다.",
         "zh-CN": "研究、算力和资本奠定基础。客户部署带来的集成、维护与运营要求，决定了这些基础能否支撑可重复的业务。",
         "es": "La investigación, la computación y el capital aportan una base sólida. La integración, el mantenimiento y las exigencias del cliente determinan si esa base sostiene un negocio repetible.",
-        "fr": "La recherche, le calcul et les capitaux constituent des bases solides. L’intégration, la maintenance et les exigences d’exploitation déterminent si elles permettent une activité reproductible."
+        "fr": "La recherche, le calcul et les capitaux constituent des bases solides. L’intégration, la maintenance et les exigences d’exploitation déterminent si elles permettent une activité reproductible.",
+        "ar": "يوفر البحث والحوسبة ورأس المال أساساً قوياً. وتحدد متطلبات التكامل والصيانة والتشغيل لدى العميل ما إذا كان هذا الأساس يدعم نشاطاً تجارياً قابلاً للتكرار."
       },
       "images": [
         "assets/chapters/12-america-models-capital-and-customers-01.png",
@@ -297,14 +322,16 @@
         "ko": "연구도시와 고객 현장, 금융도시를 잇는 회랑",
         "zh-CN": "美国的产业集群",
         "es": "Los clústeres industriales de Estados Unidos",
-        "fr": "Les pôles industriels américains"
+        "fr": "Les pôles industriels américains",
+        "ar": "التجمعات الصناعية في الولايات المتحدة"
       },
       "guides": {
         "en": "The addresses of research, manufacturing, finance, and customer support often differ. Their connections help explain how an American robotics company develops a product and keeps it working in the field.",
         "ko": "보스턴의 MassRobotics는 연구·스타트업·산업·정부의 접점이다. 협력 입구와 개별 기업의 상업화 실적은 구분한다. 피츠버그는 연구를 산업 작업 문제와 연결한다. 먼지·진동·조도·통신·정비 접근성을 다루는 제품화는 연구 성과와 별도다. 베이 에어리어의 모델·컴퓨팅·벤처와 인재는 지식의 집적이지만 고객은 국내외에 분산된다.\n\n뉴욕 같은 금융 접점은 투자·대출·보험으로 선행 비용과 위험을 배분한다. 거래 발표 장소와 개발·생산·운영 장소가 다를 수 있다. 금융 거점의 역할은 기업의 물리적 집적보다 관계에서 드러난다.",
         "zh-CN": "研究、制造、金融和客户支持往往位于不同地点。它们之间的联系，解释了机器人产品如何开发并在现场持续运行。",
         "es": "La investigación, la fabricación, la financiación y el soporte suelen estar en lugares distintos. Sus conexiones explican cómo se desarrolla un producto y cómo se mantiene operativo en las instalaciones del cliente.",
-        "fr": "Recherche, fabrication, financement et assistance se trouvent souvent dans des lieux différents. Leurs liens expliquent comment un produit se développe et reste opérationnel chez le client."
+        "fr": "Recherche, fabrication, financement et assistance se trouvent souvent dans des lieux différents. Leurs liens expliquent comment un produit se développe et reste opérationnel chez le client.",
+        "ar": "غالباً ما تتوزع مراكز البحث والتصنيع والتمويل ودعم العملاء على أماكن مختلفة. وتوضح الروابط بينها كيف تطور الشركة منتجاً وتحافظ على عمله في الميدان."
       },
       "images": [
         "assets/chapters/13-america-s-industrial-clusters-01.png",
@@ -320,14 +347,16 @@
         "ko": "한국 제조 역량을 새로운 시장으로 연결하기",
         "zh-CN": "韩国：从制造优势走向新市场",
         "es": "Corea del Sur: de la fortaleza industrial a nuevos mercados",
-        "fr": "Corée du Sud : de la force industrielle aux nouveaux marchés"
+        "fr": "Corée du Sud : de la force industrielle aux nouveaux marchés",
+        "ar": "كوريا الجنوبية: من القوة التصنيعية إلى أسواق جديدة"
       },
       "guides": {
         "en": "Korea’s manufacturing experience provides detailed knowledge of real production tasks. Turning that knowledge into products for external customers requires reusable integration, documentation, and support.",
         "ko": "한국 제조업에는 실제 생산 작업에서 쌓은 경험이 있다. 이를 외부 고객에게 판매할 제품으로 만들려면 통합 방식과 문서, 지원 체계를 다른 현장에서도 다시 쓸 수 있어야 한다. 내부 공장에서 잘 작동하는 것과 여러 고객에게 공급하는 것은 서로 다른 과제다.",
         "zh-CN": "韩国的制造经验积累了对生产任务的细致理解。把这些经验转化为面向外部客户的产品，需要可复用的集成方案、文档和支持体系。",
         "es": "La experiencia manufacturera aporta un conocimiento detallado de las tareas de producción. Convertirlo en productos para clientes externos requiere integración reutilizable, documentación y soporte.",
-        "fr": "L’expérience manufacturière apporte une connaissance précise des tâches de production. La transformer en produits pour d’autres clients exige une intégration réutilisable, de la documentation et une assistance adaptée."
+        "fr": "L’expérience manufacturière apporte une connaissance précise des tâches de production. La transformer en produits pour d’autres clients exige une intégration réutilisable, de la documentation et une assistance adaptée.",
+        "ar": "تمنح الخبرة التصنيعية معرفة دقيقة بمهام الإنتاج. وتحويلها إلى منتجات لعملاء خارجيين يحتاج إلى أساليب تكامل قابلة لإعادة الاستخدام وتوثيق ودعم مناسبين."
       },
       "images": [
         "assets/chapters/14-korea-from-manufacturing-strength-to-new-markets-01.png",
@@ -343,14 +372,16 @@
         "ko": "한국의 연구·실증·제조·고객 지도",
         "zh-CN": "韩国的产业集群",
         "es": "Los clústeres industriales de Corea del Sur",
-        "fr": "Les pôles industriels sud-coréens"
+        "fr": "Les pôles industriels sud-coréens",
+        "ar": "التجمعات الصناعية في كوريا الجنوبية"
       },
       "guides": {
         "en": "Research facilities and testbeds create places to develop and validate technology. Their industrial value becomes clearer when results are reused in product improvements, customer acceptance, and repeat engagement.",
         "ko": "시설은 시험할 능력을 제공한다. 기록은 그 능력이 제품 개선과 고객의 검수·인수에 어떻게 쓰였는지를 보여준다. 둘은 같은 성과가 아니다.\n\n클러스터 안의 연구시설, 기업 유치, 교육, 시험장과 부품 공급망은 동시에 완성되지 않는다. 건물과 장비를 갖추면 시험의 공급 기반이 생긴다. 기업이 제품을 가져와 검증하고 이용 계약을 맺으며 반복 방문할 때 그 기반의 활용이 드러난다. 시설 완공을 고객 거래의 완성으로 읽으면 실제 이용 과정이 사라진다.",
         "zh-CN": "研究设施和试验场为开发与验证提供空间。当成果被用于产品改进、客户验收和持续合作时，其产业价值才更加清晰。",
         "es": "Los centros de investigación y ensayo permiten desarrollar y validar tecnología. Su valor industrial se concreta cuando los resultados se reutilizan para mejorar productos, obtener la aceptación del cliente y mantener la relación comercial.",
-        "fr": "Les centres de recherche et d’essai permettent de développer et de valider les technologies. Leur valeur industrielle se précise lorsque les résultats servent à améliorer les produits, à obtenir la réception du client et à poursuivre la coopération."
+        "fr": "Les centres de recherche et d’essai permettent de développer et de valider les technologies. Leur valeur industrielle se précise lorsque les résultats servent à améliorer les produits, à obtenir la réception du client et à poursuivre la coopération.",
+        "ar": "توفر مرافق البحث والاختبار أماكن لتطوير التقنية والتحقق منها. وتتضح قيمتها الصناعية عندما تُستخدم نتائجها لتحسين المنتجات وقبول العملاء لها واستمرار التعامل معهم."
       },
       "images": [
         "assets/chapters/15-korea-s-industrial-clusters-01.png",
@@ -366,14 +397,16 @@
         "ko": "제조와 물류: 자동화가 돈이 되는 곳",
         "zh-CN": "制造与物流：自动化何时创造收益",
         "es": "Manufactura y logística: dónde resulta rentable automatizar",
-        "fr": "Industrie et logistique : où l’automatisation est rentable"
+        "fr": "Industrie et logistique : où l’automatisation est rentable",
+        "ar": "التصنيع والخدمات اللوجستية: أين تحقق الأتمتة عائداً؟"
       },
       "guides": {
         "en": "The customer buys a completed workflow. In factories and warehouses, automation creates value when handling, inspection, transport, and the next process work together.",
         "ko": "고객이 구매하는 것은 상자를 들어 올리는 동작이 아니라, 다음 공정에 손상 없이 전달된 상자다. 하역 지점이 막혀 있다면 빠른 로봇도 대기열에 먼저 도착할 뿐이다.\n\n집기는 물체를 찾고 잡는 순간에 끝나지 않는다. 변형과 미끄러짐에 대응하면서 다음 공정이 사용할 위치와 방향으로 내려놓아야 한다. 조립은 목표 좌표보다 접촉 힘과 부품의 맞물림이 중요하다. 결합이 틀리면 재작업이 남는다. 검사는 결함 판정이 격리와 후속 조치에 연결되어야 하고, 운반은 주행 속도뿐 아니라 혼잡·배차·적재·하역의 대기까지 포함한다.",
         "zh-CN": "客户购买的是完整流程的结果。在工厂和仓库中，搬运、检测、运输与后续工序相互衔接，自动化才能创造价值。",
         "es": "El cliente compra un flujo de trabajo completo. En fábricas y almacenes, la automatización crea valor cuando manipulación, inspección, transporte y procesos posteriores funcionan de forma coordinada.",
-        "fr": "Le client achète un processus accompli. Dans les usines et les entrepôts, l’automatisation crée de la valeur lorsque manutention, inspection, transport et étapes suivantes fonctionnent ensemble."
+        "fr": "Le client achète un processus accompli. Dans les usines et les entrepôts, l’automatisation crée de la valeur lorsque manutention, inspection, transport et étapes suivantes fonctionnent ensemble.",
+        "ar": "يشتري العميل نتيجة سير عمل مكتمل. وفي المصانع والمستودعات، تحقق الأتمتة قيمة عندما تتكامل المناولة والفحص والنقل مع العملية التالية."
       },
       "images": [
         "assets/chapters/16-manufacturing-and-logistics-where-automation-pays-01.png",
@@ -389,14 +422,16 @@
         "ko": "움직이는 지능",
         "zh-CN": "移动中的智能",
         "es": "Inteligencia en movimiento",
-        "fr": "L’intelligence en mouvement"
+        "fr": "L’intelligence en mouvement",
+        "ar": "ذكاء في حركة"
       },
       "guides": {
         "en": "Arrival does not always complete a task. Autonomous mobility must also handle handover, exceptions, operating permissions, and readiness for the next journey.",
         "ko": "배송 기체가 건물 앞에 멈춰도 수령자가 나타나지 않으면 주문은 끝나지 않는다. 물건과 기체가 같은 작업에 묶인 시간이 길어지고 다음 호출에 배정할 장치가 줄어든다. 인계는 이동의 마지막 절차이면서 다음 이동의 시작 조건이다.\n\n승객은 안전한 도착을, 물류사는 정해진 시간과 상태의 화물 인계를, 시설 운영자는 사람 동선을 방해하지 않는 물품 운송을 산다. 검사 드론의 결과는 요구된 위치에서 얻은 판독 가능한 데이터다. 거리와 최고 속도는 이 작업의 일부다. 출발 준비·경로·도착 후 사용·예외 처리와 그 반복에 필요한 충전·정비·원격 지원이 전체 서비스를 만든다.",
         "zh-CN": "抵达不一定意味着任务完成。自主移动系统还要处理交接、异常、运行许可，并为下一次行程做好准备。",
         "es": "Llegar al destino no siempre completa la tarea. La movilidad autónoma también debe resolver la entrega, los imprevistos, los permisos de operación y la preparación del siguiente trayecto.",
-        "fr": "Arriver à destination ne suffit pas toujours. La mobilité autonome doit aussi assurer la remise, traiter les imprévus, respecter les autorisations et préparer le trajet suivant."
+        "fr": "Arriver à destination ne suffit pas toujours. La mobilité autonome doit aussi assurer la remise, traiter les imprévus, respecter les autorisations et préparer le trajet suivant.",
+        "ar": "الوصول إلى الوجهة لا يعني دائماً اكتمال المهمة. يجب أن تعالج أنظمة التنقل الذاتي التسليم والحالات الاستثنائية وتصاريح التشغيل والاستعداد للرحلة التالية."
       },
       "images": [
         "assets/chapters/17-intelligence-in-motion-01.png",
@@ -412,14 +447,16 @@
         "ko": "일상 속 피지컬 AI",
         "zh-CN": "日常生活中的物理人工智能",
         "es": "La IA física en la vida cotidiana",
-        "fr": "L’IA physique au quotidien"
+        "fr": "L’IA physique au quotidien",
+        "ar": "الذكاء الاصطناعي المادي في الحياة اليومية"
       },
       "guides": {
         "en": "Everyday environments bring changing spaces, users, and expectations. Useful systems must fit those conditions while preserving safety, accessibility, and people’s ability to choose how they receive assistance.",
         "ko": "청소 기체 앞에 장난감이 놓이면 다른 구역을 먼저 처리할 수 있다. 매번 사람이 물건을 치우고 기체를 들어 옮겨야 한다면 편리함의 일부가 준비와 복구 노동으로 돌아온다. 생활의 기술은 그 돌아오는 수고까지 줄일 때 남는다.\n\n가정·학교·병원·상점의 공간은 사람에게 익숙하지만 기계에는 계속 바뀐다. 가구·조명·바닥·소음이 다르고 아이·방문객·반려동물·이동 보조기구가 예고 없이 들어온다. 사용자가 매번 공간과 생활 습관을 표준화하기는 어렵다. 작은 실패가 큰 불편으로 번지지 않는 복구가 일상 사용의 핵심이다.",
         "zh-CN": "日常环境中的空间、用户和期待不断变化。系统需要适应这些条件，同时保障安全、可及性，以及人们选择接受何种帮助的权利。",
         "es": "Los espacios, los usuarios y las expectativas cambian. Los sistemas deben adaptarse sin perder de vista la seguridad, la accesibilidad y la capacidad de las personas para elegir cómo reciben ayuda.",
-        "fr": "Les espaces, les usagers et leurs attentes évoluent. Les systèmes doivent s’y adapter tout en préservant la sécurité, l’accessibilité et le choix de chacun quant à l’aide reçue."
+        "fr": "Les espaces, les usagers et leurs attentes évoluent. Les systèmes doivent s’y adapter tout en préservant la sécurité, l’accessibilité et le choix de chacun quant à l’aide reçue.",
+        "ar": "تتغير الأماكن والمستخدمون والتوقعات في الحياة اليومية. وتحتاج الأنظمة إلى التكيف مع هذه الظروف مع الحفاظ على السلامة وإمكانية الوصول وحق الأشخاص في اختيار كيفية تلقي المساعدة."
       },
       "images": [
         "assets/chapters/18-physical-ai-in-everyday-life-01.png",
@@ -435,14 +472,16 @@
         "ko": "중국·미국·한국을 비교하는 법",
         "zh-CN": "如何比较中国、美国与韩国",
         "es": "Comparar China, Estados Unidos y Corea del Sur",
-        "fr": "Comparer la Chine, les États-Unis et la Corée du Sud"
+        "fr": "Comparer la Chine, les États-Unis et la Corée du Sud",
+        "ar": "مقارنة الصين والولايات المتحدة وكوريا الجنوبية"
       },
       "guides": {
         "en": "Countries participate in overlapping supply chains and markets. A useful comparison examines the same questions about technology, customers, capital, and operations while preserving each market’s conditions.",
         "ko": "중국·미국·한국의 산업을 비교할 때는 각국의 출발점과 고객의 작업 조건을 함께 봐야 한다. 국가별 특징을 개별 기업의 고정된 역할이나 우열로 옮겨 읽을 수는 없다.\n\n자본은 제품을 만들 여력을 주지만 고객의 검수·인수를 대신하지 않는다. 기술이 좋아도 통합과 서비스가 부족하면 반복 사용으로 이어지지 않는다. 중국의 국가·지방 기반, 미국의 모델·자본·전문 시스템, 한국의 제조·수요 현장은 다른 출발점을 가진다. 그 사이의 간격을 누가 메우는지가 사업을 만든다.",
         "zh-CN": "各国参与的供应链和市场相互交叠。比较应围绕相同的技术、客户、资本与运营问题，同时保留各地的具体条件。",
         "es": "Los países comparten cadenas de suministro y mercados. Una comparación útil plantea las mismas preguntas sobre tecnología, clientes, capital y operaciones, sin borrar las condiciones de cada mercado.",
-        "fr": "Les chaînes d’approvisionnement et les marchés se recoupent. Une comparaison utile pose les mêmes questions sur la technologie, les clients, les capitaux et les opérations, tout en conservant les particularités de chaque marché."
+        "fr": "Les chaînes d’approvisionnement et les marchés se recoupent. Une comparaison utile pose les mêmes questions sur la technologie, les clients, les capitaux et les opérations, tout en conservant les particularités de chaque marché.",
+        "ar": "تشارك الدول في سلاسل توريد وأسواق متداخلة. وتطرح المقارنة المفيدة الأسئلة نفسها حول التقنية والعملاء ورأس المال والتشغيل، مع مراعاة ظروف كل سوق."
       },
       "images": [
         "assets/chapters/19-comparing-china-america-and-korea-01.png",
@@ -458,14 +497,16 @@
         "ko": "글로벌 사례의 현지화",
         "zh-CN": "从国际案例走向本地部署",
         "es": "De los casos internacionales al despliegue local",
-        "fr": "Des exemples internationaux au déploiement local"
+        "fr": "Des exemples internationaux au déploiement local",
+        "ar": "من التجارب الدولية إلى التشغيل المحلي"
       },
       "guides": {
         "en": "A successful deployment elsewhere offers a starting point. Local adoption depends on power, connectivity, maintenance, workforce conditions, and the customer’s actual budget and workflow.",
         "ko": "같은 기체를 사도 같은 사업은 생기지 않는다. 주문량·메뉴·전력·정비·직원의 역할·대기 허용 시간이 다르면 결과가 달라진다. 옮길 것은 외형보다 작동 조건이다.\n\nSiemens와 NVIDIA의 산업 AI 협력은 유럽 산업 소프트웨어와 미국 컴퓨팅을 잇는다. 일본 육묘 고객의 덴마크계 협동로봇은 현지 공급자의 통합으로 작업을 완성했고, 르완다 의료 물류의 공공 수요는 미국 드론 기술의 쓰임을 만들었다. 어떤 지역은 대형 모델을 먼저 만들지 않고도 산업에 참여한다.",
         "zh-CN": "其他地区的成功案例提供起点。本地应用还取决于电力、连接、维护、人力条件，以及客户的实际预算和工作流程。",
         "es": "Un caso exitoso en otro mercado ofrece un punto de partida. La adopción local depende de la energía, la conectividad, el mantenimiento, las condiciones laborales y el presupuesto y los procesos reales del cliente.",
-        "fr": "Un déploiement réussi ailleurs offre un point de départ. L’adoption locale dépend de l’énergie, de la connectivité, de la maintenance, du travail humain ainsi que du budget et des processus du client."
+        "fr": "Un déploiement réussi ailleurs offre un point de départ. L’adoption locale dépend de l’énergie, de la connectivité, de la maintenance, du travail humain ainsi que du budget et des processus du client.",
+        "ar": "توفر تجربة ناجحة في بلد آخر نقطة انطلاق. لكن التطبيق المحلي يعتمد على الكهرباء والاتصال والصيانة وظروف العمل وميزانية العميل وسير العمل الفعلي لديه."
       },
       "images": [
         "assets/chapters/20-from-global-examples-to-local-deployment-01.png",
@@ -481,14 +522,16 @@
         "ko": "공공자금: 정책에서 실행으로",
         "zh-CN": "公共资金：从政策到执行",
         "es": "Financiación pública: de la política a la práctica",
-        "fr": "Financement public : de la politique à la pratique"
+        "fr": "Financement public : de la politique à la pratique",
+        "ar": "التمويل العام: من السياسة إلى التنفيذ"
       },
       "guides": {
         "en": "Public funding can support research, infrastructure, procurement, and public services. Its results should be assessed against the purpose funded and how the resulting capabilities remain useful.",
         "ko": "연구·시설·공공 구매는 같은 돈으로 다른 위험을 부담한다. 남은 구조를 이어 쓰려면 기술뿐 아니라 운영할 사람과 유지할 재원이 필요하다. 후속 재원은 공공 목적에 따라 계속 지원될 수도 있다.\n\n위험 노동, 제조 경쟁력, 돌봄·물류 인력 공백, 재난·기반시설 관찰은 다른 결과를 요구한다. 산업 역량과 공공 서비스 개선을 함께 추구하더라도 지표는 구분한다. 연구비를 고객 매출로 합치면 수요가 부풀고 공공 구매를 모두 보조금으로 처리하면 기관이 얻은 사용 가치가 사라진다.",
         "zh-CN": "公共资金可以支持研究、基础设施、采购和公共服务。评价应围绕资金用途，以及形成的能力能否持续发挥作用。",
         "es": "La financiación pública puede apoyar investigación, infraestructuras, compras y servicios públicos. Sus resultados deben valorarse según el objetivo financiado y la utilidad duradera de las capacidades creadas.",
-        "fr": "Les fonds publics peuvent soutenir la recherche, les infrastructures, les achats et les services publics. Les résultats s’apprécient au regard de l’objectif financé et de l’utilité durable des capacités créées."
+        "fr": "Les fonds publics peuvent soutenir la recherche, les infrastructures, les achats et les services publics. Les résultats s’apprécient au regard de l’objectif financé et de l’utilité durable des capacités créées.",
+        "ar": "يمكن للتمويل العام دعم البحث والبنية الأساسية والمشتريات والخدمات العامة. وتُقيّم نتائجه وفق الغرض الذي موّله واستمرار الانتفاع بالقدرات الناتجة عنه."
       },
       "images": [
         "assets/chapters/21-public-funding-from-policy-to-practice-01.png",
@@ -504,14 +547,16 @@
         "ko": "누가 피지컬 AI에 자금을 대는가",
         "zh-CN": "谁为物理人工智能提供资金？",
         "es": "¿Quién financia la IA física?",
-        "fr": "Qui finance l’IA physique ?"
+        "fr": "Qui finance l’IA physique ?",
+        "ar": "من يمول الذكاء الاصطناعي المادي؟"
       },
       "guides": {
         "en": "Investors, lenders, customers, and public institutions finance different promises. Understanding those differences helps match development, deployment, and working-capital needs to suitable funding.",
         "ko": "현금이 늘었다는 사실은 개발 여력을 말하지만 수익성이나 고객 의무의 이행을 증명하지 않는다. 돈의 출처보다 그 돈에 붙은 권리와 약속이 기업의 다음 선택을 바꾼다.\n\n지분 투자자는 미래 가치에 참여하고 대주는 약정에 따른 상환을 요구한다. 매출은 제공한 제품·서비스의 대가이며 선금에는 아직 수행할 계약이 남을 수 있다. 개발·생산·배치 뒤 정비와 업데이트까지 시간을 쓰므로 투자 유치와 고객 매출로 운영비를 충당하는 시점도 다르다.",
         "zh-CN": "投资者、贷款机构、客户和公共机构支持的是不同承诺。理解这些差异，才能为研发、部署和营运资金需求匹配合适的融资。",
         "es": "Inversores, prestamistas, clientes e instituciones públicas financian compromisos distintos. Entenderlos permite ajustar la financiación a las necesidades de desarrollo, despliegue y capital de trabajo.",
-        "fr": "Investisseurs, prêteurs, clients et institutions publiques financent des engagements différents. Les comprendre permet d’adapter le financement au développement, au déploiement et au besoin en fonds de roulement."
+        "fr": "Investisseurs, prêteurs, clients et institutions publiques financent des engagements différents. Les comprendre permet d’adapter le financement au développement, au déploiement et au besoin en fonds de roulement.",
+        "ar": "يمول المستثمرون والمقرضون والعملاء والمؤسسات العامة التزامات مختلفة. وفهمها يساعد على اختيار التمويل المناسب للتطوير والتشغيل واحتياجات رأس المال العامل."
       },
       "images": [
         "assets/chapters/22-who-finances-physical-ai-01.png",
@@ -527,14 +572,16 @@
         "ko": "고객은 왜 다시 구매하는가",
         "zh-CN": "客户为何再次购买？",
         "es": "¿Por qué vuelven a comprar los clientes?",
-        "fr": "Pourquoi les clients achètent-ils à nouveau ?"
+        "fr": "Pourquoi les clients achètent-ils à nouveau ?",
+        "ar": "لماذا يعود العملاء للشراء؟"
       },
       "guides": {
         "en": "Repeat purchases reveal what customers found worth keeping. They depend on operating results, service quality, and a value proposition that survives beyond the first installation.",
         "ko": "출하는 공급의 진행, 매출 인식은 계약 이행, 재구매는 이전 사용 뒤에도 남은 지불 이유다. 첫 시스템을 인수하고 사용한 경험이 다음 예산으로 넘어갈 때 지속 수요가 보인다.\n\n생산 예산은 생산성·인력·품질의 반복 문제를 해결한다. 투자 예산은 기존 대안의 비용·편익·회수·운영 위험을 심의한다. 이는 공급사 수익·현금·거래 가격까지 보는 자본 투자 판단과 다르다. RaaS·리스도 선지출을 나누는 계약이며 조직 심의와 지급·회계 조건이 남는다.",
         "zh-CN": "复购表明客户愿意保留什么。它取决于运营结果、服务质量，以及首次安装之后仍然成立的价值。",
         "es": "La recompra muestra qué considera valioso el cliente. Depende de los resultados operativos, de la calidad del servicio y de una propuesta de valor que perdure tras la primera instalación.",
-        "fr": "Le renouvellement d’un achat révèle ce que le client souhaite conserver. Il dépend des résultats opérationnels, de la qualité du service et d’une valeur qui perdure après la première installation."
+        "fr": "Le renouvellement d’un achat révèle ce que le client souhaite conserver. Il dépend des résultats opérationnels, de la qualité du service et d’une valeur qui perdure après la première installation.",
+        "ar": "تكشف المشتريات المتكررة عما يرغب العميل في الاحتفاظ به. وهي تعتمد على نتائج التشغيل وجودة الخدمة واستمرار القيمة بعد التركيب الأول."
       },
       "images": [
         "assets/chapters/23-why-customers-buy-again-01.png",
@@ -550,14 +597,16 @@
         "ko": "작업 한 건의 진짜 비용",
         "zh-CN": "一项任务的真实成本",
         "es": "El coste real de una tarea",
-        "fr": "Le coût réel d’une tâche"
+        "fr": "Le coût réel d’une tâche",
+        "ar": "التكلفة الحقيقية للمهمة"
       },
       "guides": {
         "en": "The purchase price is one part of the calculation. Cost per accepted task also reflects integration, supervision, maintenance, downtime, and how much useful work the system actually completes.",
         "ko": "같은 가격의 기계 두 대가 같은 비용의 작업을 만들지는 않는다. 한쪽은 기존 설비에 들어가고 다른 쪽은 물체의 배치와 안전 구역을 다시 만든다. 한쪽은 고객의 정비팀이 돌보고 다른 쪽은 전문 지원자를 부른다. 고객이 사는 것은 기체만이 아니라 그 기체·주변 설비·사람의 역할로 구성된 완료 결과다.\n\n이 장의 한 문장 판단은 간단하다. 가격표보다, 인수된 한 작업의 전체 비용. 다만 비용이 가장 낮은 후보가 고객의 모든 목적에 가장 적합한 후보인 것은 아니다. 안전·서비스 연속성·돌봄의 선택권에는 별도의 결과 지표가 필요하다.",
         "zh-CN": "采购价只是其中一项。每项通过验收的任务成本，还包括集成、监督、维护、停机，以及系统实际完成的有效工作量。",
         "es": "El precio de compra es solo una parte. El coste por tarea aceptada también depende de la integración, la supervisión, el mantenimiento, las paradas y el volumen de trabajo útil realmente completado.",
-        "fr": "Le prix d’achat n’est qu’un élément. Le coût par tâche acceptée par le client dépend aussi de l’intégration, de la supervision, de la maintenance, des arrêts et du volume de travail utile réellement accompli."
+        "fr": "Le prix d’achat n’est qu’un élément. Le coût par tâche acceptée par le client dépend aussi de l’intégration, de la supervision, de la maintenance, des arrêts et du volume de travail utile réellement accompli.",
+        "ar": "سعر الشراء جزء من الحساب. تشمل تكلفة المهمة التي يقبلها العميل أيضاً التكامل والإشراف والصيانة والتوقف، وتتأثر بحجم العمل المفيد الذي ينجزه النظام فعلياً."
       },
       "images": [
         "assets/chapters/24-the-true-cost-of-a-task-01.png",
@@ -573,14 +622,16 @@
         "ko": "매출·마진·가치의 귀속",
         "zh-CN": "收入、利润率与价值归属",
         "es": "Ingresos, márgenes y captura de valor",
-        "fr": "Revenus, marges et répartition de la valeur"
+        "fr": "Revenus, marges et répartition de la valeur",
+        "ar": "الإيرادات والهوامش وتوزيع القيمة"
       },
       "guides": {
         "en": "A system can create value for its customer while leaving its suppliers with thin margins. Follow the contracts, recurring support costs, and bargaining power to see where value accumulates.",
         "ko": "고객의 작업에 가치가 생겼다고 공급사의 이익까지 보장되지는 않는다. 고객의 대가에서 수행 원가와 조직의 비용을 감당해야 이익이 남는다. 이익이 나는 판매를 늘리면 총이익이 커질 수 있지만 손실 판매를 늘리면 손실도 커진다. 개발과 조직 확대 비용이 더 빨리 늘면 총이익 증가와 영업이익 감소가 동시에 일어난다.\n\n이 장의 작품은 계약이 반복되어도 지원 의무가 반복된다는 관계를 보여준다. 끝의 잔여판은 흑자가 남는 하나의 개념 예시이지 특정 기업의 이익률이나 모든 구독의 성공을 뜻하지 않는다. 고객 관계를 유지하면서 다음 작업의 추가 비용을 낮추는 역할에 확장의 이익이 쌓인다.",
         "zh-CN": "系统可能为客户创造价值，却给供应商留下微薄利润。需要沿着合同、持续支持成本和议价能力，判断价值最终流向哪里。",
         "es": "Un sistema puede crear valor para el cliente y dejar márgenes escasos a sus proveedores. Los contratos, los costes recurrentes de soporte y el poder de negociación muestran dónde se concentra ese valor.",
-        "fr": "Un système peut créer de la valeur pour le client tout en laissant peu de marge aux fournisseurs. Contrats, coûts récurrents d’assistance et pouvoir de négociation montrent où cette valeur se concentre."
+        "fr": "Un système peut créer de la valeur pour le client tout en laissant peu de marge aux fournisseurs. Contrats, coûts récurrents d’assistance et pouvoir de négociation montrent où cette valeur se concentre.",
+        "ar": "قد يحقق النظام قيمة للعميل ويترك هوامش محدودة للموردين. توضح العقود وتكاليف الدعم المتكررة والقوة التفاوضية أين تتجمع القيمة."
       },
       "images": [
         "assets/chapters/25-revenue-margins-and-value-capture-01.png",
@@ -596,14 +647,16 @@
         "ko": "재무제표 읽기",
         "zh-CN": "如何阅读财务报表",
         "es": "Leer los estados financieros",
-        "fr": "Lire les états financiers"
+        "fr": "Lire les états financiers",
+        "ar": "قراءة القوائم المالية"
       },
       "guides": {
         "en": "Orders, shipments, revenue, and cash describe different events. Financial analysis becomes useful when those events are connected to the product, reporting period, and obligations still outstanding.",
         "ko": "고객에게 보낸 로봇이 아직 재고로 남아 있다. 회계 주석 하나가 기술과 거래의 사이를 보여준다. 물리적 출고가 끝났어도 통제 이전 조건이 남으면 생산에 쓴 자금은 공급사에 묶인다. 고객의 검수·인수, 회계 인식, 대금 수령은 서로 다른 기록이며 항상 같은 순서로 일어나지도 않는다.\n\n작품의 금속 스트립은 이 기록의 연관이다. 고객 측 물건을 사용하지 못하게 묶는 케이블이나 법적 소유권을 단정하는 사슬이 아니다. 물건은 이동했지만, 인식 조건은 남아 있다.",
         "zh-CN": "订单、出货、收入与现金是不同事件。将它们与产品、报告期间和未履行义务对应起来，财务分析才有实际意义。",
         "es": "Pedidos, envíos, ingresos y efectivo describen hechos distintos. El análisis financiero debe relacionarlos con el producto, el periodo informado y las obligaciones pendientes.",
-        "fr": "Commandes, expéditions, chiffre d’affaires et trésorerie décrivent des événements distincts. L’analyse doit les relier au produit, à la période comptable et aux obligations restant à remplir."
+        "fr": "Commandes, expéditions, chiffre d’affaires et trésorerie décrivent des événements distincts. L’analyse doit les relier au produit, à la période comptable et aux obligations restant à remplir.",
+        "ar": "الطلبات والشحنات والإيرادات والنقد أحداث مختلفة. ويصبح التحليل المالي مفيداً عندما يربطها بالمنتج والفترة المالية والالتزامات التي لم تُنفذ بعد."
       },
       "images": [
         "assets/chapters/26-reading-the-financial-statements-01.png",
@@ -619,14 +672,16 @@
         "ko": "로봇 자산 금융",
         "zh-CN": "机器人资产融资",
         "es": "Financiar activos robóticos",
-        "fr": "Financer les actifs robotiques"
+        "fr": "Financer les actifs robotiques",
+        "ar": "تمويل الأصول الروبوتية"
       },
       "guides": {
         "en": "Robot financing depends on who owns, operates, maintains, and can redeploy the equipment. Repayment capacity comes from usable cash flows and enforceable arrangements around the asset.",
         "ko": "상자가 다음 공정에 도착하는 결과를 원하는 고객이 반드시 운반 기체를 소유해야 하는 것은 아니다. 그러나 기체가 멈췄을 때 정비와 대체 작업을 마련할 책임은 어딘가에 남는다. 금융은 초기 지출을 나누면서 이 운영·중단·회수의 부담을 계약 당사자 사이에 배분한다.\n\n같은 기체, 같은 월 요금도 다른 책임의 거래가 될 수 있다. 작품의 네 역할은 계약에 따라 겹치거나 나뉜다. 소유·사용·운영·자금 제공을 각기 다른 실제 회사가 항상 맡는다는 뜻은 아니다.",
         "zh-CN": "融资取决于谁拥有、运营、维护设备，以及谁能将其重新部署。偿付能力来自可用现金流和围绕资产的可执行安排。",
         "es": "La financiación depende de quién posee, opera, mantiene y puede reasignar el equipo. La capacidad de pago procede de los flujos de caja disponibles y de acuerdos exigibles sobre el activo.",
-        "fr": "Le financement dépend de la propriété, de l’exploitation, de la maintenance et de la possibilité de redéployer l’équipement. Le remboursement repose sur des flux de trésorerie disponibles et des accords exécutoires."
+        "fr": "Le financement dépend de la propriété, de l’exploitation, de la maintenance et de la possibilité de redéployer l’équipement. Le remboursement repose sur des flux de trésorerie disponibles et des accords exécutoires.",
+        "ar": "يعتمد التمويل على من يملك المعدات ويشغلها ويصونها ويستطيع إعادة نشرها. وتأتي القدرة على السداد من تدفقات نقدية متاحة وترتيبات قابلة للإنفاذ بشأن الأصل."
       },
       "images": [
         "assets/chapters/27-financing-robot-assets-01.png",
@@ -642,14 +697,16 @@
         "ko": "로봇 자산·RWA·STO·토큰화",
         "zh-CN": "机器人资产、RWA、STO与代币化",
         "es": "Activos robóticos, RWA, STO y tokenización",
-        "fr": "Actifs robotiques, RWA, STO et tokenisation"
+        "fr": "Actifs robotiques, RWA, STO et tokenisation",
+        "ar": "الأصول الروبوتية وRWA وSTO والترميز"
       },
       "guides": {
         "en": "A physical machine, its contracts, and a digital token represent different things. Financing through tokenization requires clear rights, servicing arrangements, and a credible connection to the underlying asset.",
         "ko": "기체는 현장에 남고 권리의 보유자는 바뀔 수 있다. 그러나 다음 수입은 새 고객이 일을 맡기고 결과를 인수하며 약정 대금을 지급하는 데서 나온다. 디지털 이전이 빨라져도 정비·재배치·인수의 시간은 남는다.\n\n사업은 배분할 현금을 만들고, 계약은 그 몫을 정하며, 디지털 구조는 이전과 관리의 비용을 바꾼다. 작품의 여섯 평면은 이 기능을 구별하는 인덱스다. 실제 금융상품·법적 권리의 완전한 체계·측정된 현금흐름을 그린 것이 아니다.",
         "zh-CN": "实体机器、合同和数字代币代表不同对象。代币化融资需要明确权利、服务安排，以及与底层资产的可靠联系。",
         "es": "La máquina, sus contratos y un token digital representan cosas distintas. La financiación mediante tokenización requiere derechos claros, acuerdos de gestión y una conexión fiable con el activo subyacente.",
-        "fr": "Une machine, ses contrats et un jeton numérique représentent des choses différentes. La tokenisation exige des droits clairs, des modalités de gestion et un lien crédible avec l’actif sous-jacent."
+        "fr": "Une machine, ses contrats et un jeton numérique représentent des choses différentes. La tokenisation exige des droits clairs, des modalités de gestion et un lien crédible avec l’actif sous-jacent.",
+        "ar": "الآلة المادية وعقودها والرمز الرقمي أشياء مختلفة. ويتطلب التمويل عبر الترميز حقوقاً واضحة وترتيبات لإدارة الأصل وصلة موثوقة بالأصل الأساسي."
       },
       "images": [
         "assets/chapters/28-robot-assets-rwa-sto-and-tokenization-01.png",
@@ -665,14 +722,16 @@
         "ko": "에이전트 거래 경제",
         "zh-CN": "智能体交易经济",
         "es": "La economía de las transacciones entre agentes",
-        "fr": "L’économie des transactions entre agents"
+        "fr": "L’économie des transactions entre agents",
+        "ar": "اقتصاد معاملات الوكلاء الذكيين"
       },
       "guides": {
         "en": "When agents arrange work or payments, delegation becomes part of the transaction. Requests, permissions, acceptance, and settlement need to remain connected through failures and retries.",
         "ko": "부품이 부족하다는 발견과 부품을 살 권한은 다르다. 주문한 물건이 도착했다는 보고와 전액 지급해도 된다는 판단도 다르다. 에이전트 거래는 이 단계들을 같은 요청으로 연결해 반복 설명과 대조의 부담을 줄이는 설계다.\n\n이 장의 모든 로봇 주문·하역·배송 장면은 가상 업무 설계다. 실제 자동 거래 실적이나 특정 결제망의 작동을 증명하지 않는다. 작품은 응답 유실 뒤 같은 요청을 조회해 중복 주문과 지급을 만들지 않는 한 관계에 집중한다.",
         "zh-CN": "智能体安排工作或支付时，授权委托成为交易的一部分。请求、权限、验收和结算需要在失败与重试中保持关联。",
         "es": "Cuando los agentes organizan trabajo o pagos, la delegación forma parte de la transacción. Solicitudes, permisos, aceptación y liquidación deben seguir conectados incluso ante fallos y reintentos.",
-        "fr": "Quand des agents organisent un travail ou un paiement, la délégation fait partie de la transaction. Demandes, autorisations, réception et règlement doivent rester liés malgré les échecs et les nouvelles tentatives."
+        "fr": "Quand des agents organisent un travail ou un paiement, la délégation fait partie de la transaction. Demandes, autorisations, réception et règlement doivent rester liés malgré les échecs et les nouvelles tentatives.",
+        "ar": "حين ينظم الوكلاء العمل أو المدفوعات، يصبح التفويض جزءاً من المعاملة. ويجب أن تبقى الطلبات والصلاحيات والقبول والتسوية مترابطة عند الفشل وإعادة المحاولة."
       },
       "images": [
         "assets/chapters/29-the-agent-transaction-economy-01.png",
@@ -688,14 +747,16 @@
         "ko": "무엇이 투자 결정을 좌우하는가",
         "zh-CN": "什么决定一项投资能否成立？",
         "es": "¿Qué hace viable una inversión?",
-        "fr": "Qu’est-ce qui rend un investissement viable ?"
+        "fr": "Qu’est-ce qui rend un investissement viable ?",
+        "ar": "ما الذي يجعل الاستثمار مجدياً؟"
       },
       "guides": {
         "en": "Strong technology, a viable business, and an attractive investment require different judgments. The investment case connects operating economics with price, financing terms, rights, and the path to returns.",
         "ko": "로봇이 빨라지고 주문도 늘었다. 그러나 새 고객마다 통합 인력을 더하고 회수는 늦어진다면 성장할수록 자금이 더 필요할 수 있다. 좋은 기술, 좋은 사업, 좋은 가격에 취득한 투자는 서로 다른 판단이다.\n\n이 장은 반복 작업의 현금에서 출발해 가격·추가 조달·회수 경로·권리를 연결한다. 작품은 그중 현장 운영현금과 투자자 배분 사이를 보여준다. 양의 잔여가 있는 가상 구조이며 특정 투자수익이나 지급 우선순위를 나타내지 않는다.",
         "zh-CN": "技术实力、业务可行性与投资吸引力需要不同判断。投资分析要把运营经济性与价格、融资条款、权利和回报路径结合起来。",
         "es": "Una buena tecnología, un negocio viable y una inversión atractiva exigen juicios distintos. La tesis de inversión relaciona la economía operativa con el precio, las condiciones de financiación, los derechos y las vías de retorno.",
-        "fr": "Une technologie solide, une activité viable et un investissement attractif exigent des appréciations différentes. L’analyse relie l’économie opérationnelle au prix, aux conditions de financement, aux droits et aux perspectives de rendement."
+        "fr": "Une technologie solide, une activité viable et un investissement attractif exigent des appréciations différentes. L’analyse relie l’économie opérationnelle au prix, aux conditions de financement, aux droits et aux perspectives de rendement.",
+        "ar": "التقنية القوية والنشاط التجاري القابل للاستمرار والاستثمار الجذاب تتطلب أحكاماً مختلفة. ويربط تحليل الاستثمار اقتصاديات التشغيل بالسعر وشروط التمويل والحقوق ومسار تحقيق العائد."
       },
       "images": [
         "assets/chapters/30-what-makes-an-investment-work-01.png",
@@ -711,14 +772,16 @@
         "ko": "안전과 책임",
         "zh-CN": "安全与责任",
         "es": "Seguridad y responsabilidad",
-        "fr": "Sécurité et responsabilité"
+        "fr": "Sécurité et responsabilité",
+        "ar": "السلامة والمسؤولية"
       },
       "guides": {
         "en": "Safety begins with design and continues through integration, operation, updates, and recovery. Accountability requires clarity about who controls each stage and who decides when work can resume.",
         "ko": "움직임이 사라져도 들고 있는 물체와 막힌 통로는 남는다. 정지 기능이 작동했다는 기록은 안전한 접근과 다시 시작할 조건을 모두 설명하지 않는다. 운영에는 정상 동작뿐 아니라 중지·복구·변경의 비용이 들어간다.\n\n작품은 정지된 하중과 안정 상태의 검토, 재개 기록을 구별한다. 실제 현장의 안전 절차나 장치의 인증을 그린 것이 아니다. 멈춘 뒤에도, 책임은 남는다.",
         "zh-CN": "安全从设计延续到集成、运营、更新与恢复。责任明确，意味着知道各阶段由谁控制，以及谁决定何时恢复工作。",
         "es": "La seguridad comienza en el diseño y continúa en la integración, la operación, las actualizaciones y la recuperación. Hay que saber quién controla cada etapa y quién autoriza reanudar el trabajo.",
-        "fr": "La sécurité commence à la conception et se poursuit pendant l’intégration, l’exploitation, les mises à jour et la reprise. Il faut savoir qui contrôle chaque étape et qui autorise la reprise du travail."
+        "fr": "La sécurité commence à la conception et se poursuit pendant l’intégration, l’exploitation, les mises à jour et la reprise. Il faut savoir qui contrôle chaque étape et qui autorise la reprise du travail.",
+        "ar": "تبدأ السلامة من التصميم وتستمر خلال التكامل والتشغيل والتحديث والتعافي. وتتطلب المسؤولية وضوحاً بشأن من يتحكم في كل مرحلة ومن يقرر استئناف العمل."
       },
       "images": [
         "assets/chapters/31-safety-and-accountability-01.png",
@@ -734,14 +797,16 @@
         "ko": "피지컬 AI의 보안",
         "zh-CN": "物理人工智能的网络安全",
         "es": "Proteger la IA física",
-        "fr": "Protéger l’IA physique"
+        "fr": "Protéger l’IA physique",
+        "ar": "أمن الذكاء الاصطناعي المادي"
       },
       "guides": {
         "en": "Changes to data, accounts, or commands can change what a machine does in the physical world. Security must connect information integrity with safe operations, detection, and recovery.",
         "ko": "작업 지시가 바뀌면 물건이 가는 곳도 바뀐다. 화면의 데이터가 바닥 위 행동이 되는 것이다. 기체·계정·업데이트·고객 업무·지원·공급망의 연결은 필요한 기능의 경로이자 침해가 전파될 수 있는 경로다.\n\n작품은 가동 중이라는 사실과 올바른 결과를 분리한다. 요청 A와 결과 B의 불일치는 조사할 신호이며 그 자체로 공격이 입증된 것은 아니다. 원고의 예시처럼 명령·실행·인수를 대조할 때 정상처럼 보이는 오류가 드러난다.",
         "zh-CN": "数据、账户或指令的变化，可能改变机器在现实世界中的行动。安全需要把信息完整性与安全运行、检测和恢复连接起来。",
         "es": "Los cambios en datos, cuentas o instrucciones pueden alterar la conducta de una máquina en el mundo físico. La ciberseguridad debe conectar la integridad de la información con la operación segura, la detección y la recuperación.",
-        "fr": "Des changements dans les données, les comptes ou les commandes peuvent modifier l’action d’une machine. La cybersécurité doit relier l’intégrité de l’information à la sûreté d’exploitation, à la détection et à la reprise."
+        "fr": "Des changements dans les données, les comptes ou les commandes peuvent modifier l’action d’une machine. La cybersécurité doit relier l’intégrité de l’information à la sûreté d’exploitation, à la détection et à la reprise.",
+        "ar": "يمكن لتغيير البيانات أو الحسابات أو الأوامر أن يغير فعل الآلة في العالم المادي. لذلك يجب ربط سلامة المعلومات بالتشغيل الآمن واكتشاف المشكلات والتعافي منها."
       },
       "images": [
         "assets/chapters/32-securing-physical-ai-01.png",
@@ -757,14 +822,16 @@
         "ko": "산업 주권·국가안보·협력",
         "zh-CN": "产业主权、国家安全与合作",
         "es": "Soberanía industrial, seguridad nacional y cooperación",
-        "fr": "Souveraineté industrielle, sécurité nationale et coopération"
+        "fr": "Souveraineté industrielle, sécurité nationale et coopération",
+        "ar": "السيادة الصناعية والأمن الوطني والتعاون"
       },
       "guides": {
         "en": "Resilience depends on the ability to maintain critical functions and put alternatives into use. Supply chains, replacement capabilities, and international cooperation all shape that ability.",
         "ko": "대체 센서의 납기는 구매 조직이 아는 시간이다. 달라진 소프트웨어와 행동, 안전 조건을 검토해 다시 가동하는 시점은 운영 조직의 시간이다. 부품이 도착해도 그 사이의 일은 남는다.\n\n대안이 있는 것과 바꿀 수 있는 것은 다르다. 산업 주권은 모든 것을 국내에서 만든다는 선언만이 아니라 주요 기능을 유지하고 중단 뒤 선택을 실행할 능력이다. 작품의 가상 센서 교체는 이 관계를 보여주며 특정 국가·제품의 실제 시험을 나타내지 않는다.",
         "zh-CN": "韧性取决于维持关键功能和启用替代方案的能力。供应链、替换能力和国际合作共同影响这一能力。",
         "es": "La resiliencia depende de mantener funciones críticas y poner alternativas en marcha. Las cadenas de suministro, la capacidad de sustitución y la cooperación internacional condicionan esa capacidad.",
-        "fr": "La résilience repose sur le maintien des fonctions critiques et la mise en service de solutions de remplacement. Chaînes d’approvisionnement, capacités de substitution et coopération internationale y contribuent."
+        "fr": "La résilience repose sur le maintien des fonctions critiques et la mise en service de solutions de remplacement. Chaînes d’approvisionnement, capacités de substitution et coopération internationale y contribuent.",
+        "ar": "تعتمد المرونة على الحفاظ على الوظائف الحيوية وتشغيل البدائل. وتسهم سلاسل التوريد وقدرات الاستبدال والتعاون الدولي في تحديد هذه القدرة."
       },
       "images": [
         "assets/chapters/33-industrial-sovereignty-national-security-and-cooperation-01.png",
@@ -780,14 +847,16 @@
         "ko": "신원·위임·권한",
         "zh-CN": "身份、委托与权限",
         "es": "Identidad, delegación y autoridad",
-        "fr": "Identité, délégation et autorité"
+        "fr": "Identité, délégation et autorité",
+        "ar": "الهوية والتفويض والصلاحيات"
       },
       "guides": {
         "en": "Knowing who a system is does not establish what it may do. Reliable delegation defines permitted actions, limits, revocation, and the responsibilities attached to each task.",
         "ko": "문을 열 수 있는 능력이 모든 문을 열 권한은 아니다. 읽기를 허용받은 같은 주체도 설비 제어는 허용받지 않을 수 있다. 이 구분은 지능을 억누르기 위한 것이 아니라, 서로 다른 조직의 공간에서 일을 맡길 수 있게 만드는 조건이다.\n\n창고에서 화물을 옮기는 작업에는 목표를 정한 사람, 계획을 만든 모델, 명령을 전달한 서비스, 움직인 기체, 적용된 소프트웨어 판본, 결과를 인수하는 고객이 참여한다. 어느 단계에서 잘못된 지시가 생겼는지와 기체가 지시를 잘못 수행했는지는 다른 질문이다.",
         "zh-CN": "知道系统是谁，不代表知道它有权做什么。可靠委托需要明确允许的行动、边界、撤销方式和每项任务的责任。",
         "es": "Saber qué sistema actúa no determina qué puede hacer. Una delegación fiable define las acciones permitidas, los límites, la revocación y las responsabilidades de cada tarea.",
-        "fr": "Identifier un système ne suffit pas à définir ses droits d’action. Une délégation fiable précise les actions autorisées, les limites, la révocation et les responsabilités attachées à chaque tâche."
+        "fr": "Identifier un système ne suffit pas à définir ses droits d’action. Une délégation fiable précise les actions autorisées, les limites, la révocation et les responsabilités attachées à chaque tâche.",
+        "ar": "معرفة هوية النظام لا تحدد ما يُسمح له بفعله. يوضح التفويض الموثوق الأفعال المسموح بها وحدودها وكيفية إلغاء الصلاحيات والمسؤوليات المرتبطة بكل مهمة."
       },
       "images": [
         "assets/chapters/34-identity-delegation-and-authority-01.png",
@@ -803,14 +872,16 @@
         "ko": "규제의 지도",
         "zh-CN": "监管地图",
         "es": "El panorama regulatorio",
-        "fr": "Le paysage réglementaire"
+        "fr": "Le paysage réglementaire",
+        "ar": "المشهد التنظيمي"
       },
       "guides": {
         "en": "Regulatory requirements follow the product’s function, use, location, and responsible parties. Mapping those conditions helps connect development decisions with market entry and ongoing operations.",
         "ko": "적용되는 규칙은 제품의 기능과 용도, 사용 장소, 책임 주체에 따라 달라진다. 이 조건을 먼저 정리해야 개발 단계의 선택을 시장 진입과 운영 요건에 연결할 수 있다.",
         "zh-CN": "监管要求取决于产品功能、用途、地点和责任主体。梳理这些条件，有助于把开发决策与市场准入和持续运营连接起来。",
         "es": "Los requisitos dependen de la función, el uso, la ubicación y los responsables del producto. Identificar esas condiciones conecta las decisiones de desarrollo con el acceso al mercado y la operación continuada.",
-        "fr": "Les exigences dépendent de la fonction du produit, de son usage, du lieu et des parties responsables. Les préciser relie les choix de développement à l’accès au marché et à l’exploitation dans la durée."
+        "fr": "Les exigences dépendent de la fonction du produit, de son usage, du lieu et des parties responsables. Les préciser relie les choix de développement à l’accès au marché et à l’exploitation dans la durée.",
+        "ar": "تتحدد المتطلبات التنظيمية بحسب وظيفة المنتج واستخدامه ومكانه والجهات المسؤولة عنه. ويساعد توضيحها على ربط قرارات التطوير بدخول السوق واستمرار التشغيل."
       },
       "images": [
         "assets/chapters/35-the-regulatory-landscape-01.png",
@@ -826,14 +897,16 @@
         "ko": "신뢰는, 확인하고 이어가는 것",
         "zh-CN": "标准、认证与可信保障",
         "es": "Normas, certificación y verificación",
-        "fr": "Normes, certification et assurance"
+        "fr": "Normes, certification et assurance",
+        "ar": "المعايير والشهادات والتحقق"
       },
       "guides": {
         "en": "A test result has a scope. Standards and assurance help make that scope understandable, while changes in software, equipment, and operating conditions determine what needs to be checked again.",
         "ko": "시험 결과는 특정 기체·소프트웨어·환경에서 확인한 결과다. 표준과 인증은 그 범위를 이해하는 데 도움을 준다. 물체나 공간, 사람의 동선이 바뀌면 기존 기록으로 확인할 수 있는 부분과 다시 시험할 부분을 나눠야 한다.",
         "zh-CN": "测试结果有适用范围。标准和可信保障帮助说明这个范围，而软件、设备和运行条件的变化决定了哪些内容需要重新检验。",
         "es": "Todo resultado de ensayo tiene un alcance. Las normas y la verificación permiten entenderlo; los cambios de software, equipo o condiciones de operación determinan qué debe comprobarse de nuevo.",
-        "fr": "Un résultat d’essai a un périmètre. Les normes et les démarches d’assurance permettent de le comprendre ; les changements logiciels, matériels ou opérationnels déterminent ce qu’il faut vérifier à nouveau."
+        "fr": "Un résultat d’essai a un périmètre. Les normes et les démarches d’assurance permettent de le comprendre ; les changements logiciels, matériels ou opérationnels déterminent ce qu’il faut vérifier à nouveau.",
+        "ar": "لكل نتيجة اختبار نطاق محدد. تساعد المعايير وإجراءات التحقق على فهمه، بينما تحدد تغييرات البرمجيات والمعدات وظروف التشغيل ما يجب فحصه مجدداً."
       },
       "images": [
         "assets/chapters/36-standards-certification-and-assurance-01.png",
@@ -849,14 +922,16 @@
         "ko": "TRACE: 행동과 변화의 기록",
         "zh-CN": "TRACE：行动与变化的记录",
         "es": "TRACE: registros de acción y cambio",
-        "fr": "TRACE : garder la trace des actions et des changements"
+        "fr": "TRACE : garder la trace des actions et des changements",
+        "ar": "TRACE: سجلات الفعل والتغيير"
       },
       "guides": {
         "en": "Decisions become easier to revisit when their evidence and changes remain connected. TRACE links sources, observations, judgments, actions, and results so later work can build on a documented correction.",
         "ko": "계약이 왜 취소됐는지, 제품 평가가 왜 바뀌었는지 알려면 이전 근거와 변경의 경로가 필요하다. 시연에서 파일럿으로, 계약에서 설치로 넘어가는 동안 제품·모델·안전 조건도 변한다. 한때 사실로 받아들였던 주장도 새 자료에 따라 교정된다.\n\nTRACE는 원전·관찰·분석·결정·결과와 사건·증거·변경의 계보를 잇는 기록 층이다. 무엇을 근거로 어느 판본에서 판단했는지 복원할 경로를 제공한다. 모든 정보를 무제한 보존하는 요구가 아니라 조사와 재사용의 목적에 맞는 연결이다.",
         "zh-CN": "当证据与变化保持关联，决策就更容易复核。TRACE连接来源、观察、判断、行动和结果，使后续工作能沿用有记录的修正。",
         "es": "Revisar decisiones resulta más sencillo cuando sus pruebas y modificaciones siguen conectadas. TRACE relaciona fuentes, observaciones, juicios, acciones y resultados para que el trabajo posterior incorpore una corrección documentada.",
-        "fr": "Les décisions sont plus faciles à réexaminer lorsque leurs éléments de preuve et leurs modifications restent liés. TRACE relie sources, observations, appréciations, actions et résultats pour que le travail suivant tienne compte d’une correction documentée."
+        "fr": "Les décisions sont plus faciles à réexaminer lorsque leurs éléments de preuve et leurs modifications restent liés. TRACE relie sources, observations, appréciations, actions et résultats pour que le travail suivant tienne compte d’une correction documentée.",
+        "ar": "تسهل مراجعة القرارات عندما تبقى أدلتها وتعديلاتها مترابطة. يربط TRACE المصادر والملاحظات والأحكام والأفعال والنتائج كي يستند العمل اللاحق إلى تصحيح موثق."
       },
       "images": [
         "assets/chapters/37-trace-records-of-action-and-change-01.png",
@@ -872,14 +947,16 @@
         "ko": "작업과 근거의 공통 언어",
         "zh-CN": "工作与证据的共同语言",
         "es": "Un lenguaje común para el trabajo y la evidencia",
-        "fr": "Un langage commun pour le travail et les preuves"
+        "fr": "Un langage commun pour le travail et les preuves",
+        "ar": "لغة مشتركة للعمل والأدلة"
       },
       "guides": {
         "en": "Shipment, deployment, and accepted operation can describe different achievements. Shared definitions preserve those differences and make technical, operational, financial, and policy assessments easier to compare.",
         "ko": "‘받지 못한 자료’와 ‘공개하지 않는 자료’는 다르다. ‘아직 측정하지 않음’은 ‘발생하지 않음’이 아니다. 실제 0에는 무엇을 언제 어떤 분모로 측정했는지가 필요하다. 공통 언어는 이런 차이를 없애는 것이 아니라 남겨두어 같은 기록을 읽게 하는 언어다.\n\n공급사가 Deployment를 출하로, 고객이 검수 뒤 반복 운영으로 쓴다면 같은 실적을 말하고 있지 않다. 자율성과 검증도 사람 개입의 범위와 검사 대상에 따라 달라진다. 정의를 맞춰야 기술 성능을 작업·비용·책임과 연결할 수 있다.",
         "zh-CN": "出货、部署与通过验收的运营代表不同成果。共同定义保留这些差异，让技术、运营、财务和政策评价能够相互比较。",
         "es": "Envío, despliegue y operación aceptada pueden describir logros distintos. Las definiciones compartidas conservan esas diferencias y facilitan comparar evaluaciones técnicas, operativas, financieras y de política pública.",
-        "fr": "Expédition, déploiement et exploitation acceptée par le client peuvent désigner des résultats différents. Des définitions communes conservent ces distinctions et facilitent la comparaison des analyses techniques, opérationnelles, financières et publiques."
+        "fr": "Expédition, déploiement et exploitation acceptée par le client peuvent désigner des résultats différents. Des définitions communes conservent ces distinctions et facilitent la comparaison des analyses techniques, opérationnelles, financières et publiques.",
+        "ar": "قد تصف الشحنة والتشغيل وقبول العميل للتشغيل إنجازات مختلفة. تحافظ التعريفات المشتركة على هذه الفروق وتيسر مقارنة التقييمات التقنية والتشغيلية والمالية والسياسات العامة."
       },
       "images": [
         "assets/chapters/38-a-common-language-for-work-and-evidence-01.png",
@@ -895,14 +972,16 @@
         "ko": "근거에서 결정으로",
         "zh-CN": "从证据到决策",
         "es": "De la evidencia a las decisiones",
-        "fr": "Des preuves aux décisions"
+        "fr": "Des preuves aux décisions",
+        "ar": "من الأدلة إلى القرارات"
       },
       "guides": {
         "en": "The same evidence can inform different decisions. Investors, policymakers, and technical teams need a common factual foundation alongside the questions and responsibilities specific to their work.",
         "ko": "투자자와 정책 담당자, 기술팀은 같은 근거를 보고도 서로 다른 결정을 내릴 수 있다. 함께 확인할 사실은 공유하되, 각자가 답해야 할 질문과 책임은 분명히 남겨두어야 한다.",
         "zh-CN": "同一证据可以支持不同决策。投资者、政策制定者和技术团队既需要共同的事实基础，也需要保留各自的问题与责任。",
         "es": "La misma evidencia puede informar decisiones distintas. Inversores, responsables públicos y equipos técnicos necesitan una base factual común, junto con las preguntas y responsabilidades propias de su trabajo.",
-        "fr": "Les mêmes éléments peuvent éclairer des décisions différentes. Investisseurs, décideurs publics et équipes techniques ont besoin d’une base factuelle commune, tout en conservant leurs questions et leurs responsabilités propres."
+        "fr": "Les mêmes éléments peuvent éclairer des décisions différentes. Investisseurs, décideurs publics et équipes techniques ont besoin d’une base factuelle commune, tout en conservant leurs questions et leurs responsabilités propres.",
+        "ar": "يمكن للأدلة نفسها أن تدعم قرارات مختلفة. يحتاج المستثمرون وصانعو السياسات والفرق التقنية إلى أساس مشترك من الوقائع، مع الاحتفاظ بأسئلتهم ومسؤولياتهم الخاصة."
       },
       "images": [
         "assets/chapters/39-from-evidence-to-decisions-01.png",
@@ -918,14 +997,16 @@
         "ko": "일·숙련·자동화 전환",
         "zh-CN": "工作、技能与自动化转型",
         "es": "Trabajo, competencias y transición hacia la automatización",
-        "fr": "Travail, compétences et transition vers l’automatisation"
+        "fr": "Travail, compétences et transition vers l’automatisation",
+        "ar": "العمل والمهارات والتحول نحو الأتمتة"
       },
       "guides": {
         "en": "Automation changes the tasks people perform and the skills they need. Its impact also depends on how organizations distribute benefits, provide training, and handle the work that remains.",
         "ko": "운반을 기계에 맡겨도 쓰러진 물건이나 찢어진 상자 같은 예외 상황은 남을 수 있다. 빨라진 운반이 포장대의 대기를 늘릴 수도, 검수와 정비에 쓸 시간을 만들 수도 있다. 도입 기업의 장부에는 절감과 함께 충전·수리·개입이 들어가고, 작업자의 하루에는 새 숙련·임금·이상을 발견했을 때 멈출 권한이 남는다.\n\n같은 장비에서도 생산성의 몫과 전환 부담은 조직의 선택에 따라 달라진다. 줄어든 부담·남은 업무·교육·보상의 변화를 함께 봐야 한다.",
         "zh-CN": "自动化改变人的任务和技能需求。其影响还取决于组织如何分配收益、提供培训，以及安排仍需人完成的工作。",
         "es": "La automatización cambia las tareas y las competencias necesarias. Su impacto también depende de cómo se reparten los beneficios, se ofrece formación y se organiza el trabajo que sigue en manos de las personas.",
-        "fr": "L’automatisation transforme les tâches et les compétences nécessaires. Ses effets dépendent aussi du partage des gains, de la formation et de l’organisation du travail qui reste à accomplir par les personnes."
+        "fr": "L’automatisation transforme les tâches et les compétences nécessaires. Ses effets dépendent aussi du partage des gains, de la formation et de l’organisation du travail qui reste à accomplir par les personnes.",
+        "ar": "تغير الأتمتة مهام الأشخاص والمهارات التي يحتاجون إليها. ويتوقف أثرها أيضاً على توزيع المنافع وتوفير التدريب وتنظيم العمل الذي يبقى على عاتق البشر."
       },
       "images": [
         "assets/chapters/40-work-skills-and-the-automation-transition-01.png",
@@ -941,14 +1022,16 @@
         "ko": "환경 영향과 공공가치",
         "zh-CN": "环境影响与公共价值",
         "es": "Impacto ambiental y valor público",
-        "fr": "Impact environnemental et valeur publique"
+        "fr": "Impact environnemental et valeur publique",
+        "ar": "الأثر البيئي والقيمة العامة"
       },
       "guides": {
         "en": "Environmental assessment needs a clear system boundary and a comparable unit of useful work. Public value also includes accessibility, service continuity, and who can benefit from the deployment.",
         "ko": "결함 발견이나 이동 감소만으로 전체 환경 성과가 확정되지는 않는다. 제조·운영 자원, 실제 정비, 기존 대안의 차이를 연결한다. 공공서비스에서는 누가 도움을 받을 수 있는지와 공급사·통신 중단 뒤 기능을 유지할 수 있는지도 중요하다.\n\n기체에는 금속·배터리·반도체·센서가, 학습·추론·통신·저장에는 에너지가 필요하다. 맞지 않는 장비의 잦은 교체나 낮은 이용률은 기대 편익보다 자원 부담을 크게 만들 수 있다.",
         "zh-CN": "环境评价需要明确系统边界和可比较的有效工作单位。公共价值还包括可及性、服务连续性，以及哪些人能从部署中受益。",
         "es": "La evaluación ambiental requiere un límite de sistema claro y una unidad comparable de trabajo útil. El valor público incluye también la accesibilidad, la continuidad del servicio y quién puede beneficiarse.",
-        "fr": "L’évaluation environnementale exige un périmètre clair et une unité comparable de travail utile. La valeur publique comprend aussi l’accessibilité, la continuité du service et la répartition de ses bénéfices."
+        "fr": "L’évaluation environnementale exige un périmètre clair et une unité comparable de travail utile. La valeur publique comprend aussi l’accessibilité, la continuité du service et la répartition de ses bénéfices.",
+        "ar": "يتطلب التقييم البيئي حدوداً واضحة للنظام ووحدة قابلة للمقارنة من العمل المفيد. وتشمل القيمة العامة أيضاً إمكانية الوصول واستمرار الخدمة ومن يستطيع الانتفاع بها."
       },
       "images": [
         "assets/chapters/41-environmental-impact-and-public-value-01.png",
@@ -964,14 +1047,16 @@
         "ko": "새로운 몸, 이어지는 지능",
         "zh-CN": "新的机体，延续的智能",
         "es": "Nuevos cuerpos, una inteligencia que continúa",
-        "fr": "De nouveaux corps, une intelligence qui se poursuit"
+        "fr": "De nouveaux corps, une intelligence qui se poursuit",
+        "ar": "أجسام جديدة وذكاء مستمر"
       },
       "guides": {
         "en": "When hardware or software changes, previous experience may remain useful. Continuing the work requires checking which knowledge transfers, which operating conditions change, and which permissions must be renewed.",
         "ko": "3년 일한 로봇 팔을 교체하는 가상 상황에서 다음 기체는 같은 자리·고객·작업을 맡는다. 그러나 카메라·관절·도구가 바뀌면 배운 내용의 적용 조건도 달라진다. 경험을 사용할 권리와 현장에서 행동할 권한은 다른 질문이다.\n\n몸은 닳고 모델·운영 회사는 바뀔 수 있다. 이전 경험이 사고로 이어지면 학습·이전·적용을 담당한 주체까지 추적해야 한다. 도입부터 무엇을 넘기고 무엇을 재검증하며 어디에서 관계를 끝낼지 정한다.",
         "zh-CN": "硬件或软件改变后，既有经验仍可能有用。继续工作之前，需要确认哪些知识可迁移、哪些条件发生变化，以及哪些权限需要更新。",
         "es": "La experiencia previa puede seguir siendo útil tras un cambio de hardware o software. Continuar exige comprobar qué conocimiento se transfiere, qué condiciones cambian y qué permisos deben renovarse.",
-        "fr": "L’expérience acquise peut rester utile après un changement matériel ou logiciel. Il faut vérifier quelles connaissances se transfèrent, quelles conditions changent et quelles autorisations doivent être renouvelées."
+        "fr": "L’expérience acquise peut rester utile après un changement matériel ou logiciel. Il faut vérifier quelles connaissances se transfèrent, quelles conditions changent et quelles autorisations doivent être renouvelées.",
+        "ar": "قد تبقى الخبرة السابقة مفيدة بعد تغيير المعدات أو البرمجيات. واستمرار العمل يحتاج إلى التحقق مما يمكن نقله من المعرفة وما تغير من ظروف التشغيل وما يجب تجديده من صلاحيات."
       },
       "images": [
         "assets/chapters/42-new-bodies-continuing-intelligence-01.png",
@@ -987,14 +1072,16 @@
         "ko": "연결이 끊겨도 운영하기",
         "zh-CN": "断网条件下的运行",
         "es": "Operar sin conexión",
-        "fr": "Fonctionner sans connexion"
+        "fr": "Fonctionner sans connexion",
+        "ar": "التشغيل عند انقطاع الاتصال"
       },
       "guides": {
         "en": "Remote environments make connectivity and support uncertain. Systems need predefined rules for continuing, completing, or stopping work—and for reconciling records when connections return.",
         "ko": "광산·해양·산림·농지·재난·지하·장거리 물류는 사람이 접근하기 어렵기에 기계를 보낸다. 같은 조건이 통신·전력·원격 지원·복구도 어렵게 한다. 서버가 정상이더라도 현장 게이트웨이나 고객 작업 시스템이 멈출 수 있다.\n\n단절은 나중에 덧붙일 예외가 아니라 초기 설계 조건이다. 끊길 연결, 남길 임무, 금지할 행동, 인계 대상·시점을 정한다. 작품의 제한된 현지 경로를 모든 임무의 지속 허가로 읽지 않는다.",
         "zh-CN": "偏远环境中的连接与支持并不稳定。系统需要预先规定何时继续、完成或停止工作，以及恢复连接后如何核对记录。",
         "es": "En entornos remotos, la conectividad y el soporte son inciertos. Los sistemas necesitan reglas previas para continuar, completar o detener el trabajo y para conciliar los registros al recuperar la conexión.",
-        "fr": "Dans les environnements isolés, la connexion et l’assistance sont incertaines. Les systèmes ont besoin de règles préétablies pour poursuivre, achever ou arrêter le travail, puis rapprocher les enregistrements au retour de la connexion."
+        "fr": "Dans les environnements isolés, la connexion et l’assistance sont incertaines. Les systèmes ont besoin de règles préétablies pour poursuivre, achever ou arrêter le travail, puis rapprocher les enregistrements au retour de la connexion.",
+        "ar": "تجعل البيئات النائية الاتصال والدعم غير مضمونين. وتحتاج الأنظمة إلى قواعد مسبقة لمواصلة العمل أو إتمامه أو إيقافه، ولمطابقة السجلات عند عودة الاتصال."
       },
       "images": [
         "assets/chapters/43-operating-through-disconnection-01.png",
@@ -1010,14 +1097,16 @@
         "ko": "달과 화성: 탐사가 요구하는 것",
         "zh-CN": "月球与火星：探索提出的要求",
         "es": "La Luna y Marte: las exigencias de la exploración",
-        "fr": "La Lune et Mars : les exigences de l’exploration"
+        "fr": "La Lune et Mars : les exigences de l’exploration",
+        "ar": "القمر والمريخ: متطلبات الاستكشاف"
       },
       "guides": {
         "en": "Exploration brings latency, limited energy, and difficult repair into everyday task planning. Those conditions expose the practical requirements for local autonomy, reliable recovery, and sustained operations.",
         "ko": "달 표면의 로봇이 화물을 내려놓고 다음 작업 지점으로 이동한다고 상상해 보자. 바퀴가 미끄러지는 순간에는 현지에서 대응해야 한다. 지구의 관제사가 보고 보낸 명령은 늦게 도착하고, 고장 난 부품을 가까운 창고에서 가져올 수도 없다. 익숙한 화물 운반에 통신·전력·수리·보급의 조건이 겹친다.\n\n작품의 긴 레일은 목표 수준의 지시가 이동하는 시간, 기체 옆의 짧은 회로는 그 시간 안에 필요한 제한된 대응을 나타낸다. 기록지는 나중의 보고와 판단을 위한 자리다. 이 장면은 특정 달 임무의 실증이 아니라, 원고의 관계를 읽기 위한 개념 표본이다.",
         "zh-CN": "通信延迟、能源限制和维修困难进入日常任务规划。这些条件揭示了本地自主、可靠恢复与持续运行的实际要求。",
         "es": "La latencia, la energía limitada y las reparaciones difíciles condicionan la planificación diaria. Son circunstancias que ponen a prueba la autonomía local, la recuperación fiable y la continuidad operativa.",
-        "fr": "Latence, énergie limitée et réparations difficiles entrent dans la planification quotidienne. Ces conditions révèlent les exigences concrètes de l’autonomie locale, de la reprise fiable et de la continuité des opérations."
+        "fr": "Latence, énergie limitée et réparations difficiles entrent dans la planification quotidienne. Ces conditions révèlent les exigences concrètes de l’autonomie locale, de la reprise fiable et de la continuité des opérations.",
+        "ar": "يفرض الاستكشاف تأخر الاتصال ومحدودية الطاقة وصعوبة الإصلاح على تخطيط المهام اليومية. وتكشف هذه الظروف متطلبات الاستقلالية المحلية والتعافي الموثوق واستمرار التشغيل."
       },
       "images": [
         "assets/chapters/44-the-moon-and-mars-what-exploration-demands-01.png",
@@ -1033,14 +1122,16 @@
         "ko": "비인간지성체와의 공존",
         "zh-CN": "与非人类智能共存",
         "es": "Convivir con inteligencias no humanas",
-        "fr": "Coexister avec des intelligences non humaines"
+        "fr": "Coexister avec des intelligences non humaines",
+        "ar": "التعايش مع الذكاءات غير البشرية"
       },
       "guides": {
         "en": "Working alongside intelligent machines raises questions about delegation, benefit, responsibility, and choice. Coexistence takes shape through the practical rules governing shared spaces and shared work.",
         "ko": "작업자와 운반 로봇이 좁은 통로에서 마주친다고 상상해 보자. 누가 먼저 지나가고, 누가 멈추며, 누가 정지를 요청할 수 있는가. 작은 공간 규칙 안에 안전·생산성·사람의 선택권이 들어 있다. 기계가 배우고 기억하고 거래까지 맡으면 같은 질문은 계약·위임·편익·실패 비용·경험의 처리로 넓어진다.\n\n작품에서는 사람의 자리 옆 중지 장치가 보조 기체의 실행을 멈춘다. 오른쪽의 기록과 검토 자리는 그 회로 밖에 남는다. 이는 실제 서비스나 법적 지위의 증거가 아니라, 중지와 소거를 분리하는 운영 관계를 읽기 위한 개념이다.",
         "zh-CN": "与智能机器协作，涉及委托、收益、责任与选择。共存体现在管理共享空间和共同工作的具体规则中。",
         "es": "Trabajar junto a máquinas inteligentes plantea preguntas sobre delegación, beneficios, responsabilidad y elección. La convivencia se concreta en las reglas que organizan los espacios y el trabajo compartidos.",
-        "fr": "Travailler avec des machines intelligentes soulève des questions de délégation, de bénéfices, de responsabilité et de choix. La coexistence prend forme dans les règles des espaces et du travail partagés."
+        "fr": "Travailler avec des machines intelligentes soulève des questions de délégation, de bénéfices, de responsabilité et de choix. La coexistence prend forme dans les règles des espaces et du travail partagés.",
+        "ar": "يثير العمل مع الآلات الذكية أسئلة عن التفويض والمنفعة والمسؤولية والاختيار. ويتشكل التعايش عبر القواعد العملية التي تنظم الأماكن والعمل المشتركين."
       },
       "images": [
         "assets/chapters/45-coexistence-with-non-human-intelligences-01.png",
@@ -1056,14 +1147,16 @@
         "ko": "2028: 우리의 판단을 다시 읽다",
         "zh-CN": "2028：重新审视我们的判断",
         "es": "2028: revisar nuestros juicios",
-        "fr": "2028 : réexaminer nos jugements"
+        "fr": "2028 : réexaminer nos jugements",
+        "ar": "2028: مراجعة أحكامنا"
       },
       "guides": {
         "en": "An almanac becomes more useful when its judgments can be revisited. The next edition will compare earlier assessments with new evidence, preserving both the changes and the reasons behind them.",
         "ko": "2028년에 지난해 소개한 운반 로봇을 다시 확인한다고 상상해 보자. 같은 통로에서 일하는가, 다른 일을 맡았는가, 멈췄는가. 추가 주문이 있다면 반복 운영의 가치가, 철수했다면 작업 적합성·사람의 지원·정비 비용이 다음 질문이 된다. 다음 판의 첫 자료는 그 사이 달라진 작업과 고객의 선택이다.\n\n지난 문장 옆에 새 공시·계약·운영 기록을 놓아야 무엇을 정확히 읽었고 어디서 앞서 판단했는지 알 수 있다. 작품은 이전 판을 그대로 남기고 새로운 판의 한 항목에 수정 층과 이유를 연결한다. 비어 있는 2028 자료는 앞으로 확인할 자리다. 미래 결과를 이미 확보한 것으로 채우지 않는다.",
         "zh-CN": "年鉴的价值也在于可以回看判断。下一版将以新证据对照先前评价，同时保留变化及其原因。",
         "es": "Un anuario gana valor cuando permite volver sobre sus conclusiones. La próxima edición contrastará las evaluaciones anteriores con nueva evidencia y conservará tanto los cambios como sus motivos.",
-        "fr": "Un annuaire gagne en valeur lorsque ses appréciations peuvent être réexaminées. La prochaine édition les confrontera à de nouveaux éléments, en conservant les changements et leurs raisons."
+        "fr": "Un annuaire gagne en valeur lorsque ses appréciations peuvent être réexaminées. La prochaine édition les confrontera à de nouveaux éléments, en conservant les changements et leurs raisons.",
+        "ar": "تزداد فائدة الكتاب السنوي عندما يمكن مراجعة أحكامه. وتقارن الطبعة التالية التقييمات السابقة بأدلة جديدة، مع الاحتفاظ بالتغييرات وأسبابها."
       },
       "images": [
         "assets/chapters/46-2028-revisiting-our-judgments-01.png",

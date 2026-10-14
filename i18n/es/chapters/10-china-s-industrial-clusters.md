@@ -2,7 +2,7 @@
 
 B2AGI Libro blanco de la IA física 2027 · Physical
 
-[English](../../../chapters/10-china-s-industrial-clusters.md) · [한국어](../../ko/chapters/10-china-s-industrial-clusters.md) · [简体中文](../../zh-CN/chapters/10-china-s-industrial-clusters.md) · [Español](10-china-s-industrial-clusters.md) · [Français](../../fr/chapters/10-china-s-industrial-clusters.md)
+[English](../../../chapters/10-china-s-industrial-clusters.md) · [한국어](../../ko/chapters/10-china-s-industrial-clusters.md) · [简体中文](../../zh-CN/chapters/10-china-s-industrial-clusters.md) · [Español](10-china-s-industrial-clusters.md) · [Français](../../fr/chapters/10-china-s-industrial-clusters.md) · [العربية](../../ar/chapters/10-china-s-industrial-clusters.md)
 
 ![Los clústeres industriales de China — B2AGI](../../../assets/chapters/10-china-s-industrial-clusters-01.png)
 

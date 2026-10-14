@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Intelligence
 
-[English](../../../chapters/04-the-robot-learning-industry.md) · [한국어](04-the-robot-learning-industry.md) · [简体中文](../../zh-CN/chapters/04-the-robot-learning-industry.md) · [Español](../../es/chapters/04-the-robot-learning-industry.md) · [Français](../../fr/chapters/04-the-robot-learning-industry.md)
+[English](../../../chapters/04-the-robot-learning-industry.md) · [한국어](04-the-robot-learning-industry.md) · [简体中文](../../zh-CN/chapters/04-the-robot-learning-industry.md) · [Español](../../es/chapters/04-the-robot-learning-industry.md) · [Français](../../fr/chapters/04-the-robot-learning-industry.md) · [العربية](../../ar/chapters/04-the-robot-learning-industry.md)
 
 ![경험을 생산하고 거래하는 산업 — B2AGI](../../../assets/chapters/04-the-robot-learning-industry-01.png)
 

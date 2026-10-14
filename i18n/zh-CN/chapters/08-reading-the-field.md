@@ -2,7 +2,7 @@
 
 B2AGI 物理人工智能白皮书 2027 · Physical
 
-[English](../../../chapters/08-reading-the-field.md) · [한국어](../../ko/chapters/08-reading-the-field.md) · [简体中文](08-reading-the-field.md) · [Español](../../es/chapters/08-reading-the-field.md) · [Français](../../fr/chapters/08-reading-the-field.md)
+[English](../../../chapters/08-reading-the-field.md) · [한국어](../../ko/chapters/08-reading-the-field.md) · [简体中文](08-reading-the-field.md) · [Español](../../es/chapters/08-reading-the-field.md) · [Français](../../fr/chapters/08-reading-the-field.md) · [العربية](../../ar/chapters/08-reading-the-field.md)
 
 ![从现场理解产业 — B2AGI](../../../assets/chapters/08-reading-the-field-01.png)
 

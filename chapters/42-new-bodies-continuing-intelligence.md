@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Beyond
 
-[English](42-new-bodies-continuing-intelligence.md) · [한국어](../i18n/ko/chapters/42-new-bodies-continuing-intelligence.md) · [简体中文](../i18n/zh-CN/chapters/42-new-bodies-continuing-intelligence.md) · [Español](../i18n/es/chapters/42-new-bodies-continuing-intelligence.md) · [Français](../i18n/fr/chapters/42-new-bodies-continuing-intelligence.md)
+[English](42-new-bodies-continuing-intelligence.md) · [한국어](../i18n/ko/chapters/42-new-bodies-continuing-intelligence.md) · [简体中文](../i18n/zh-CN/chapters/42-new-bodies-continuing-intelligence.md) · [Español](../i18n/es/chapters/42-new-bodies-continuing-intelligence.md) · [Français](../i18n/fr/chapters/42-new-bodies-continuing-intelligence.md) · [العربية](../i18n/ar/chapters/42-new-bodies-continuing-intelligence.md)
 
 ![New Bodies, Continuing Intelligence — B2AGI](../assets/chapters/42-new-bodies-continuing-intelligence-01.png)
 

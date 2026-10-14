@@ -2,7 +2,7 @@
 
 B2AGI Libro blanco de la IA física 2027 · Capital
 
-[English](../../../chapters/21-public-funding-from-policy-to-practice.md) · [한국어](../../ko/chapters/21-public-funding-from-policy-to-practice.md) · [简体中文](../../zh-CN/chapters/21-public-funding-from-policy-to-practice.md) · [Español](21-public-funding-from-policy-to-practice.md) · [Français](../../fr/chapters/21-public-funding-from-policy-to-practice.md)
+[English](../../../chapters/21-public-funding-from-policy-to-practice.md) · [한국어](../../ko/chapters/21-public-funding-from-policy-to-practice.md) · [简体中文](../../zh-CN/chapters/21-public-funding-from-policy-to-practice.md) · [Español](21-public-funding-from-policy-to-practice.md) · [Français](../../fr/chapters/21-public-funding-from-policy-to-practice.md) · [العربية](../../ar/chapters/21-public-funding-from-policy-to-practice.md)
 
 ![Financiación pública: de la política a la práctica — B2AGI](../../../assets/chapters/21-public-funding-from-policy-to-practice-01.png)
 

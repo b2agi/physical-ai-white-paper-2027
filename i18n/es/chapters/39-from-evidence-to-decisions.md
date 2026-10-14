@@ -2,7 +2,7 @@
 
 B2AGI Libro blanco de la IA física 2027 · Trust
 
-[English](../../../chapters/39-from-evidence-to-decisions.md) · [한국어](../../ko/chapters/39-from-evidence-to-decisions.md) · [简体中文](../../zh-CN/chapters/39-from-evidence-to-decisions.md) · [Español](39-from-evidence-to-decisions.md) · [Français](../../fr/chapters/39-from-evidence-to-decisions.md)
+[English](../../../chapters/39-from-evidence-to-decisions.md) · [한국어](../../ko/chapters/39-from-evidence-to-decisions.md) · [简体中文](../../zh-CN/chapters/39-from-evidence-to-decisions.md) · [Español](39-from-evidence-to-decisions.md) · [Français](../../fr/chapters/39-from-evidence-to-decisions.md) · [العربية](../../ar/chapters/39-from-evidence-to-decisions.md)
 
 ![De la evidencia a las decisiones — B2AGI](../../../assets/chapters/39-from-evidence-to-decisions-01.png)
 

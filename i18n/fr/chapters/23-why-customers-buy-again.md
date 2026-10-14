@@ -2,7 +2,7 @@
 
 B2AGI Livre blanc de l’IA physique 2027 · Capital
 
-[English](../../../chapters/23-why-customers-buy-again.md) · [한국어](../../ko/chapters/23-why-customers-buy-again.md) · [简体中文](../../zh-CN/chapters/23-why-customers-buy-again.md) · [Español](../../es/chapters/23-why-customers-buy-again.md) · [Français](23-why-customers-buy-again.md)
+[English](../../../chapters/23-why-customers-buy-again.md) · [한국어](../../ko/chapters/23-why-customers-buy-again.md) · [简体中文](../../zh-CN/chapters/23-why-customers-buy-again.md) · [Español](../../es/chapters/23-why-customers-buy-again.md) · [Français](23-why-customers-buy-again.md) · [العربية](../../ar/chapters/23-why-customers-buy-again.md)
 
 ![Pourquoi les clients achètent-ils à nouveau ? — B2AGI](../../../assets/chapters/23-why-customers-buy-again-01.png)
 

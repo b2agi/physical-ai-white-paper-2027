@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Beyond
 
-[English](../../../chapters/43-operating-through-disconnection.md) · [한국어](43-operating-through-disconnection.md) · [简体中文](../../zh-CN/chapters/43-operating-through-disconnection.md) · [Español](../../es/chapters/43-operating-through-disconnection.md) · [Français](../../fr/chapters/43-operating-through-disconnection.md)
+[English](../../../chapters/43-operating-through-disconnection.md) · [한국어](43-operating-through-disconnection.md) · [简体中文](../../zh-CN/chapters/43-operating-through-disconnection.md) · [Español](../../es/chapters/43-operating-through-disconnection.md) · [Français](../../fr/chapters/43-operating-through-disconnection.md) · [العربية](../../ar/chapters/43-operating-through-disconnection.md)
 
 ![연결이 끊겨도 운영하기 — B2AGI](../../../assets/chapters/43-operating-through-disconnection-01.png)
 

@@ -2,7 +2,7 @@
 
 B2AGI Libro blanco de la IA física 2027 · Beyond
 
-[English](../../../chapters/44-the-moon-and-mars-what-exploration-demands.md) · [한국어](../../ko/chapters/44-the-moon-and-mars-what-exploration-demands.md) · [简体中文](../../zh-CN/chapters/44-the-moon-and-mars-what-exploration-demands.md) · [Español](44-the-moon-and-mars-what-exploration-demands.md) · [Français](../../fr/chapters/44-the-moon-and-mars-what-exploration-demands.md)
+[English](../../../chapters/44-the-moon-and-mars-what-exploration-demands.md) · [한국어](../../ko/chapters/44-the-moon-and-mars-what-exploration-demands.md) · [简体中文](../../zh-CN/chapters/44-the-moon-and-mars-what-exploration-demands.md) · [Español](44-the-moon-and-mars-what-exploration-demands.md) · [Français](../../fr/chapters/44-the-moon-and-mars-what-exploration-demands.md) · [العربية](../../ar/chapters/44-the-moon-and-mars-what-exploration-demands.md)
 
 ![La Luna y Marte: las exigencias de la exploración — B2AGI](../../../assets/chapters/44-the-moon-and-mars-what-exploration-demands-01.png)
 

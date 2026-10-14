@@ -2,7 +2,7 @@
 
 B2AGI 物理人工智能白皮书 2027 · Trust
 
-[English](../../../chapters/39-from-evidence-to-decisions.md) · [한국어](../../ko/chapters/39-from-evidence-to-decisions.md) · [简体中文](39-from-evidence-to-decisions.md) · [Español](../../es/chapters/39-from-evidence-to-decisions.md) · [Français](../../fr/chapters/39-from-evidence-to-decisions.md)
+[English](../../../chapters/39-from-evidence-to-decisions.md) · [한국어](../../ko/chapters/39-from-evidence-to-decisions.md) · [简体中文](39-from-evidence-to-decisions.md) · [Español](../../es/chapters/39-from-evidence-to-decisions.md) · [Français](../../fr/chapters/39-from-evidence-to-decisions.md) · [العربية](../../ar/chapters/39-from-evidence-to-decisions.md)
 
 ![从证据到决策 — B2AGI](../../../assets/chapters/39-from-evidence-to-decisions-01.png)
 

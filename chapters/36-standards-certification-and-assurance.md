@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Trust
 
-[English](36-standards-certification-and-assurance.md) · [한국어](../i18n/ko/chapters/36-standards-certification-and-assurance.md) · [简体中文](../i18n/zh-CN/chapters/36-standards-certification-and-assurance.md) · [Español](../i18n/es/chapters/36-standards-certification-and-assurance.md) · [Français](../i18n/fr/chapters/36-standards-certification-and-assurance.md)
+[English](36-standards-certification-and-assurance.md) · [한국어](../i18n/ko/chapters/36-standards-certification-and-assurance.md) · [简体中文](../i18n/zh-CN/chapters/36-standards-certification-and-assurance.md) · [Español](../i18n/es/chapters/36-standards-certification-and-assurance.md) · [Français](../i18n/fr/chapters/36-standards-certification-and-assurance.md) · [العربية](../i18n/ar/chapters/36-standards-certification-and-assurance.md)
 
 ![Standards, Certification, and Assurance — B2AGI](../assets/chapters/36-standards-certification-and-assurance-01.png)
 

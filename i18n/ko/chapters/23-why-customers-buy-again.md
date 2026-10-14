@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Capital
 
-[English](../../../chapters/23-why-customers-buy-again.md) · [한국어](23-why-customers-buy-again.md) · [简体中文](../../zh-CN/chapters/23-why-customers-buy-again.md) · [Español](../../es/chapters/23-why-customers-buy-again.md) · [Français](../../fr/chapters/23-why-customers-buy-again.md)
+[English](../../../chapters/23-why-customers-buy-again.md) · [한국어](23-why-customers-buy-again.md) · [简体中文](../../zh-CN/chapters/23-why-customers-buy-again.md) · [Español](../../es/chapters/23-why-customers-buy-again.md) · [Français](../../fr/chapters/23-why-customers-buy-again.md) · [العربية](../../ar/chapters/23-why-customers-buy-again.md)
 
 ![고객은 왜 다시 구매하는가 — B2AGI](../../../assets/chapters/23-why-customers-buy-again-01.png)
 

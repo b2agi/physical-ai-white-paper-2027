@@ -2,7 +2,7 @@
 
 B2AGI 物理人工智能白皮书 2027 · Trust
 
-[English](../../../chapters/33-industrial-sovereignty-national-security-and-cooperation.md) · [한국어](../../ko/chapters/33-industrial-sovereignty-national-security-and-cooperation.md) · [简体中文](33-industrial-sovereignty-national-security-and-cooperation.md) · [Español](../../es/chapters/33-industrial-sovereignty-national-security-and-cooperation.md) · [Français](../../fr/chapters/33-industrial-sovereignty-national-security-and-cooperation.md)
+[English](../../../chapters/33-industrial-sovereignty-national-security-and-cooperation.md) · [한국어](../../ko/chapters/33-industrial-sovereignty-national-security-and-cooperation.md) · [简体中文](33-industrial-sovereignty-national-security-and-cooperation.md) · [Español](../../es/chapters/33-industrial-sovereignty-national-security-and-cooperation.md) · [Français](../../fr/chapters/33-industrial-sovereignty-national-security-and-cooperation.md) · [العربية](../../ar/chapters/33-industrial-sovereignty-national-security-and-cooperation.md)
 
 ![产业主权、国家安全与合作 — B2AGI](../../../assets/chapters/33-industrial-sovereignty-national-security-and-cooperation-01.png)
 

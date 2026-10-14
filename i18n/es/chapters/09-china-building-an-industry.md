@@ -2,7 +2,7 @@
 
 B2AGI Libro blanco de la IA física 2027 · Physical
 
-[English](../../../chapters/09-china-building-an-industry.md) · [한국어](../../ko/chapters/09-china-building-an-industry.md) · [简体中文](../../zh-CN/chapters/09-china-building-an-industry.md) · [Español](09-china-building-an-industry.md) · [Français](../../fr/chapters/09-china-building-an-industry.md)
+[English](../../../chapters/09-china-building-an-industry.md) · [한국어](../../ko/chapters/09-china-building-an-industry.md) · [简体中文](../../zh-CN/chapters/09-china-building-an-industry.md) · [Español](09-china-building-an-industry.md) · [Français](../../fr/chapters/09-china-building-an-industry.md) · [العربية](../../ar/chapters/09-china-building-an-industry.md)
 
 ![China: construir una industria — B2AGI](../../../assets/chapters/09-china-building-an-industry-01.png)
 

@@ -2,7 +2,7 @@
 
 B2AGI 物理人工智能白皮书 2027 · Physical
 
-[English](../../../chapters/07-who-needs-physical-ai.md) · [한국어](../../ko/chapters/07-who-needs-physical-ai.md) · [简体中文](07-who-needs-physical-ai.md) · [Español](../../es/chapters/07-who-needs-physical-ai.md) · [Français](../../fr/chapters/07-who-needs-physical-ai.md)
+[English](../../../chapters/07-who-needs-physical-ai.md) · [한국어](../../ko/chapters/07-who-needs-physical-ai.md) · [简体中文](07-who-needs-physical-ai.md) · [Español](../../es/chapters/07-who-needs-physical-ai.md) · [Français](../../fr/chapters/07-who-needs-physical-ai.md) · [العربية](../../ar/chapters/07-who-needs-physical-ai.md)
 
 ![谁需要物理人工智能？ — B2AGI](../../../assets/chapters/07-who-needs-physical-ai-01.png)
 

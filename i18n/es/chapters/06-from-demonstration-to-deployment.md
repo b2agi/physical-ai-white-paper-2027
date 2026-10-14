@@ -2,7 +2,7 @@
 
 B2AGI Libro blanco de la IA física 2027 · Intelligence
 
-[English](../../../chapters/06-from-demonstration-to-deployment.md) · [한국어](../../ko/chapters/06-from-demonstration-to-deployment.md) · [简体中文](../../zh-CN/chapters/06-from-demonstration-to-deployment.md) · [Español](06-from-demonstration-to-deployment.md) · [Français](../../fr/chapters/06-from-demonstration-to-deployment.md)
+[English](../../../chapters/06-from-demonstration-to-deployment.md) · [한국어](../../ko/chapters/06-from-demonstration-to-deployment.md) · [简体中文](../../zh-CN/chapters/06-from-demonstration-to-deployment.md) · [Español](06-from-demonstration-to-deployment.md) · [Français](../../fr/chapters/06-from-demonstration-to-deployment.md) · [العربية](../../ar/chapters/06-from-demonstration-to-deployment.md)
 
 ![De la demostración al despliegue — B2AGI](../../../assets/chapters/06-from-demonstration-to-deployment-01.png)
 

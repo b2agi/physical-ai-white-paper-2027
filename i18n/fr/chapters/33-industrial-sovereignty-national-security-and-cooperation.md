@@ -2,7 +2,7 @@
 
 B2AGI Livre blanc de l’IA physique 2027 · Trust
 
-[English](../../../chapters/33-industrial-sovereignty-national-security-and-cooperation.md) · [한국어](../../ko/chapters/33-industrial-sovereignty-national-security-and-cooperation.md) · [简体中文](../../zh-CN/chapters/33-industrial-sovereignty-national-security-and-cooperation.md) · [Español](../../es/chapters/33-industrial-sovereignty-national-security-and-cooperation.md) · [Français](33-industrial-sovereignty-national-security-and-cooperation.md)
+[English](../../../chapters/33-industrial-sovereignty-national-security-and-cooperation.md) · [한국어](../../ko/chapters/33-industrial-sovereignty-national-security-and-cooperation.md) · [简体中文](../../zh-CN/chapters/33-industrial-sovereignty-national-security-and-cooperation.md) · [Español](../../es/chapters/33-industrial-sovereignty-national-security-and-cooperation.md) · [Français](33-industrial-sovereignty-national-security-and-cooperation.md) · [العربية](../../ar/chapters/33-industrial-sovereignty-national-security-and-cooperation.md)
 
 ![Souveraineté industrielle, sécurité nationale et coopération — B2AGI](../../../assets/chapters/33-industrial-sovereignty-national-security-and-cooperation-01.png)
 

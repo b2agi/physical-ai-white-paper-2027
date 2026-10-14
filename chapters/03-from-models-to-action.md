@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Intelligence
 
-[English](03-from-models-to-action.md) · [한국어](../i18n/ko/chapters/03-from-models-to-action.md) · [简体中文](../i18n/zh-CN/chapters/03-from-models-to-action.md) · [Español](../i18n/es/chapters/03-from-models-to-action.md) · [Français](../i18n/fr/chapters/03-from-models-to-action.md)
+[English](03-from-models-to-action.md) · [한국어](../i18n/ko/chapters/03-from-models-to-action.md) · [简体中文](../i18n/zh-CN/chapters/03-from-models-to-action.md) · [Español](../i18n/es/chapters/03-from-models-to-action.md) · [Français](../i18n/fr/chapters/03-from-models-to-action.md) · [العربية](../i18n/ar/chapters/03-from-models-to-action.md)
 
 ![From Models to Action — B2AGI](../assets/chapters/03-from-models-to-action-01.png)
 

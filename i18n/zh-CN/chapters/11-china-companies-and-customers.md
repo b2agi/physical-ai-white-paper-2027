@@ -2,7 +2,7 @@
 
 B2AGI 物理人工智能白皮书 2027 · Physical
 
-[English](../../../chapters/11-china-companies-and-customers.md) · [한국어](../../ko/chapters/11-china-companies-and-customers.md) · [简体中文](11-china-companies-and-customers.md) · [Español](../../es/chapters/11-china-companies-and-customers.md) · [Français](../../fr/chapters/11-china-companies-and-customers.md)
+[English](../../../chapters/11-china-companies-and-customers.md) · [한국어](../../ko/chapters/11-china-companies-and-customers.md) · [简体中文](11-china-companies-and-customers.md) · [Español](../../es/chapters/11-china-companies-and-customers.md) · [Français](../../fr/chapters/11-china-companies-and-customers.md) · [العربية](../../ar/chapters/11-china-companies-and-customers.md)
 
 ![中国企业与客户 — B2AGI](../../../assets/chapters/11-china-companies-and-customers-01.png)
 

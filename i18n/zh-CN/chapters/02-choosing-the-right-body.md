@@ -2,7 +2,7 @@
 
 B2AGI 物理人工智能白皮书 2027 · Intelligence
 
-[English](../../../chapters/02-choosing-the-right-body.md) · [한국어](../../ko/chapters/02-choosing-the-right-body.md) · [简体中文](02-choosing-the-right-body.md) · [Español](../../es/chapters/02-choosing-the-right-body.md) · [Français](../../fr/chapters/02-choosing-the-right-body.md)
+[English](../../../chapters/02-choosing-the-right-body.md) · [한국어](../../ko/chapters/02-choosing-the-right-body.md) · [简体中文](02-choosing-the-right-body.md) · [Español](../../es/chapters/02-choosing-the-right-body.md) · [Français](../../fr/chapters/02-choosing-the-right-body.md) · [العربية](../../ar/chapters/02-choosing-the-right-body.md)
 
 ![为任务选择合适的机体 — B2AGI](../../../assets/chapters/02-choosing-the-right-body-01.png)
 

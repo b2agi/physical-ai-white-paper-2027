@@ -4,7 +4,7 @@
 
 The 2027 edition is the publication series. This reading guide was released on 14 October 2026; that date is not a uniform observation date for the underlying industry research.
 
-The guide covers five parts and 46 chapters. It reuses the chapter images and English summaries published in the B2AGI social series. Korean guides include published extracts and self-contained chapter summaries. Chinese, Spanish and French texts are translations of the English chapter summaries. These are reading guides, not full translations of the white paper. The images retain their original Korean and English typography.
+The guide covers five parts and 46 chapters. It reuses the chapter images and English summaries published in the B2AGI social series. Korean guides include published extracts and self-contained chapter summaries. Arabic, Chinese, Spanish and French texts are translations of the English chapter summaries. These are reading guides, not full translations of the white paper. The images retain their original Korean and English typography.
 
 ## Read and verify
 

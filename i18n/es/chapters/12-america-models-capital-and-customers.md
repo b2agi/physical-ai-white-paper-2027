@@ -2,7 +2,7 @@
 
 B2AGI Libro blanco de la IA física 2027 · Physical
 
-[English](../../../chapters/12-america-models-capital-and-customers.md) · [한국어](../../ko/chapters/12-america-models-capital-and-customers.md) · [简体中文](../../zh-CN/chapters/12-america-models-capital-and-customers.md) · [Español](12-america-models-capital-and-customers.md) · [Français](../../fr/chapters/12-america-models-capital-and-customers.md)
+[English](../../../chapters/12-america-models-capital-and-customers.md) · [한국어](../../ko/chapters/12-america-models-capital-and-customers.md) · [简体中文](../../zh-CN/chapters/12-america-models-capital-and-customers.md) · [Español](12-america-models-capital-and-customers.md) · [Français](../../fr/chapters/12-america-models-capital-and-customers.md) · [العربية](../../ar/chapters/12-america-models-capital-and-customers.md)
 
 ![Estados Unidos: modelos, capital y clientes — B2AGI](../../../assets/chapters/12-america-models-capital-and-customers-01.png)
 

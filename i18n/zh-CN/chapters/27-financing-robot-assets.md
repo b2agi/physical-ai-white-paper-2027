@@ -2,7 +2,7 @@
 
 B2AGI 物理人工智能白皮书 2027 · Capital
 
-[English](../../../chapters/27-financing-robot-assets.md) · [한국어](../../ko/chapters/27-financing-robot-assets.md) · [简体中文](27-financing-robot-assets.md) · [Español](../../es/chapters/27-financing-robot-assets.md) · [Français](../../fr/chapters/27-financing-robot-assets.md)
+[English](../../../chapters/27-financing-robot-assets.md) · [한국어](../../ko/chapters/27-financing-robot-assets.md) · [简体中文](27-financing-robot-assets.md) · [Español](../../es/chapters/27-financing-robot-assets.md) · [Français](../../fr/chapters/27-financing-robot-assets.md) · [العربية](../../ar/chapters/27-financing-robot-assets.md)
 
 ![机器人资产融资 — B2AGI](../../../assets/chapters/27-financing-robot-assets-01.png)
 

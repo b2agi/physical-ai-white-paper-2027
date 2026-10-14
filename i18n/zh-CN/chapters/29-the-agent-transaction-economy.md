@@ -2,7 +2,7 @@
 
 B2AGI 物理人工智能白皮书 2027 · Capital
 
-[English](../../../chapters/29-the-agent-transaction-economy.md) · [한국어](../../ko/chapters/29-the-agent-transaction-economy.md) · [简体中文](29-the-agent-transaction-economy.md) · [Español](../../es/chapters/29-the-agent-transaction-economy.md) · [Français](../../fr/chapters/29-the-agent-transaction-economy.md)
+[English](../../../chapters/29-the-agent-transaction-economy.md) · [한국어](../../ko/chapters/29-the-agent-transaction-economy.md) · [简体中文](29-the-agent-transaction-economy.md) · [Español](../../es/chapters/29-the-agent-transaction-economy.md) · [Français](../../fr/chapters/29-the-agent-transaction-economy.md) · [العربية](../../ar/chapters/29-the-agent-transaction-economy.md)
 
 ![智能体交易经济 — B2AGI](../../../assets/chapters/29-the-agent-transaction-economy-01.png)
 

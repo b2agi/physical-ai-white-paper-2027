@@ -2,7 +2,7 @@
 
 B2AGI Livre blanc de l’IA physique 2027 · Physical
 
-[English](../../../chapters/20-from-global-examples-to-local-deployment.md) · [한국어](../../ko/chapters/20-from-global-examples-to-local-deployment.md) · [简体中文](../../zh-CN/chapters/20-from-global-examples-to-local-deployment.md) · [Español](../../es/chapters/20-from-global-examples-to-local-deployment.md) · [Français](20-from-global-examples-to-local-deployment.md)
+[English](../../../chapters/20-from-global-examples-to-local-deployment.md) · [한국어](../../ko/chapters/20-from-global-examples-to-local-deployment.md) · [简体中文](../../zh-CN/chapters/20-from-global-examples-to-local-deployment.md) · [Español](../../es/chapters/20-from-global-examples-to-local-deployment.md) · [Français](20-from-global-examples-to-local-deployment.md) · [العربية](../../ar/chapters/20-from-global-examples-to-local-deployment.md)
 
 ![Des exemples internationaux au déploiement local — B2AGI](../../../assets/chapters/20-from-global-examples-to-local-deployment-01.png)
 

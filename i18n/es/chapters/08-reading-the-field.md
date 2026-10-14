@@ -2,7 +2,7 @@
 
 B2AGI Libro blanco de la IA física 2027 · Physical
 
-[English](../../../chapters/08-reading-the-field.md) · [한국어](../../ko/chapters/08-reading-the-field.md) · [简体中文](../../zh-CN/chapters/08-reading-the-field.md) · [Español](08-reading-the-field.md) · [Français](../../fr/chapters/08-reading-the-field.md)
+[English](../../../chapters/08-reading-the-field.md) · [한국어](../../ko/chapters/08-reading-the-field.md) · [简体中文](../../zh-CN/chapters/08-reading-the-field.md) · [Español](08-reading-the-field.md) · [Français](../../fr/chapters/08-reading-the-field.md) · [العربية](../../ar/chapters/08-reading-the-field.md)
 
 ![Leer la industria sobre el terreno — B2AGI](../../../assets/chapters/08-reading-the-field-01.png)
 

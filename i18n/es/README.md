@@ -4,7 +4,7 @@ Guía ilustrada del libro blanco · Cinco partes · 46 capítulos
 
 **Industria, capital, seguridad y cooperación internacional**
 
-[English](../../README.md) · [한국어](../ko/README.md) · [简体中文](../zh-CN/README.md) · [Español](README.md) · [Français](../fr/README.md)
+[English](../../README.md) · [한국어](../ko/README.md) · [简体中文](../zh-CN/README.md) · [Español](README.md) · [Français](../fr/README.md) · [العربية](../ar/README.md)
 
 ![B2AGI Libro blanco de la IA física 2027](../../assets/physical-ai-white-paper-2027-cover.png)
 

@@ -2,7 +2,7 @@
 
 B2AGI Libro blanco de la IA física 2027 · Physical
 
-[English](../../../chapters/11-china-companies-and-customers.md) · [한국어](../../ko/chapters/11-china-companies-and-customers.md) · [简体中文](../../zh-CN/chapters/11-china-companies-and-customers.md) · [Español](11-china-companies-and-customers.md) · [Français](../../fr/chapters/11-china-companies-and-customers.md)
+[English](../../../chapters/11-china-companies-and-customers.md) · [한국어](../../ko/chapters/11-china-companies-and-customers.md) · [简体中文](../../zh-CN/chapters/11-china-companies-and-customers.md) · [Español](11-china-companies-and-customers.md) · [Français](../../fr/chapters/11-china-companies-and-customers.md) · [العربية](../../ar/chapters/11-china-companies-and-customers.md)
 
 ![China: empresas y clientes — B2AGI](../../../assets/chapters/11-china-companies-and-customers-01.png)
 

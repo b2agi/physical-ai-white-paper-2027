@@ -2,7 +2,7 @@
 
 B2AGI Livre blanc de l’IA physique 2027 · Physical
 
-[English](../../../chapters/07-who-needs-physical-ai.md) · [한국어](../../ko/chapters/07-who-needs-physical-ai.md) · [简体中文](../../zh-CN/chapters/07-who-needs-physical-ai.md) · [Español](../../es/chapters/07-who-needs-physical-ai.md) · [Français](07-who-needs-physical-ai.md)
+[English](../../../chapters/07-who-needs-physical-ai.md) · [한국어](../../ko/chapters/07-who-needs-physical-ai.md) · [简体中文](../../zh-CN/chapters/07-who-needs-physical-ai.md) · [Español](../../es/chapters/07-who-needs-physical-ai.md) · [Français](07-who-needs-physical-ai.md) · [العربية](../../ar/chapters/07-who-needs-physical-ai.md)
 
 ![Qui a besoin de l’IA physique ? — B2AGI](../../../assets/chapters/07-who-needs-physical-ai-01.png)
 

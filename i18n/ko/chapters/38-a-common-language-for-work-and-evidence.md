@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Trust
 
-[English](../../../chapters/38-a-common-language-for-work-and-evidence.md) · [한국어](38-a-common-language-for-work-and-evidence.md) · [简体中文](../../zh-CN/chapters/38-a-common-language-for-work-and-evidence.md) · [Español](../../es/chapters/38-a-common-language-for-work-and-evidence.md) · [Français](../../fr/chapters/38-a-common-language-for-work-and-evidence.md)
+[English](../../../chapters/38-a-common-language-for-work-and-evidence.md) · [한국어](38-a-common-language-for-work-and-evidence.md) · [简体中文](../../zh-CN/chapters/38-a-common-language-for-work-and-evidence.md) · [Español](../../es/chapters/38-a-common-language-for-work-and-evidence.md) · [Français](../../fr/chapters/38-a-common-language-for-work-and-evidence.md) · [العربية](../../ar/chapters/38-a-common-language-for-work-and-evidence.md)
 
 ![작업과 근거의 공통 언어 — B2AGI](../../../assets/chapters/38-a-common-language-for-work-and-evidence-01.png)
 

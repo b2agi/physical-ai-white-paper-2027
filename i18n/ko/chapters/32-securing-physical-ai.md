@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Trust
 
-[English](../../../chapters/32-securing-physical-ai.md) · [한국어](32-securing-physical-ai.md) · [简体中文](../../zh-CN/chapters/32-securing-physical-ai.md) · [Español](../../es/chapters/32-securing-physical-ai.md) · [Français](../../fr/chapters/32-securing-physical-ai.md)
+[English](../../../chapters/32-securing-physical-ai.md) · [한국어](32-securing-physical-ai.md) · [简体中文](../../zh-CN/chapters/32-securing-physical-ai.md) · [Español](../../es/chapters/32-securing-physical-ai.md) · [Français](../../fr/chapters/32-securing-physical-ai.md) · [العربية](../../ar/chapters/32-securing-physical-ai.md)
 
 ![피지컬 AI의 보안 — B2AGI](../../../assets/chapters/32-securing-physical-ai-01.png)
 

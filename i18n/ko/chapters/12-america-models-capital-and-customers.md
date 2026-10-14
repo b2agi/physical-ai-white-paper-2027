@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Physical
 
-[English](../../../chapters/12-america-models-capital-and-customers.md) · [한국어](12-america-models-capital-and-customers.md) · [简体中文](../../zh-CN/chapters/12-america-models-capital-and-customers.md) · [Español](../../es/chapters/12-america-models-capital-and-customers.md) · [Français](../../fr/chapters/12-america-models-capital-and-customers.md)
+[English](../../../chapters/12-america-models-capital-and-customers.md) · [한국어](12-america-models-capital-and-customers.md) · [简体中文](../../zh-CN/chapters/12-america-models-capital-and-customers.md) · [Español](../../es/chapters/12-america-models-capital-and-customers.md) · [Français](../../fr/chapters/12-america-models-capital-and-customers.md) · [العربية](../../ar/chapters/12-america-models-capital-and-customers.md)
 
 ![미국의 모델과 자본이 고객 업무를 만나는 곳 — B2AGI](../../../assets/chapters/12-america-models-capital-and-customers-01.png)
 

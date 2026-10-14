@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Capital
 
-[English](../../../chapters/21-public-funding-from-policy-to-practice.md) · [한국어](21-public-funding-from-policy-to-practice.md) · [简体中文](../../zh-CN/chapters/21-public-funding-from-policy-to-practice.md) · [Español](../../es/chapters/21-public-funding-from-policy-to-practice.md) · [Français](../../fr/chapters/21-public-funding-from-policy-to-practice.md)
+[English](../../../chapters/21-public-funding-from-policy-to-practice.md) · [한국어](21-public-funding-from-policy-to-practice.md) · [简体中文](../../zh-CN/chapters/21-public-funding-from-policy-to-practice.md) · [Español](../../es/chapters/21-public-funding-from-policy-to-practice.md) · [Français](../../fr/chapters/21-public-funding-from-policy-to-practice.md) · [العربية](../../ar/chapters/21-public-funding-from-policy-to-practice.md)
 
 ![공공자금: 정책에서 실행으로 — B2AGI](../../../assets/chapters/21-public-funding-from-policy-to-practice-01.png)
 

@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Intelligence
 
-[English](02-choosing-the-right-body.md) · [한국어](../i18n/ko/chapters/02-choosing-the-right-body.md) · [简体中文](../i18n/zh-CN/chapters/02-choosing-the-right-body.md) · [Español](../i18n/es/chapters/02-choosing-the-right-body.md) · [Français](../i18n/fr/chapters/02-choosing-the-right-body.md)
+[English](02-choosing-the-right-body.md) · [한국어](../i18n/ko/chapters/02-choosing-the-right-body.md) · [简体中文](../i18n/zh-CN/chapters/02-choosing-the-right-body.md) · [Español](../i18n/es/chapters/02-choosing-the-right-body.md) · [Français](../i18n/fr/chapters/02-choosing-the-right-body.md) · [العربية](../i18n/ar/chapters/02-choosing-the-right-body.md)
 
 ![Choosing the Right Body — B2AGI](../assets/chapters/02-choosing-the-right-body-01.png)
 

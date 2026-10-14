@@ -2,7 +2,7 @@
 
 B2AGI 物理人工智能白皮书 2027 · Capital
 
-[English](../../../chapters/21-public-funding-from-policy-to-practice.md) · [한국어](../../ko/chapters/21-public-funding-from-policy-to-practice.md) · [简体中文](21-public-funding-from-policy-to-practice.md) · [Español](../../es/chapters/21-public-funding-from-policy-to-practice.md) · [Français](../../fr/chapters/21-public-funding-from-policy-to-practice.md)
+[English](../../../chapters/21-public-funding-from-policy-to-practice.md) · [한국어](../../ko/chapters/21-public-funding-from-policy-to-practice.md) · [简体中文](21-public-funding-from-policy-to-practice.md) · [Español](../../es/chapters/21-public-funding-from-policy-to-practice.md) · [Français](../../fr/chapters/21-public-funding-from-policy-to-practice.md) · [العربية](../../ar/chapters/21-public-funding-from-policy-to-practice.md)
 
 ![公共资金：从政策到执行 — B2AGI](../../../assets/chapters/21-public-funding-from-policy-to-practice-01.png)
 

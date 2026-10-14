@@ -2,7 +2,7 @@
 
 B2AGI 物理人工智能白皮书 2027 · Trust
 
-[English](../../../chapters/32-securing-physical-ai.md) · [한국어](../../ko/chapters/32-securing-physical-ai.md) · [简体中文](32-securing-physical-ai.md) · [Español](../../es/chapters/32-securing-physical-ai.md) · [Français](../../fr/chapters/32-securing-physical-ai.md)
+[English](../../../chapters/32-securing-physical-ai.md) · [한국어](../../ko/chapters/32-securing-physical-ai.md) · [简体中文](32-securing-physical-ai.md) · [Español](../../es/chapters/32-securing-physical-ai.md) · [Français](../../fr/chapters/32-securing-physical-ai.md) · [العربية](../../ar/chapters/32-securing-physical-ai.md)
 
 ![物理人工智能的网络安全 — B2AGI](../../../assets/chapters/32-securing-physical-ai-01.png)
 

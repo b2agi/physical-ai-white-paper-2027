@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Beyond
 
-[English](../../../chapters/46-2028-revisiting-our-judgments.md) · [한국어](46-2028-revisiting-our-judgments.md) · [简体中文](../../zh-CN/chapters/46-2028-revisiting-our-judgments.md) · [Español](../../es/chapters/46-2028-revisiting-our-judgments.md) · [Français](../../fr/chapters/46-2028-revisiting-our-judgments.md)
+[English](../../../chapters/46-2028-revisiting-our-judgments.md) · [한국어](46-2028-revisiting-our-judgments.md) · [简体中文](../../zh-CN/chapters/46-2028-revisiting-our-judgments.md) · [Español](../../es/chapters/46-2028-revisiting-our-judgments.md) · [Français](../../fr/chapters/46-2028-revisiting-our-judgments.md) · [العربية](../../ar/chapters/46-2028-revisiting-our-judgments.md)
 
 ![2028: 우리의 판단을 다시 읽다 — B2AGI](../../../assets/chapters/46-2028-revisiting-our-judgments-01.png)
 

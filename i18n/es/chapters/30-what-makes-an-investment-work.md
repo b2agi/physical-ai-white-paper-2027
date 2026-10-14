@@ -2,7 +2,7 @@
 
 B2AGI Libro blanco de la IA física 2027 · Capital
 
-[English](../../../chapters/30-what-makes-an-investment-work.md) · [한국어](../../ko/chapters/30-what-makes-an-investment-work.md) · [简体中文](../../zh-CN/chapters/30-what-makes-an-investment-work.md) · [Español](30-what-makes-an-investment-work.md) · [Français](../../fr/chapters/30-what-makes-an-investment-work.md)
+[English](../../../chapters/30-what-makes-an-investment-work.md) · [한국어](../../ko/chapters/30-what-makes-an-investment-work.md) · [简体中文](../../zh-CN/chapters/30-what-makes-an-investment-work.md) · [Español](30-what-makes-an-investment-work.md) · [Français](../../fr/chapters/30-what-makes-an-investment-work.md) · [العربية](../../ar/chapters/30-what-makes-an-investment-work.md)
 
 ![¿Qué hace viable una inversión? — B2AGI](../../../assets/chapters/30-what-makes-an-investment-work-01.png)
 

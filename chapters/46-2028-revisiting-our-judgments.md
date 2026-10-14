@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Beyond
 
-[English](46-2028-revisiting-our-judgments.md) · [한국어](../i18n/ko/chapters/46-2028-revisiting-our-judgments.md) · [简体中文](../i18n/zh-CN/chapters/46-2028-revisiting-our-judgments.md) · [Español](../i18n/es/chapters/46-2028-revisiting-our-judgments.md) · [Français](../i18n/fr/chapters/46-2028-revisiting-our-judgments.md)
+[English](46-2028-revisiting-our-judgments.md) · [한국어](../i18n/ko/chapters/46-2028-revisiting-our-judgments.md) · [简体中文](../i18n/zh-CN/chapters/46-2028-revisiting-our-judgments.md) · [Español](../i18n/es/chapters/46-2028-revisiting-our-judgments.md) · [Français](../i18n/fr/chapters/46-2028-revisiting-our-judgments.md) · [العربية](../i18n/ar/chapters/46-2028-revisiting-our-judgments.md)
 
 ![2028: Revisiting Our Judgments — B2AGI](../assets/chapters/46-2028-revisiting-our-judgments-01.png)
 

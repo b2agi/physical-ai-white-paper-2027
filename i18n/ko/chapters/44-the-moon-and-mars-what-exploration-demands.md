@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Beyond
 
-[English](../../../chapters/44-the-moon-and-mars-what-exploration-demands.md) · [한국어](44-the-moon-and-mars-what-exploration-demands.md) · [简体中文](../../zh-CN/chapters/44-the-moon-and-mars-what-exploration-demands.md) · [Español](../../es/chapters/44-the-moon-and-mars-what-exploration-demands.md) · [Français](../../fr/chapters/44-the-moon-and-mars-what-exploration-demands.md)
+[English](../../../chapters/44-the-moon-and-mars-what-exploration-demands.md) · [한국어](44-the-moon-and-mars-what-exploration-demands.md) · [简体中文](../../zh-CN/chapters/44-the-moon-and-mars-what-exploration-demands.md) · [Español](../../es/chapters/44-the-moon-and-mars-what-exploration-demands.md) · [Français](../../fr/chapters/44-the-moon-and-mars-what-exploration-demands.md) · [العربية](../../ar/chapters/44-the-moon-and-mars-what-exploration-demands.md)
 
 ![달과 화성: 탐사가 요구하는 것 — B2AGI](../../../assets/chapters/44-the-moon-and-mars-what-exploration-demands-01.png)
 

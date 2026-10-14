@@ -2,7 +2,7 @@
 
 B2AGI 피지컬 AI 백서 2027 · Capital
 
-[English](../../../chapters/25-revenue-margins-and-value-capture.md) · [한국어](25-revenue-margins-and-value-capture.md) · [简体中文](../../zh-CN/chapters/25-revenue-margins-and-value-capture.md) · [Español](../../es/chapters/25-revenue-margins-and-value-capture.md) · [Français](../../fr/chapters/25-revenue-margins-and-value-capture.md)
+[English](../../../chapters/25-revenue-margins-and-value-capture.md) · [한국어](25-revenue-margins-and-value-capture.md) · [简体中文](../../zh-CN/chapters/25-revenue-margins-and-value-capture.md) · [Español](../../es/chapters/25-revenue-margins-and-value-capture.md) · [Français](../../fr/chapters/25-revenue-margins-and-value-capture.md) · [العربية](../../ar/chapters/25-revenue-margins-and-value-capture.md)
 
 ![매출·마진·가치의 귀속 — B2AGI](../../../assets/chapters/25-revenue-margins-and-value-capture-01.png)
 

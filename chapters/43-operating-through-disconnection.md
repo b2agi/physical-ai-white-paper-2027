@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Beyond
 
-[English](43-operating-through-disconnection.md) · [한국어](../i18n/ko/chapters/43-operating-through-disconnection.md) · [简体中文](../i18n/zh-CN/chapters/43-operating-through-disconnection.md) · [Español](../i18n/es/chapters/43-operating-through-disconnection.md) · [Français](../i18n/fr/chapters/43-operating-through-disconnection.md)
+[English](43-operating-through-disconnection.md) · [한국어](../i18n/ko/chapters/43-operating-through-disconnection.md) · [简体中文](../i18n/zh-CN/chapters/43-operating-through-disconnection.md) · [Español](../i18n/es/chapters/43-operating-through-disconnection.md) · [Français](../i18n/fr/chapters/43-operating-through-disconnection.md) · [العربية](../i18n/ar/chapters/43-operating-through-disconnection.md)
 
 ![Operating Through Disconnection — B2AGI](../assets/chapters/43-operating-through-disconnection-01.png)
 

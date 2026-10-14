@@ -2,7 +2,7 @@
 
 B2AGI Libro blanco de la IA física 2027 · Physical
 
-[English](../../../chapters/19-comparing-china-america-and-korea.md) · [한국어](../../ko/chapters/19-comparing-china-america-and-korea.md) · [简体中文](../../zh-CN/chapters/19-comparing-china-america-and-korea.md) · [Español](19-comparing-china-america-and-korea.md) · [Français](../../fr/chapters/19-comparing-china-america-and-korea.md)
+[English](../../../chapters/19-comparing-china-america-and-korea.md) · [한국어](../../ko/chapters/19-comparing-china-america-and-korea.md) · [简体中文](../../zh-CN/chapters/19-comparing-china-america-and-korea.md) · [Español](19-comparing-china-america-and-korea.md) · [Français](../../fr/chapters/19-comparing-china-america-and-korea.md) · [العربية](../../ar/chapters/19-comparing-china-america-and-korea.md)
 
 ![Comparar China, Estados Unidos y Corea del Sur — B2AGI](../../../assets/chapters/19-comparing-china-america-and-korea-01.png)
 

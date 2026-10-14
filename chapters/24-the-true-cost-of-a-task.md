@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Capital
 
-[English](24-the-true-cost-of-a-task.md) · [한국어](../i18n/ko/chapters/24-the-true-cost-of-a-task.md) · [简体中文](../i18n/zh-CN/chapters/24-the-true-cost-of-a-task.md) · [Español](../i18n/es/chapters/24-the-true-cost-of-a-task.md) · [Français](../i18n/fr/chapters/24-the-true-cost-of-a-task.md)
+[English](24-the-true-cost-of-a-task.md) · [한국어](../i18n/ko/chapters/24-the-true-cost-of-a-task.md) · [简体中文](../i18n/zh-CN/chapters/24-the-true-cost-of-a-task.md) · [Español](../i18n/es/chapters/24-the-true-cost-of-a-task.md) · [Français](../i18n/fr/chapters/24-the-true-cost-of-a-task.md) · [العربية](../i18n/ar/chapters/24-the-true-cost-of-a-task.md)
 
 ![The True Cost of a Task — B2AGI](../assets/chapters/24-the-true-cost-of-a-task-01.png)
 

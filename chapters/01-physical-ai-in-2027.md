@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Intelligence
 
-[English](01-physical-ai-in-2027.md) · [한국어](../i18n/ko/chapters/01-physical-ai-in-2027.md) · [简体中文](../i18n/zh-CN/chapters/01-physical-ai-in-2027.md) · [Español](../i18n/es/chapters/01-physical-ai-in-2027.md) · [Français](../i18n/fr/chapters/01-physical-ai-in-2027.md)
+[English](01-physical-ai-in-2027.md) · [한국어](../i18n/ko/chapters/01-physical-ai-in-2027.md) · [简体中文](../i18n/zh-CN/chapters/01-physical-ai-in-2027.md) · [Español](../i18n/es/chapters/01-physical-ai-in-2027.md) · [Français](../i18n/fr/chapters/01-physical-ai-in-2027.md) · [العربية](../i18n/ar/chapters/01-physical-ai-in-2027.md)
 
 ![Physical AI in 2027 — B2AGI](../assets/chapters/01-physical-ai-in-2027-01.png)
 

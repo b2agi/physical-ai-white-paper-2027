@@ -2,7 +2,7 @@
 
 B2AGI Livre blanc de l’IA physique 2027 · Intelligence
 
-[English](../../../chapters/04-the-robot-learning-industry.md) · [한국어](../../ko/chapters/04-the-robot-learning-industry.md) · [简体中文](../../zh-CN/chapters/04-the-robot-learning-industry.md) · [Español](../../es/chapters/04-the-robot-learning-industry.md) · [Français](04-the-robot-learning-industry.md)
+[English](../../../chapters/04-the-robot-learning-industry.md) · [한국어](../../ko/chapters/04-the-robot-learning-industry.md) · [简体中文](../../zh-CN/chapters/04-the-robot-learning-industry.md) · [Español](../../es/chapters/04-the-robot-learning-industry.md) · [Français](04-the-robot-learning-industry.md) · [العربية](../../ar/chapters/04-the-robot-learning-industry.md)
 
 ![L’industrie de l’apprentissage robotique — B2AGI](../../../assets/chapters/04-the-robot-learning-industry-01.png)
 

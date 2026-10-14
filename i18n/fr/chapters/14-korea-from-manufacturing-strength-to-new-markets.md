@@ -2,7 +2,7 @@
 
 B2AGI Livre blanc de l’IA physique 2027 · Physical
 
-[English](../../../chapters/14-korea-from-manufacturing-strength-to-new-markets.md) · [한국어](../../ko/chapters/14-korea-from-manufacturing-strength-to-new-markets.md) · [简体中文](../../zh-CN/chapters/14-korea-from-manufacturing-strength-to-new-markets.md) · [Español](../../es/chapters/14-korea-from-manufacturing-strength-to-new-markets.md) · [Français](14-korea-from-manufacturing-strength-to-new-markets.md)
+[English](../../../chapters/14-korea-from-manufacturing-strength-to-new-markets.md) · [한국어](../../ko/chapters/14-korea-from-manufacturing-strength-to-new-markets.md) · [简体中文](../../zh-CN/chapters/14-korea-from-manufacturing-strength-to-new-markets.md) · [Español](../../es/chapters/14-korea-from-manufacturing-strength-to-new-markets.md) · [Français](14-korea-from-manufacturing-strength-to-new-markets.md) · [العربية](../../ar/chapters/14-korea-from-manufacturing-strength-to-new-markets.md)
 
 ![Corée du Sud : de la force industrielle aux nouveaux marchés — B2AGI](../../../assets/chapters/14-korea-from-manufacturing-strength-to-new-markets-01.png)
 

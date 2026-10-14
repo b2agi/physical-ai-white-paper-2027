@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Beyond
 
-[English](41-environmental-impact-and-public-value.md) · [한국어](../i18n/ko/chapters/41-environmental-impact-and-public-value.md) · [简体中文](../i18n/zh-CN/chapters/41-environmental-impact-and-public-value.md) · [Español](../i18n/es/chapters/41-environmental-impact-and-public-value.md) · [Français](../i18n/fr/chapters/41-environmental-impact-and-public-value.md)
+[English](41-environmental-impact-and-public-value.md) · [한국어](../i18n/ko/chapters/41-environmental-impact-and-public-value.md) · [简体中文](../i18n/zh-CN/chapters/41-environmental-impact-and-public-value.md) · [Español](../i18n/es/chapters/41-environmental-impact-and-public-value.md) · [Français](../i18n/fr/chapters/41-environmental-impact-and-public-value.md) · [العربية](../i18n/ar/chapters/41-environmental-impact-and-public-value.md)
 
 ![Environmental Impact and Public Value — B2AGI](../assets/chapters/41-environmental-impact-and-public-value-01.png)
 

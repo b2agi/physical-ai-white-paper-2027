@@ -2,7 +2,7 @@
 
 B2AGI 物理人工智能白皮书 2027 · Trust
 
-[English](../../../chapters/36-standards-certification-and-assurance.md) · [한국어](../../ko/chapters/36-standards-certification-and-assurance.md) · [简体中文](36-standards-certification-and-assurance.md) · [Español](../../es/chapters/36-standards-certification-and-assurance.md) · [Français](../../fr/chapters/36-standards-certification-and-assurance.md)
+[English](../../../chapters/36-standards-certification-and-assurance.md) · [한국어](../../ko/chapters/36-standards-certification-and-assurance.md) · [简体中文](36-standards-certification-and-assurance.md) · [Español](../../es/chapters/36-standards-certification-and-assurance.md) · [Français](../../fr/chapters/36-standards-certification-and-assurance.md) · [العربية](../../ar/chapters/36-standards-certification-and-assurance.md)
 
 ![标准、认证与可信保障 — B2AGI](../../../assets/chapters/36-standards-certification-and-assurance-01.png)
 

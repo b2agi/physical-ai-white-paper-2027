@@ -2,7 +2,7 @@
 
 B2AGI 物理人工智能白皮书 2027 · Intelligence
 
-[English](../../../chapters/06-from-demonstration-to-deployment.md) · [한국어](../../ko/chapters/06-from-demonstration-to-deployment.md) · [简体中文](06-from-demonstration-to-deployment.md) · [Español](../../es/chapters/06-from-demonstration-to-deployment.md) · [Français](../../fr/chapters/06-from-demonstration-to-deployment.md)
+[English](../../../chapters/06-from-demonstration-to-deployment.md) · [한국어](../../ko/chapters/06-from-demonstration-to-deployment.md) · [简体中文](06-from-demonstration-to-deployment.md) · [Español](../../es/chapters/06-from-demonstration-to-deployment.md) · [Français](../../fr/chapters/06-from-demonstration-to-deployment.md) · [العربية](../../ar/chapters/06-from-demonstration-to-deployment.md)
 
 ![从演示走向部署 — B2AGI](../../../assets/chapters/06-from-demonstration-to-deployment-01.png)
 

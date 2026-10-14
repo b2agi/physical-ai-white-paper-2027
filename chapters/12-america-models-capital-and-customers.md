@@ -2,7 +2,7 @@
 
 B2AGI Physical AI White Paper 2027 · Physical
 
-[English](12-america-models-capital-and-customers.md) · [한국어](../i18n/ko/chapters/12-america-models-capital-and-customers.md) · [简体中文](../i18n/zh-CN/chapters/12-america-models-capital-and-customers.md) · [Español](../i18n/es/chapters/12-america-models-capital-and-customers.md) · [Français](../i18n/fr/chapters/12-america-models-capital-and-customers.md)
+[English](12-america-models-capital-and-customers.md) · [한국어](../i18n/ko/chapters/12-america-models-capital-and-customers.md) · [简体中文](../i18n/zh-CN/chapters/12-america-models-capital-and-customers.md) · [Español](../i18n/es/chapters/12-america-models-capital-and-customers.md) · [Français](../i18n/fr/chapters/12-america-models-capital-and-customers.md) · [العربية](../i18n/ar/chapters/12-america-models-capital-and-customers.md)
 
 ![America: Models, Capital, and Customers — B2AGI](../assets/chapters/12-america-models-capital-and-customers-01.png)
 
