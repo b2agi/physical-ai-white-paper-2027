@@ -15,3 +15,12 @@ Recherche, fabrication, financement et assistance se trouvent souvent dans des l
 [Précédent](12-america-models-capital-and-customers.md) · [Sommaire](../README.md) · [Suivant](14-korea-from-manufacturing-strength-to-new-markets.md)
 
 [B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

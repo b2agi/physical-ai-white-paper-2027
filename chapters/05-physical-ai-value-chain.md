@@ -15,3 +15,12 @@ Behind one robot sits a network of component suppliers, model developers, integr
 [Previous](04-the-robot-learning-industry.md) · [Contents](../README.md) · [Next](06-from-demonstration-to-deployment.md)
 
 [B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../EDITION.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

@@ -15,3 +15,12 @@ Robot financing depends on who owns, operates, maintains, and can redeploy the e
 [Previous](26-reading-the-financial-statements.md) · [Contents](../README.md) · [Next](28-robot-assets-rwa-sto-and-tokenization.md)
 
 [B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edition & sources](../EDITION.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

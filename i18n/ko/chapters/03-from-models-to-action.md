@@ -17,3 +17,12 @@ B2AGI 피지컬 AI 백서 2027 · Intelligence
 [이전 장](02-choosing-the-right-body.md) · [목차](../README.md) · [다음 장](04-the-robot-learning-industry.md)
 
 [B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [판본·자료 안내](../../../EDITION.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

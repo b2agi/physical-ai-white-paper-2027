@@ -15,3 +15,12 @@ Un robot acheté pour la recherche ne répond pas au même besoin qu’un robot 
 [Précédent](10-china-s-industrial-clusters.md) · [Sommaire](../README.md) · [Suivant](12-america-models-capital-and-customers.md)
 
 [B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

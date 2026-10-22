@@ -1,5 +1,17 @@
 # B2AGI Physical AI White Paper 2027
 
+<!-- B2AGI EPAI INTRO -->
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence
+
+EPAI is an integrated intelligence framework proposed by B2AGI, connecting Embodied AI, Physical AI, and Agentic AI across technology, industry, capital, and governance.
+
+Explore B2AGI’s research, field notes, industry analysis, and multilingual publications.
+
+#B2AGI #EPAI #EmbodiedPhysicalAgenticIntelligence #EmbodiedAI #PhysicalAI #AIAgent #AgenticAI
+<!-- /B2AGI EPAI INTRO -->
+
+
 Illustrated chapter guide · Five parts · 46 chapters
 
 **Industry, Capital, Security & Global Cooperation**

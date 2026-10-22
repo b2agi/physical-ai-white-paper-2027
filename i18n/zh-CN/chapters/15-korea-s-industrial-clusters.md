@@ -15,3 +15,12 @@ B2AGI 物理人工智能白皮书 2027 · Physical
 [上一章](14-korea-from-manufacturing-strength-to-new-markets.md) · [目录](../README.md) · [下一章](16-manufacturing-and-logistics-where-automation-pays.md)
 
 [B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [版本与资料](../../../EDITION.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

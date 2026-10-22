@@ -2,6 +2,18 @@
 
 # الكتاب الأبيض للذكاء الاصطناعي المادي 2027 · B2AGI
 
+<!-- B2AGI EPAI INTRO -->
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence
+
+EPAI هو إطار متكامل للذكاء تقترحه B2AGI، يربط بين الذكاء الاصطناعي المتجسد والذكاء الاصطناعي الفيزيائي والذكاء الاصطناعي القائم على الوكلاء عبر التكنولوجيا والصناعة ورأس المال والحوكمة.
+
+اطّلع على أبحاث B2AGI وملاحظاتها الميدانية وتحليلاتها الصناعية ومنشوراتها متعددة اللغات.
+
+#B2AGI #EPAI #EmbodiedPhysicalAgenticIntelligence #EmbodiedAI #PhysicalAI #AIAgent #AgenticAI
+<!-- /B2AGI EPAI INTRO -->
+
+
 دليل مصوّر للفصول · خمسة أجزاء · 46 فصلاً
 
 <div dir="ltr" lang="en">

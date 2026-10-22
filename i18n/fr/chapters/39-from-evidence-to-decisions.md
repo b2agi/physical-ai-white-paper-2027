@@ -15,3 +15,12 @@ Les mêmes éléments peuvent éclairer des décisions différentes. Investisseu
 [Précédent](38-a-common-language-for-work-and-evidence.md) · [Sommaire](../README.md) · [Suivant](40-work-skills-and-the-automation-transition.md)
 
 [B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

@@ -15,3 +15,12 @@ Les centres de recherche et d’essai permettent de développer et de valider le
 [Précédent](14-korea-from-manufacturing-strength-to-new-markets.md) · [Sommaire](../README.md) · [Suivant](16-manufacturing-and-logistics-where-automation-pays.md)
 
 [B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Édition et sources](../../../EDITION.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

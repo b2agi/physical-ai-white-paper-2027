@@ -15,3 +15,12 @@ Saber qué sistema actúa no determina qué puede hacer. Una delegación fiable 
 [Anterior](33-industrial-sovereignty-national-security-and-cooperation.md) · [Índice](../README.md) · [Siguiente](35-the-regulatory-landscape.md)
 
 [B2AGI](https://b2agi.com/) · [Atlas](https://github.com/b2agi/physical-ai-ranking-2027) · [Edición y fuentes](../../../EDITION.md)
+
+
+<!-- B2AGI EPAI SIGNATURE -->
+---
+
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence  
+[Research & Publications](https://b2agi.com/) · [White Paper](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas](https://github.com/b2agi/physical-ai-ranking-2027)
+<!-- /B2AGI EPAI SIGNATURE -->

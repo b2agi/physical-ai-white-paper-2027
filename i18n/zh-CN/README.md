@@ -1,5 +1,17 @@
 # B2AGI 物理人工智能白皮书 2027
 
+<!-- B2AGI EPAI INTRO -->
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence
+
+EPAI 是 B2AGI 提出的综合智能框架，将具身智能、物理人工智能与智能体人工智能联系起来，从技术、产业、资本与治理的角度展开分析。
+
+探索 B2AGI 的研究、实地观察、产业分析与多语言出版物。
+
+#B2AGI #EPAI #EmbodiedPhysicalAgenticIntelligence #EmbodiedAI #PhysicalAI #AIAgent #AgenticAI
+<!-- /B2AGI EPAI INTRO -->
+
+
 白皮书图文导读 · 五部分 · 46章
 
 **产业、资本、安全与国际合作**

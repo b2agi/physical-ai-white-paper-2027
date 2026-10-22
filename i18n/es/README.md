@@ -1,5 +1,17 @@
 # B2AGI Libro blanco de la IA física 2027
 
+<!-- B2AGI EPAI INTRO -->
+**B2AGI | EPAI**  
+Embodied Physical Agentic Intelligence
+
+EPAI es un marco integrado de inteligencia propuesto por B2AGI que conecta la IA encarnada, la IA física y la IA agéntica a través de la tecnología, la industria, el capital y la gobernanza.
+
+Explore las investigaciones, notas de campo, análisis sectoriales y publicaciones multilingües de B2AGI.
+
+#B2AGI #EPAI #EmbodiedPhysicalAgenticIntelligence #EmbodiedAI #PhysicalAI #AIAgent #AgenticAI
+<!-- /B2AGI EPAI INTRO -->
+
+
 Guía ilustrada del libro blanco · Cinco partes · 46 capítulos
 
 **Industria, capital, seguridad y cooperación internacional**
