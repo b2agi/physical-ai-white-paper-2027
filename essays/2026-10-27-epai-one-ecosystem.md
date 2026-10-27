@@ -104,9 +104,11 @@ There is more to gain from that encounter than an exchange of what each person a
 
 At B2AGI, I am working on EPAI 2027 and the B2AGI World Atlas. I hope others will spend less time working through the confusion I experienced in Hangzhou, and more time discussing what they can build together and where they can invest.
 
-EPAI
+### EPAI
 
-One ecosystem. Across borders. In your language.
+# Embodied Physical Agentic Intelligence
+
+**One ecosystem. Across borders. In your language.**
 
 Henry Chan Jung · Builder, B2AGI
 
