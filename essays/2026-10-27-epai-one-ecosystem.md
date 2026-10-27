@@ -114,6 +114,6 @@ Henry Chan Jung · Builder, B2AGI
 
 The Reference Behind the Decision.
 
-#EPAI #B2AGI #EmbodiedAI #PhysicalAI #AgenticAI
+#EPAI #B2AGI #transoperability #EmbodiedAI #PhysicalAI #AgenticAI
 
 [Illustrated article on LinkedIn](https://www.linkedin.com/pulse/epai-embodied-physical-agentic-intelligence-b2agi-7a81c/)
