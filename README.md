@@ -14,6 +14,8 @@ One ecosystem. Across borders. In your language.
 
 [Research & publications](https://b2agi.com/) · [White paper chapter guide](https://github.com/b2agi/physical-ai-white-paper-2027) · [Industry Atlas & methodology](https://github.com/b2agi/physical-ai-ranking-2027)
 
+[Read Henry Chan Jung’s EPAI essay: One ecosystem. Across borders. In your language.](essays/2026-10-27-epai-one-ecosystem.md)
+
 #B2AGI #EPAI #EmbodiedPhysicalAgenticIntelligence #EmbodiedAI #PhysicalAI #AIAgent #AgenticAI
 <!-- /B2AGI EPAI INTRO -->
 
