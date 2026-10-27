@@ -16,7 +16,7 @@ One ecosystem. Across borders. In your language.
 
 [Read Henry Chan Jung’s EPAI essay: One ecosystem. Across borders. In your language.](essays/2026-10-27-epai-one-ecosystem.md)
 
-#B2AGI #EPAI #EmbodiedPhysicalAgenticIntelligence #EmbodiedAI #PhysicalAI #AIAgent #AgenticAI
+#B2AGI #EPAI #transoperability #EmbodiedPhysicalAgenticIntelligence #EmbodiedAI #PhysicalAI #AIAgent #AgenticAI
 <!-- /B2AGI EPAI INTRO -->
 
 
