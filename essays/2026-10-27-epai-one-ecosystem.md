@@ -6,13 +6,13 @@ At an ITU meeting on Embodied AI in Hangzhou, I actively participated in WG5's d
 
 During a conversation with Chinese AI experts, I used an expression I was familiar with: Physical AI. A few of them found the term unfamiliar.
 
-I was surprised. In Korea, I had often heard it used by government and business leaders discussing the future of robotics and manufacturing. Then I remembered my own first encounter with the Chinese term 具身智能. The English translation, Embodied Intelligence, helped me understand the field it referred to.
+I was surprised. In Korea, I had often heard it used by government and business leaders discussing the future of robotics and manufacturing. Then I remembered my own first encounter with the Chinese term 具身智能 (Embodied AI). I needed it explained before I understood the field it referred to.
 
 If people working in these fields need time to explain their terms to one another, what happens to those who have to invest in the technology and make policy decisions?
 
 One ecosystem.
 
-In China, I often heard 具身智能 and Embodied AI. In Korea, Physical AI was familiar to government and business. In the American technology and finance conversations I encountered, Agentic AI came up frequently.
+In China, I often heard Embodied AI. In Korea, Physical AI was familiar to government and business. In the American technology and finance conversations I encountered, Agentic AI came up frequently.
 
 The three expressions draw attention to different things. Embodied AI considers how intelligence learns and acts through a body and its environment. Physical AI focuses on intelligence operating in the physical world, in places such as factories and on roads. Agentic AI focuses on AI using software and tools to pursue goals and carry out work.
 
@@ -38,13 +38,13 @@ The Korean representative says, “The applications of Physical AI in China are 
 
 The Chinese representative asks, “What do you mean by Physical AI?”
 
-The Korean representative describes intelligent machines used in factories and logistics. The Chinese representative asks whether this relates to 具身智能.
+The Korean representative describes intelligent machines used in factories and logistics. The Chinese representative asks whether this relates to Embodied AI.
 
-Now the Korean representative has a question: “具身智能? Is that the same as Physical AI?”
+Now the Korean representative has a question: “Embodied AI? Is that the same as Physical AI?”
 
 Both sides explain the scope of the terms they use and look at policy documents and company examples. They then discuss where they might cooperate, which companies and research institutions to bring together, and who would invest in and operate the projects.
 
-If they use EPAI as a common agenda while preparing for the meeting, both sides can place their materials together. They can identify what China's 具身智能 and Korea's Physical AI each cover, then find the sites and companies that interest them both.
+If they use EPAI as a common agenda while preparing for the meeting, both sides can place their materials together. They can identify what China's Embodied AI and Korea's Physical AI each cover, then find the sites and companies that interest them both.
 
 Keeping a record of the discussion and the scope of the terms gives them something to bring to their next meeting. It also makes it easier to bring new participants into the conversation.
 
@@ -54,9 +54,9 @@ Now consider a mayor preparing a city for the AI era.
 
 The mayor wants local businesses to make use of new technology and wants universities and companies to find opportunities to work together. An adviser is asked to research examples from other countries.
 
-The materials include Korean Physical AI policies and company announcements. Chinese sources discuss 具身智能. American companies and investment reports refer to Agentic AI.
+The materials include Korean Physical AI policies and company announcements. Chinese sources discuss Embodied AI. American companies and investment reports refer to Agentic AI.
 
-The adviser presents the terms and examples in turn: what Physical AI means, what 具身智能 covers, and what services Agentic AI companies are developing.
+The adviser presents the terms and examples in turn: what Physical AI means, what Embodied AI covers, and what services Agentic AI companies are developing.
 
 The mayor asks, “Are these the same thing, or are they different?”
 
@@ -66,7 +66,7 @@ The mayor wants to know which industry to start with and where to allocate the b
 
 Using EPAI as a common heading, the adviser could start this way:
 
-“Mayor, today's report is on EPAI. We have looked at China's 具身智能, what Korea calls Physical AI, and Agentic AI in software. I will explain how these technologies could be used in our city's industries and services.”
+“Mayor, today's report is on EPAI. We have looked at China's Embodied AI, what Korea calls Physical AI, and Agentic AI in software. I will explain how these technologies could be used in our city's industries and services.”
 
 The adviser then proposes preparing a site where local logistics companies can test new systems. University researchers and developers could take part, with businesses in the industrial district joining the trials. If overseas companies are invited, the city will also need to settle operating costs, access to site data and security conditions.
 
@@ -96,7 +96,7 @@ I think something similar is happening in conversations about AI. Researchers, m
 
 EPAI is a name I propose for understanding that wider world together, starting with the part each of us knows. It describes an ecosystem of intelligence and technology, people and industry, capital and institutions.
 
-Chinese researchers can continue to use 具身智能. Korean manufacturers can speak of Physical AI, and software companies can discuss Agentic AI. Each can use the language that best describes their work.
+Chinese researchers can continue to use Embodied AI. Korean manufacturers can speak of Physical AI, and software companies can discuss Agentic AI. Each can use the language that best describes their work.
 
 When they meet to build a business or discuss investment and policy, they can also look at where their knowledge belongs in the same ecosystem.
 
